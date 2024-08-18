@@ -2,18 +2,15 @@
     "windows": {
         "bundle_name": "5AM2NY4CRRSELX2HICVNVKWHA2PGY6J2"
     },
-    "android": {
-        "bundle_name": "6GK4PRRFNQSFPHKXVEJZXJXRYKJGYYOE"
-    },
     "data": {
         "motion_parameter_list": {
             "4": {
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": 3.025,
-                            "y": -0.025,
-                            "z": 0
+                            "x": 0.02500000037252903,
+                            "y": -3.0,
+                            "z": 0.0
                         }
                     }
                 }
@@ -21,14 +18,19 @@
             "6": {
                 "text_param_list": {
                     "0": {
-                        "text": "left"
+                        "text": "Left"
                     }
                 }
             },
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "Turns"
+                        "text": "Turns",
+                        "position_offset": {
+                            "x": 3.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
                     }
                 }
             },
@@ -42,7 +44,12 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "Concert\nafter turn"
+                        "text": "Concert\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
                     }
                 }
             },
@@ -50,9 +57,9 @@
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": -7,
-                            "y": -0.025,
-                            "z": 0
+                            "x": 8.0,
+                            "y": -0.02500000037252903,
+                            "z": 0.0
                         }
                     }
                 }
@@ -60,19 +67,14 @@
             "16": {
                 "text_param_list": {
                     "0": {
-                        "text": "turn(s)",
-                        "position_offset": {
-                            "x": -1.975,
-                            "y": 0,
-                            "z": 0
-                        }
+                        "text": "Left"
                     }
                 }
             },
             "17": {
                 "text_param_list": {
                     "0": {
-                        "text": "Concert after:"
+                        "text": "Concert Start"
                     }
                 }
             }
