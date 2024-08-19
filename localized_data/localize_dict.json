@@ -1436,5 +1436,7 @@
     "Race0187": "Yielding",
     "Race0188": "Soft",
     "Race0189": "Heavy",
-    "Jikkyo0012": "{0}"
+    "Jikkyo0012": "{0}",
+    "Jikkyo0026": "leads with {0} lengths!",
+    "Jikkyo0027": "is leading by {0} lengths."
 }
