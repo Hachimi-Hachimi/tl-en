@@ -1437,6 +1437,6 @@
     "Race0188": "Soft",
     "Race0189": "Heavy",
     "Jikkyo0012": "{0}",
-    "Jikkyo0026": "leads with {0} lengths!",
-    "Jikkyo0027": "is leading by {0} lengths."
+    "Jikkyo0026": "leads with $(plural {0} '$ length' '$ lengths')!",
+    "Jikkyo0027": "is leading by $(plural {0} '$ length' '$ lengths')."
 }
