@@ -1,9 +1,6 @@
 {
     "windows": {
-        "bundle_name": "4BN4I7TGPJWMMZMYMHMFHEL7WCJQ6BZ6"
-    },
-    "android": {
-        "bundle_name": "DSV6RQU6D7DABMPV4SAM5JN6ETJTRJPV"
+        "bundle_name": "ZGGFDJAMLY5QMDAUFURYVHTOBUD6UWYU"
     },
     "data": {
         "motion_parameter_list": {
@@ -47,7 +44,23 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "U.A.F. match\nafter turn",
+                        "text": "SWBC race\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
+                    },
+                    "1": {
+                        "text": "WBC race\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
+                    },
+                    "2": {
+                        "text": "GUR race\nafter turn",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -77,7 +90,7 @@
             "17": {
                 "text_param_list": {
                     "0": {
-                        "text": "U.A.F. Match"
+                        "text": "GUR Race"
                     }
                 }
             }

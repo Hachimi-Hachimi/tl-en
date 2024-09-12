@@ -17,14 +17,19 @@
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "left"
+                        "text": "Left"
                     }
                 }
             },
             "8": {
                 "text_param_list": {
                     "0": {
-                        "text": "Turns"
+                        "text": "Turns",
+                        "position_offset": {
+                            "x": -4.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
                     }
                 }
             }
