@@ -1,0 +1,168 @@
+{
+    "text_block_list": [
+        {
+            "name": "Commercial Narrator",
+            "text": "In the heyday of steam engines, soot and smoke billowed from steel-covered cities."
+        },
+        {
+            "name": "Commercial Narrator",
+            "text": "The people — enjoying technology's innovations — grew complacent, forgetting their grand dreams before long."
+        },
+        {
+            "name": "Commercial Narrator",
+            "text": "Greatly influence the story with your Job Skills. Or tackle the Hard Mode with no skills but your own!"
+        },
+        {
+            "name": "Commercial Narrator",
+            "text": "Weave your own dream story in the VR RPG \"Wings of Iron: Hazy Tales\"."
+        },
+        {},
+        {
+            "name": "Winning Ticket",
+            "text": "Uoooh! Our commercial's on the official site now! Amazing! It looks like a real commercial!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmmph……… It looks alright I guess."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Heheh, looks like Taishin likes it too. Let's watch it again, Ticket."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh!? Hold…… We don't need to!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Come ooon let's go play already! We have early access or whatever, right?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey everyone! I have a suggestion!! Why don't we play it on the Umalator?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I know it's a race simulator, but it plays some affiliated online games as well, right?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Come to think of it, Board Chair Akikawa did say that. Nice. The Umalator can replicate scents and wind and everything. Such immersion should lead to a great experience."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Wooaaaah! Sounds cool! I like that! Let's go already! Get in the Umalator, Taishin!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "First up, job selection! I'll of course be a Courier like in the commercial! Its job skill is \"Aircraft Piloting\"!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "A tradesman who delivers thoughts and feelings, no matter how far and difficult the destination! Oooh, the passiooooon!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, Taishin, you're gonna be a \"Mechanical Engineer\"? You looked good as one in the commercial!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "During the shoot they praised you for the scene where you're tinkering with machines too! It looked like you were really used to tightening bolts and stuff, it was so cool!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That's not why I……! I just chose it because of this setting, and machine skills sound useful in the game!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Chef, Mechanical Designer, Booster… Hmmmm…… There are so many jobs to choose from I'm getting lost……"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'll go for the \"hard mode\" with no job! Sounds more fun!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hard mode!? Then Turbo will hard mode too!! All done! <i>START</i>!!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hey!? Ahh…!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Here we are, in \"Wings of Iron: Hazy Tales\"……! Whoaaaaa……!! I can smell the smoke and machines!!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, it's someone from the city! I wonder if she's traveling, carrying that bag!? Look at her clothes…! Woaaah!? Look at <i>my</i> clothes!! They're from the game!!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh my goodness! It's a courier outfit!! Woah, you too, Taishin! Uoooooohh～～～～!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Calm down… You saw them enough during the commercial. Look at the new jobs inste—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…… Uh, Hayahide? That outfit……"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…… Ah. I think I missed out on job selection. I'm still in uniform…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Weh!? Hayahide's in hard mode too! Is that what happens when you don't pick a job?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Auu～…… sorry!! Turbo pressed start after picking a job……!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No problem, Turbo. I can handle a little difficulty."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I-is that so…? Ehehe. Turbo's on hard mode too so let's do our bestest, Hayahide!!!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "There's an \"EX Job Change\" that allows you to use a job skill once! And, well, I'm here, aren't I? So don't worry, I'll handle it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Let's see, the end goal is to… \"Accomplish your mission\"! But the details are blank, so maybe we learn later?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I see, information displays like this… I can tell you're familiar with games. Things should go smoothly with Teio around."
+        },
+        {
+            "name": "Game NPC",
+            "text": "Uuugh…………"
+        },
+        {
+            "text": "(Thud!!)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wahh!? Someone just……!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, can you hear me?! Are you hurt anywhere?!"
+        },
+        {
+            "name": "Game NPC",
+            "text": "…… I'm… so… h-…… hungry……"
+        },
+        {
+            "name": "All 5",
+            "text": "……… What?"
+        }
+    ]
+}

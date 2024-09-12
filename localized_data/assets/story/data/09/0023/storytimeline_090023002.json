@@ -1,0 +1,176 @@
+{
+    "text_block_list": [
+        {
+            "name": "Katsuragi Ace",
+            "text": "The student council's making a new pamphlet? I don't really get it, but I'll try to help out!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Thanks. I know I just asked for your help, but what do you think of when I say a \"livelier side of the student council?\""
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I'm guessing that it will be more fun, but honestly, I don't really have a specific idea in mind."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "Hmmm. Well, wouldn't it at least have more races?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "… Ha ha. That's a very you answer. Sure."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "Really? Did I actually get it right?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Do you have any ideas other than races?"
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "That wasn't it? Other than races? Hmmm? Well, I'm not the best outside of racing…"
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "But I mean, aren't there lots of ways to be \"high-spirited\"? Like, you know how you would want to relax in a different spot depending on the situation?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "\"Spots,\" you say? That might work. A \"high-spirit spot\" sounds like an interesting idea."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "I see! If you ask some others about something like that I'm sure a lot of people will have a place in mind."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Yeah, yeah! In that case…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And that's everyone you've gathered. But still, I wasn't expecting you to work so quickly in just two days."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "It's always best to be ahead of the game, right? Well, it was all for making the pamphlet."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "Turbo and Nature, thanks for agreeing to work with us! I know you just joined, but let's give it our all!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Yay! Let's all go on a tour of all the spots around here!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "H-how did I get dragged into this!? I just happened to be walking around with Turbo!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Still, with the president, C.B., and Ace all here. This is quite an impressive group to say the least…"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Well, let's head out. There're quite a few high-spirit spots to check out."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Me, me, me! I wanna pick! I wanna pick the first spot!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Take this and this and this! Yeah, I'm the best!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Come on! Can you at least shoot some of the enemies besides the boss, Turbo!? Oh, Ms. Rudolf, can you take the ones on the right?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Understood! It would appear we are surrounded on all fronts. The battlefield truly is a cruel mistress."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ha ha. Rudolf is pretty into this. This is new."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "Oh, they're so close to winning. Go, go!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Yes! We beat the whole game!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whew. Well, someone's excited. But still, can we even put something like the arcade in the pamphlet?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's fine. Seeing Turbo in such high spirits, to her, this fit the criteria perfectly."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "You see, I've been giving it my all at training and at races! Afterwards, I get super tired and come here!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I have so much fun playing around that I can feel my engine heat up! And then I'm all like whoosh when I run!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Play! Have fun! Race! Play again! That's the Turbo way: the ultimate high-spirited loop!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I see. You've been quite active haven't you. Well, in any case, I will choose the next location."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But man, we went all the way from the arcade to the museum. I really can't guess what we're going to do next…"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Yes, the gap between the two locations is quite large. But still, it seems everyone is enjoying themselves."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "Honestly, at first, I thought, \"Really? Studying?\" But, Rudolf, having you there to help explain things made everything a lot easier to understand."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "The horsegirls of old were something else! Still, if we raced, I'd beat them though."
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "I totally get what you mean! Especially \"The Escape Specialists That Made History\" exhibition. Just reading their victory interviews gave me chills!"
+        },
+        {
+            "name": "Katsuragi Ace",
+            "text": "I want to be just like them and make a name for myself… Alright, that got me fired up!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Me too, me too! Let's become legendary escape specialists!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm glad to see you two were so moved. I get the same feeling every time I come here too."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The horsegirls immortalized in history motivate me to continue running. Perhaps they too are what give me life."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "So, we've been to the arcade and the museum. Might as well continue this variety trend we've got here."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "In that case, umm, if you don't mind, I would like to show everyone my spot."
+        }
+    ]
+}

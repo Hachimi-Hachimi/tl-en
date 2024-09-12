@@ -1,0 +1,121 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Haaa-ha-ha-ha―!!!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I won, Trainer! 1800 meters, in a flash!!",
+            "choice_data_list": [
+                "You're amazing, Bakushin O!",
+                "You're amazing, Bakushin O!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes, it's all because I'm amazing!! I won because I'm amazing!!!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now they know that my speed is good enough for any race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, Trainer, about the next race, the Satsuki Sho――",
+            "choice_data_list": [
+                "Seriously, you're amazing!",
+                "Seriously, you're amazing!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eh, indeed!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course, I'm amazing! So, the next Satsuki Sho――",
+            "choice_data_list": [
+                "Your \"speed\" is truly spectacular!!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course it is!! Speed is the very mark of a class president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Taking advantage of the very same speed that won this Spring Stakes, the Satsuki Sho―",
+            "choice_data_list": [
+                "I want to train you, more and more!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eh!",
+            "choice_data_list": [
+                "To undoubtedly make sure you win every single race!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No matter what the race, undoubtedly…!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "By undoubtedly, in other words, you mean 100%. The same probability as the fact that I'm the class president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To sum it up… this means that if I enter a race, I'll 100% win it!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If I train my speed more than I already do, will that be possible!?",
+            "choice_data_list": [
+                "……Yeah!",
+                "……Yeah!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Understood!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll work on my speed even more! The class president who must be a role model, must win!",
+            "choice_data_list": [
+                "Then, next up, the Aoi Stakes!",
+                "Then, next up, the Aoi Stakes!"
+            ]
+        },
+        {
+            "text": "It's a lower grade, but a 1200 meter race that should be a steady winner."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait, the Aoi Stakes?",
+            "choice_data_list": [
+                "The best way to train your speed \nis through real combat!"
+            ],
+            "color_text_info_list": [
+                "Aoi Stakes"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now that you mention it!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Understood! Let's work on my speed in real combat!!"
+        },
+        {
+            "text": "Thus, our next target race was decided to be the Aoi Stakes!"
+        }
+    ]
+}

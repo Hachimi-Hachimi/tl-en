@@ -1,0 +1,219 @@
+{
+    "text_block_list": [
+        {
+            "text": "The Horse Girls will be running the Selection Race. I wonder what kind of Horse Girl I will meet, thus I’m heading to the venue with expectations…"
+        },
+        {
+            "name": "Gold City",
+            "text": "It’s okay… I did my training properly. I can definitely win. I’ll win. With my legs…"
+        },
+        {
+            "text": "I saw that Gold City was scheduled to run. She was encouraging herself and seemed nervous…",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "He!? Ha? What’s all of a sudden… Who are you? Those clothes… A trainer of Tracen Academy?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I’m sorry, but if you want to talk to me, I’ll do it after the Selection Race. Other than that, pass."
+        },
+        {
+            "text": "After treating me coldly, Gold City left the place…"
+        },
+        {
+            "text": "Anyway, we’re finally in the middle of the Selection Race that started, and when I looked at the next race entry tableー"
+        },
+        {
+            "name": "Trainers",
+            "text": "Woah, beautiful…! Look at that girl…! Is she the rumored!? "
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "Um… A-Are you by any chance…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Yes, do you mean me?"
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "I knew it! You’re the model City-chan, right? I’ve seen you in magazines before, but you’re really beautiful~…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ah-… Thank you so much."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Well, if there is such a flower appearing, I will look forward to the race~. Good luck, City-chan!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yes. I will do my best to make you charmed by my run."
+        },
+        {
+            "text": "After the such a commotion, the race startedー"
+        },
+        {
+            "name": "Commentator",
+            "text": "Gold City, can’t rise from behind! Last 400m! Is this too tough!?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh… heh… don’t screw around…! I am! I can still go…! "
+        },
+        {
+            "name": "Commentator",
+            "text": "ーGoal!!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh, heh… heh… 5th place, huh… damn it."
+        },
+        {
+            "text": "Gold City had a great run at the end, unfortunately, she could not leave a good result…"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Hmm, there was something shining on the last leg, but overall it was mediocre, just another level. Well, it’s often that model-work and racing do not go up together. "
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "More importantly her running form! The tail flower's chestnut hair fluttering in the wind, it was beautiful. Well, I saw something good!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Tch. "
+        },
+        {
+            "text": "Gold City walked away in silence, that face that seemed to be filled with regret, left a little impression on me…"
+        },
+        {
+            "text": "While I was walking along the riverbed while thinking back about the Selection Race at the dusk of that dayー"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, City, time-time~!! Seriously bad~!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh… heh… What is it, Jordan, are you already tired?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No, I was hurt too… But City, aren’t your legs pretty tired too? You had a race too, you shouldn’t overdo it~."
+        },
+        {
+            "name": "City's Manager",
+            "text": "…City, Jordan-san is right."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wow, you’re here!? You scared me~…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Manager… What is it, you were watching?"
+        },
+        {
+            "name": "City's Manager",
+            "text": "If you do more, it will resonate with tomorrow’s work. What will you do if you fall and get injured with such a flimsy run?"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Yes-yes. I won’t hurt your tools. "
+        },
+        {
+            "name": "City's Manager",
+            "text": "City… Please understand. I’m doing it for your sake. "
+        },
+        {
+            "name": "City's Manager",
+            "text": "I’ve chosen the one that suits your image best for the next job. Cool and composed, and gorgeousー"
+        },
+        {
+            "name": "Gold City",
+            "text": "… I’m doing my job properly!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You’ve taken care of me, and I’m grateful to you. Because that is my job, I won’t say that I’m quitting my model-work right now."
+        },
+        {
+            "name": "Gold City",
+            "text": "But, I want to run and train! I tell you every time just “don’t get in the way” right!?"
+        },
+        {
+            "name": "City's Manager",
+            "text": "…From the beginning I said “I’m against it”. City, you don’t really know what you’re worth…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ha!? Value!? That’s not my valueー"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Shoot!! I’m really craving some stew~!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Because~, you keep saying City-City all the time. Don’t City and stew sound kind of similar? It made me hungry~."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "With that, manager-san. Can we go to get some food~?"
+        },
+        {
+            "name": "City's Manager",
+            "text": "…I understand. Then, I have another meeting to prepare for tomorrow… City, be careful not to get injured."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…She’s gone? Ha~, that was bad~. Manager-san is the same as ever~."
+        },
+        {
+            "name": "Gold City",
+            "text": "Sigh… Sorry, Jordan. You saved me, thank you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ehehe! City honestly saying “Thank you”, hilarious✰"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Also, I’m serious about being hungry. Shall we go get dinner soon?"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Sorry. I’m going to run a little more. Go ahead."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For real~? I see~. Don’t overdo it, okay? Well then, see ya later~."
+        },
+        {
+            "name": "Gold City",
+            "text": "…Alrighty Let’s do it."
+        },
+        {
+            "name": "Gold City",
+            "text": "It’s not just about looking at me. I'm not an empty dollー"
+        },
+        {
+            "name": "Gold City",
+            "text": "Because I will become my own person…!"
+        },
+        {
+            "text": "Sweaty and tense, she runs while basking in the sun, she was prettier than any Horse Girl I’ve ever seen…"
+        }
+    ]
+}

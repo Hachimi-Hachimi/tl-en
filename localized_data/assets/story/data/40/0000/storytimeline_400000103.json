@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "Haahahahaha! I've been waiting for you, trainer <username>!"
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "The look on her face as she takes on the final… Mmm! She's practically glowing with motivation."
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "Excellent! Then I have but one thing to say."
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "Believe in the strength of your horse girl, and grasp victory together!",
+            "choice_data_list": [
+                "Yes…!"
+            ]
+        },
+        {
+            "text": "The gate to the finals of the URA Finals is finally open!"
+        }
+    ]
+}

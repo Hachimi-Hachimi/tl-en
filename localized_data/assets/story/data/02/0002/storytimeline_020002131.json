@@ -1,0 +1,237 @@
+{
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "Heh… Heh… Heh… Heh…!"
+        },
+        {
+            "text": "Whenever she ran she couldn't win. Still, Rice continued her training without taking a rest."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Rice is really amazing, Even when losing, she desperately continues to run like this."
+        },
+        {
+            "text": "That's it, I want to make her win somehow."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Excuse my intrusion."
+        },
+        {
+            "text": "Eh. McQueen!?"
+        },
+        {
+            "text": "This is sudden. After leaving the team, Mejiro McQueen came to training."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rice-san, it seems she didn't do good in the last race, how is she feeling?"
+        },
+        {
+            "text": "She has a lot of feelings for the race and already did a lot of training, but for some reason we are not getting results."
+        },
+        {
+            "text": "She has a lot of feelings for the race and already did a lot of training, but for some reason we are not getting results."
+        },
+        {
+            "text": "She doesn't have the same spirit like when she ran with Mihono Bourbon or McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I see."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The Rice-san now, might not have a goal to follow."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "On the other hand, it means that if she sets a firm goal to follow then she can run the same as before."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So that's why… I'm going to change my clothes.",
+            "choice_data_list": [
+                "What, McQueen is running too?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm here today for that."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I have not finished my work yet, but I can still make some time."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "And, I couldn't stand waiting to run with everyone on the team again"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But before that, please listen to this one request."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "McQueen-san!? And…!!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I was called suddenly, to lend my power."
+        },
+        {
+            "text": "To also run together with Mihono Bourbon. That was Mejiro McQueen's request."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I was also waiting for Rice-san to play an active role. To win let's work hard."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon-san… Thank you for doing that for Rice!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Then, just like before, please follow behind me and Bourbon-san."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, I will Follow McQueen-san and Bourbon-san!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, but it's okay even if you do not follow up involving your private life. This time, please be within the range of common sense"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then! I'll chase Rice from behind! If i catch up, I'll pull your tail!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heee～!?"
+        },
+        {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "We will help too!"
+        },
+        {
+            "name": "Droopy-eyed Horsegirl",
+            "text": "Well then, I will take turns taking the pacemakers!"
+        },
+        {
+            "name": "Horsegirl with Black Bob-cut",
+            "text": "Yeah, Let's all do our best!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rice-san, the way you work hard and your strong heart. It has become a great support for us."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Please show me once more. Your run that won over me and Bourbon-san."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, I got it!"
+        },
+        {
+            "text": "Team that continues to “inherit” their feelings…"
+        },
+        {
+            "text": "Pushed in the back by fellow teammates, Rice Shower once again leads in the “Emperor Award” in the spring."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "hey hey, Trainer-san. If I win, you will invite me to a famous amusement park, right?"
+        },
+        {
+            "text": "For that reason, I saved so much until today."
+        },
+        {
+            "text": "For that reason, I saved so much until today."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Haha… But Rice likes the amusement park near here."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It's fun anywhere with Trainer and everyone on the team. I'm happy to see everyone's smile, and Rice is also happy to smile."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That's why, in order to make everyone smile, will do my best to win today's race.",
+            "choice_data_list": [
+                "I'm expecting you, Rice!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, I will be going!"
+        },
+        {
+            "text": "The small body ran though the vast green turf."
+        },
+        {
+            "name": "Commentator",
+            "text": "Rice Shower! Rice Shower is here! Pushing up and taking the lead!"
+        },
+        {
+            "text": "Even though the desire to win was about to disappear, she continued to run."
+        },
+        {
+            "name": "Commentator",
+            "text": "Rice Shower is not giving up the lead! She is not giving up! And now the goal!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Rice Shower won the Springs “Emperor Award” again!!"
+        },
+        {
+            "text": "And then, that feeling is passed from person to person."
+        },
+        {
+            "name": "Spectator A",
+            "text": "After losing again and again while limiting various work, and finally wins at last."
+        },
+        {
+            "name": "Spectator A",
+            "text": "For real, you made us wait for too long!! Rice, congratulations!!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "You did your best! Amazing!!"
+        },
+        {
+            "name": "Crowd",
+            "text": "(Cheersーー!!!!!)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heh…? Hah… Hah…!?"
+        },
+        {
+            "name": "Commentator",
+            "text": "The cheers are huge!! The crowd that fills the stands is honoring Rice Shower!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Everyone is… Everyone's happy… They are smiling!"
+        },
+        {
+            "text": "No matter how hard she felt, no matter how many times she lost, she continued to challenge herself."
+        },
+        {
+            "text": "When such efforts bear fruit, she became a Horse Girl who was blessed and loved by everyone."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Everyone, Thank you!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rice, will continue to run forever…! Keep running and make everyone smile!"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "text_block_list": [
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Congratulations on qualifying!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "It's hard to believe that this was just a qualifying round, but it was a great, heated race!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Next up is the semifinals, where you will face the others powerful enough to make it through. It will surely be an even tougher race.",
+            "choice_data_list": [
+                "And we'll win that too!"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Yes! I'm looking forward to your continued success!"
+        }
+    ]
+}

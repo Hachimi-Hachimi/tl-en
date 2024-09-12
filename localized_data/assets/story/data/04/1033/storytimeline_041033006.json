@@ -1,174 +1,174 @@
 {
     "text_block_list": [
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "<i>If only you were here…</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>If only you were here…</i>"
         },
         {
-            "text": "<i>I've had that thought so many times.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>I've had that thought so many times.</i>"
         },
         {
-            "text": "<i>But I know that you'll always be \ninside of me, that you'll never disappear.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>But I know that you'll always be inside of me, that you'll never disappear.</i>"
         },
         {
-            "text": "<i>That's because even if I can't hear your voice, even if I can't \nsee your body, I can still feel you.</i> <i>I can feel you and your \nprecious thoughts.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>That's because even if I can't hear your voice, even if I can't see your body, I can still feel you.</i> <i>I can feel you and your precious thoughts.</i>"
         },
         {
-            "text": "<i>Even under this beautiful starry sky, I know you're…</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>Even under this beautiful starry sky, I know you're…</i>"
         },
         {
-            "text": "We look forward to seeing you again. \nThe next projection will begin at…",
-            "name": "PA System"
+            "name": "PA System",
+            "text": "We look forward to seeing you again. The next projection will begin at…"
         },
         {
-            "text": "The planetarium. I knew she loved the stars, so I came here \nto learn more so that we would have something to talk about.",
+            "text": "The planetarium. I knew she loved the stars, so I came here to learn more so that we would have something to talk about.",
             "choice_data_list": [
                 "That was so beautiful…"
             ]
         },
         {
-            "text": "I enjoyed it more than I thought I would. I figured this was a \ngood time to learn more about the stars. So I went to the gift \nshop, looking for some picture books to help my study, when…"
+            "text": "I enjoyed it more than I thought I would. I figured this was a good time to learn more about the stars. So I went to the gift shop, looking for some picture books to help my study, when…"
         },
         {
-            "text": "Ah…",
             "name": "Admire Vega",
+            "text": "Ah…",
             "choice_data_list": [
                 "So you came too, Ayabe?"
             ]
         },
         {
-            "text": "I always come here… \nBut why are you here?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "I always come here… But why are you here?"
         },
         {
-            "text": "Did you come to look at the stars?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Did you come to look at the stars?"
         },
         {
-            "text": "Admire Vega asked me a question. \nIt's rare to see her try to have a conversation.",
+            "text": "Admire Vega asked me a question. It's rare to see her try to have a conversation.",
             "choice_data_list": [
-                "<size=41>I thought I'd learn more about the stars.</size>"
+                "I thought I'd learn more about the stars."
             ]
         },
         {
-            "text": "Why…? Are you interested in the stars?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Why…? Are you interested in the stars?"
         },
         {
-            "text": "As expected, the conversation is still going! I can't \nwaste this chance. I need to come up with something witty…",
+            "text": "As expected, the conversation is still going! I can't waste this chance. I need to come up with something witty…",
             "choice_data_list": [
                 "It's because I love you!"
             ]
         },
         {
-            "text": "…What?",
             "name": "Admire Vega",
+            "text": "…What?",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
+            "name": "Admire Vega",
             "text": "Wh-What are you… saying…?",
-            "name": "Admire Vega",
             "choice_data_list": [
-                "<size=37>Ah, no I meant… \nYou know, stars! The stars!</size>"
+                "Ah, no I meant… \nYou know, stars! The stars!"
             ]
         },
         {
-            "text": "In my haste, I ended up saying something weird. I hurriedly \ncorrected myself, stating that \"it's because you love the stars.\""
+            "text": "In my haste, I ended up saying something weird. I hurriedly corrected myself, stating that \"it's because you love the stars.\""
         },
         {
-            "text": "Ah… I get it now. Next time think before you speak.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Ah… I get it now. Next time think before you speak."
         },
         {
-            "text": "But, just because I love the stars doesn't \nmean that you have to as well, you know?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "But, just because I love the stars doesn't mean that you have to as well, you know?"
         },
         {
-            "text": "I get it. Since you're my trainer, \nyou're trying to meet me halfway, right?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "I get it. Since you're my trainer, you're trying to meet me halfway, right?"
         },
         {
-            "text": "But I don't want that… nor do I need it.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "But I don't want that… nor do I need it."
         },
         {
-            "text": "I've said this many times before, but I'm fine being alone. I \ndon't need friends, I don't need someone to console me, and I \ndon't need people to be nice to me.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "I've said this many times before, but I'm fine being alone. I don't need friends, I don't need someone to console me, and I don't need people to be nice to me."
         },
         {
-            "text": "Racing and winning are my burdens to bear, \nno one else's. Moreover, she… my sister…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Racing and winning are my burdens to bear, no one else's. Moreover, she… my sister…"
         },
         {
-            "text": "Died in my place.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Died in my place."
         },
         {
+            "name": "Admire Vega",
             "text": "So just stop…",
-            "name": "Admire Vega",
             "choice_data_list": [
-                "<size=34>I simply and selfishly \nwant to get closer to you.</size>"
+                "I simply and selfishly \nwant to get closer to you."
             ]
         },
         {
-            "text": "Again… with that?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "No matter what I say, you \ncontinue to reply with the same thing.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "I'm going home…",
             "name": "Admire Vega",
+            "text": "Again… with that?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No matter what I say, you continue to reply with the same thing."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm going home…",
             "choice_data_list": [
                 "Ah, but I figured we could…"
             ]
         },
         {
-            "text": "You were looking for a book to buy, right?",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "You were looking for a book to buy, right?"
         },
         {
-            "text": "The one on your right is easy to understand.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "The one on your right is easy to understand."
         },
         {
-            "text": "Admire Vega said this after noticing the books in my hand. \nShe then quietly walked away without another word."
+            "text": "Admire Vega said this after noticing the books in my hand. She then quietly walked away without another word."
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "<i>Why can't I treat her coldly…?</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>Why can't I treat her coldly…?</i>"
         },
         {
-            "text": "<i>I could have been more aggressive… I could \nhave yelled at her to make sure she stayed away.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>I could have been more aggressive… I could have yelled at her to make sure she stayed away.</i>"
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "But to participate in races, I need a trainer.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "But to participate in races, I need a trainer."
         },
         {
-            "text": "<i>That's the only thing I need. I know that \nfor a fact. After all, I'm happy being alone.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>That's the only thing I need. I know that for a fact. After all, I'm happy being alone.</i>"
         }
     ]
 }

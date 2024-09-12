@@ -1,0 +1,260 @@
+{
+    "text_block_list": [
+        {
+            "name": "Hokko Tarumae",
+            "text": "Mogu…… mogu…… Haah…… Yep, I knew these haskaps were excellent……!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Thank you for sharing! I'm glad the tasting was a good opportunity for you."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "You ordered by phone, right? The mother there is an old friend of mine. She was very happy when I moved to Tokyo. She even make me business card……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…………",
+            "choice_data_list": [
+                "……What's troubling you?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Ha! No, no! It's nothing serious! It's all right!"
+        },
+        {
+            "text": "……Looking at the last few days, It look like a big problem. Perhaps the cause of it is―."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I am the star of Tomakomai!\"』",
+            "choice_data_list": [
+                "……Is it about Tomakomai?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Huh? How do you know about that――",
+            "choice_data_list": [
+                "Because that's the kind of atmosphere you make……"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……… no way. I didn't notice…… ……"
+        },
+        {
+            "text": "Now, if you're in a problem, you can talk to me if you want."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…………"
+        },
+        {
+            "text": "She began to talk in hushed tones as if she had given up on the idea."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『……I have lived in Tomakomai ever since I can remember. It is a town with the scent of the sea and the sky is wide open.』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『On my days off, I go to the harbor and watch the big boats come by, ride my bike to the park, or play on the lake……』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『As I was spending time like that, I noticed that the town was changing little by little.』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I noticed stores whose shutters are no longer up and dusty show windows. Towns are quietly fading away.』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I was surprised. I knew the word 'depopulation' but…… I was like, oh, \"our place is like that, too.\"』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I was afraid that if I left it alone, it would just keep disappearing……』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I couldn't stand by and let it happen, so I started working as a locodol.』"
+        },
+        {
+            "name": "Tomakomai Local",
+            "text": "A locodol is a local idol.…… Hmmm. So you mean like…… sign girls, or something like that?"
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "Yes, yes! For example, I was wondering if I could catch the audience's attention by singing or dancing."
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "But if I do it in the middle of the street, only the locals will see it. I was wondering where to do it, that's what worries me……"
+        },
+        {
+            "name": "Tomakomai Local",
+            "text": "Well then, Tarumae-chan, we have a great place for you. A stage that only horsegirl can appear on, a very special stage!"
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "I'm from Tomakomai Hokko Tarumae! I will sing, \"Come on, Tomakomai\"!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『I joined a local junior club and started competing in races. I did a post-race live show to promote Tomakomai, and the results were pretty good―』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『One day, I was approached by a racing official from Tokyo.』"
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "…… 『If you enroll in the Tracen Academy and run in the Twinkle Series, you can promote Tomakomai to many times as many people as you do now.』…… huh?"
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "…… Tracen Academy. I hadn't thought about it…… but―"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I thought, \"This is my chance. The Twinkle Series is our chance to promote Tomakomai nationwide.\""
+        },
+        {
+            "name": "Younger Tarumae",
+            "text": "I want to do my best…… I want to spread the word about Tomakomai ……!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "From there, I trained hard and was accepted to Tracen Academy."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I'll do my best! I will definitely make Tomakomai more exciting!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……Yes, I give it my best……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "The more I tried, the less successful I got in both racing and locodol."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……Everyone from Tomakomai was really kind enough to send me off. They gave me a tusk and a business card and made me…… expect a lot from myself."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "If I don't do it, another store might close, and Tomakomai might become even smaller."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "And yet…… nothing has been done ……!",
+            "choice_data_list": [
+                "…… I think, you are overthinking this."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…… Eh?"
+        },
+        {
+            "name": "Haskap Farm Owner",
+            "text": "『I see.……She is working really hard to achieve her dreams.』"
+        },
+        {
+            "name": "Haskap Farm Owner",
+            "text": "『We can't lose either. Actually, she's inspired us so much that we've recently started working on social media.』"
+        },
+        {
+            "text": "Maybe I should show her what they are doing. And when I searched on social media, I found a website with an unfamiliar atmosphere."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……………… blog updates, launch of online shopping, and regular events."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Wow, so many people…… at the event, they are working with city hall too ……! I can't believe they were doing this―……!",
+            "choice_data_list": [
+                "?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "There is a blog written about me…… \"About Hokko Tarumae, Tomakomai's locodol.\""
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I hope she is doing well in Tokyo. She was very enthusiastic about boosting Tomakomai, but I am concerned that she may be carrying too much on her shoulders."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…… 『If you are well, that's the best. Leave the local matters to us. I'll tell her that on her next trip home.』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "『Please watch over her when you meet her in Tokyo. Please take good care of our treasure, Hokko Tarumae.』"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…………"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……I'm such an idiot……! I underestimated ……! People wouldn't let Tomakomai be carried on one person's back……!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "The tusk, the business card…… the kind words. Just to boost my own dream all along……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…… just for the sake of my dreams……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……………… う."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Ahhhhhhhh!",
+            "choice_data_list": [
+                "!?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "What are you doing, Tarumae! Get a hold of yourself, Tarumae!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "The people of Tomakomai! They are really kind! They support my dream from the bottom of their hearts!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "That's why ……That's why! I'll do my best for Tomakomai! I'll spread the word about Tomakomai!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "―Trainer-san! Will you be my trainer and help me on my training?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I definitely want to win the next mock race. I want to win and be the kind of person who can proudly show off to everyone in Tomakomai."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "So I want to make sure I'm up to par…… I need help professional!"
+        },
+        {
+            "text": "Thus, just like that, I signed a contract with Hokko Tarumae."
+        }
+    ]
+}

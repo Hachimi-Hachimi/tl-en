@@ -1,0 +1,216 @@
+{
+    "text_block_list": [
+        {
+            "text": "On a certain day, as I was out shopping near the train station, I happened to spot a horse girl on my way back to school."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whew… Ok that's enough of a break."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I've got to get back quickly so that I can get started on my next training."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You can do it Rice. Go Rice… Go!!!",
+            "choice_data_list": [
+                "(That's a nice running form)",
+                "(That's a nice running form)"
+            ]
+        },
+        {
+            "text": "With a spring in her step, Rice Shower took off running. Because of her small stature, she seemed to radiate an aura that drew my attention."
+        },
+        {
+            "text": "For some reason, I felt as if she was someone that could accomplish anything. As we were both heading back to the campus, I decided to go the same route."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Phew…"
+        },
+        {
+            "text": "But then she was stopped by a red light…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Haaaah…"
+        },
+        {
+            "text": "And then she was stopped by another red light…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "!!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ugh!!!"
+        },
+        {
+            "text": "As if some mysterious force was at play, she was once again stopped by a red light. Maybe today was just not a good day…"
+        },
+        {
+            "text": "Afterward we were stopped by red light after red light, by the time we finally reached the campus, the sun had long set."
+        },
+        {
+            "text": "And then…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E… excuse me!",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yes! I, I'm…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm so sorry!",
+            "choice_data_list": [
+                "Huh!?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That's… because I was running near you, you ended up arriving this late to the campus…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm really really sorry!",
+            "choice_data_list": [
+                "That's not really your fault…",
+                "That's not really your fault…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "No, it really is my fault. I'm always causing misfortune for others. Because I… I'm useless…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm so sorry. But everything will be ok if I'm not here! If you'll excuse me!"
+        },
+        {
+            "text": "Saying her piece, Rice Shower ended up running away. If I left everything after all that it would've been too depressing.",
+            "choice_data_list": [
+                "(Let's not think too hard about it and go after her!)"
+            ]
+        },
+        {
+            "text": "I immediately went after her."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh… huh… huh… haah…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The person from before, I wonder if he'll be alright after being so late."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What if he ended up becoming hungry? Or if he ended up missing a show he wanted to watch because he was so late?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "(Sigh) I really am such a useless girl…"
+        },
+        {
+            "text": "It looked as if she had a lot on her mind. However, as I was about to call out to her…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But even still I have to do my best!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Because the Selection Race is already decided, I have to make sure to compete, run properly, and then…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'll debut, compete in a lot of races, and then I'll no longer be just a useless girl."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "So I have to train. You can do it Rice. Go Rice…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Go!!!"
+        },
+        {
+            "text": "And so Rice Shower desperately continued her harsh training. Silently I left the area, never managing to call out to her…"
+        },
+        {
+            "text": "I can't wait to see her run seriously during the upcoming Selection Race."
+        },
+        {
+            "text": "As expectations continued to rise, the day of the Selection Race finally arrived. Trainers filled the race stands, looking to scout any horse girls that caught their eyes."
+        },
+        {
+            "text": "But…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Rice-san! Rice-san, Rice-san, Rice-san!? Where are you!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I, the class representative, have dashed all the way over here to inform you that your race is just about to start!"
+        },
+        {
+            "name": "Selection Race Official A",
+            "text": "Speaking of which Sakura Bakushin O-san, your group is also the next to depart, so please hurry and make your preparations for the race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh no!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "It looks like Rice Shower is boycotting the Selection Race. It's a shame since she had some good racing qualities."
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "Racing qualities aside, it's a problem if she isn't showing up to her races."
+        },
+        {
+            "text": "In the end, I wasn't able to see Rice Shower run at the Selection Race."
+        },
+        {
+            "text": "However I would soon see Rice Shower later again that night."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "[Crying]"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Stupid! Stupid! Stupid! I'm so stupid! Even though I worked so hard, even though I decided to work hard…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "[Sniff] Why? Why do I have to be such a useless girl…?"
+        },
+        {
+            "text": "Watching her cry and being in so much pain, before I even realize it, I had already made my way towards her.",
+            "choice_data_list": [
+                "Are you ok?",
+                "Are you ok?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh!?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You're… the person from before?"
+        }
+    ]
+}

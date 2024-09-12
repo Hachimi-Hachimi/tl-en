@@ -1,0 +1,103 @@
+{
+    "text_block_list": [
+        {
+            "text": "Sakura Bakushin O is now ready to take on the Sprinter's Stakes for a second time."
+        },
+        {
+            "text": "In the waiting room before the race, there was something going on that I didn't quite understand."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! Ms. Flower, stop right there!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay…?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Please do wait a moment. I'm thinking a little right now!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Errm, well, in this case… <i>Mumblemumblemumble.</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Ms. Bakushin O's Trainer. What's the meaning of all this…?",
+            "choice_data_list": [
+                "I wonder that, too…",
+                "I wonder that, too…"
+            ]
+        },
+        {
+            "text": "Sakura Bakushin O suddenly ran out of the waiting room and pulled Nishino Flower with her. I'm sure she has some sort of agenda…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's ready!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Flower!!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "From now on, I'm declaring you chief advisor to the class president!!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Chief… advisor?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What's this!? My message wasn't received!?",
+            "choice_data_list": [
+                "Do you mean declare victory?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, yes, that! I declare victory!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I swear to you that I will run fair and square in this Sprinter's Stakes and best you outright!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And… with this victory, I'll prove just how much I've grown!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, Ms. Flower, please allow me to race against such a skilled Uma as you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Allow this Class Stayer, who ran the whole 3600 meters!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Class Stayer…?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, anyway, with all I can, I'll do my best, too!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Certainly!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, let's fight like we always do!"
+        },
+        {
+            "text": "Thanking the kind Nishino Flower, I sent Sakura Bakushin O off."
+        }
+    ]
+}

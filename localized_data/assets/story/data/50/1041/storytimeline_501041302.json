@@ -1,0 +1,378 @@
+{
+    "text_block_list": [
+        {
+            "text": "One evening, as I was passing through the shopping district…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmmmm!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm getting the feeling of a big commotion!! A.K.A., a feeling that the class president is going to be playing a very active part!!"
+        },
+        {
+            "name": "Market Person",
+            "text": "Come, now, it's time for the New Year's Huge Lucky Draw Festival! The special prize is a hot spring trip ticket!",
+            "color_text_info_list": [
+                "hot spring trip ticket"
+            ]
+        },
+        {
+            "name": "Market Person",
+            "text": "First prize is a \"special carrot hamburger steak,\" second prize is a \"pile of carrots,\" and third prize is a \"carrot\"!"
+        },
+        {
+            "name": "Market Person",
+            "text": "You two look close! Why don't you go ahead and give it a try～?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What's this, a lucky draw―! Then, there's no problem with all the fuss!",
+            "choice_data_list": [
+                "…Is that so?",
+                "…Is that so?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer! Actually, I have one of those lucky draw tickets!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "One of my classmates said, \"Bakushin O-chan seems like she would like this,\" and so she gave it to me!",
+            "color_text_info_list": [
+                "Bakushin O"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "\"I can just see myself spinning that lottery wheel now\"…was the assessment I gave her!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This is a typical example of me being recognized as the class president on a daily basis!",
+            "choice_data_list": [
+                "…Sure looks like it!",
+                "…Sure looks like it!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So let's get to it and try our hand at the Lucky Draw!! We only have one chance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course, we're aiming for!! All the prizes!!",
+            "choice_data_list": [
+                "All of them!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, then at least one special prize, I suppose. There's no way I won't get it, though!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Because, as you can see, I'm a very good girl! There's no way the God of Fortune would abandon me in my time of need!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come!! Now is the time!!!! For God to endlessly adore the class president! To this exemplary class president right here――",
+            "choice_data_list": [
+                "Hurry up and spin it already!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Very well!! Here we go! Bakushin!!"
+        },
+        {
+            "text": "While trying to calm Sakura Bakushin O, who was wildly running about trying to spin the machine, I held the lever and managed to spin the lottery together with her."
+        },
+        {
+            "text": "The results were――"
+        },
+        {
+            "name": "Market Person",
+            "text": "Well, I'll be! Coooongratulations!! The special prize, a ticket for a trip to the hot springs, has been claimed～～～～!!"
+        },
+        {
+            "text": "We got \"<itemname>\".",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhhh～!! The Special Prize!!!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And, and!? Aren't the other balls supposed to be popping out too!?",
+            "choice_data_list": [
+                "The special prize alone is fantastic!",
+                "The special prize alone is fantastic!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fufufuu―, that's true, too!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As expected, the class president is the one who's the very best at lottery drawings―!",
+            "choice_data_list": [
+                "You're very lucky, huh.",
+                "You're very lucky, huh."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indeed!! After all, they say luck tends to suit the superior!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just as I thought, it seems even the lottery balls want to follow me, what with my sheer charisma～."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "When I think about it, I feel like somehow these balls are starting to look kind of cute…?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer! Can I keep this ball in my room!?",
+            "choice_data_list": [
+                "No you can't!?",
+                "No you can't!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha-ha～! It's a joke! I possess a superior sense of humor, too!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, then, I shall give this ticket to Trainer!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I still have a lot of work to do as class president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I don't have time! to soak in some nice, relaxing, leisurely hot spring… I don't! I don't have time to be submerged in pure relaxation!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "When the world is so exemplary that it no longer needs a class president, let us go to that hot spring."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I trust the Trainer's reliable eyes, so!! Please!"
+        },
+        {
+            "text": "…I'm not sure what that means, but I was supposed to keep the special prize ticket."
+        },
+        {
+            "name": "Market Person",
+            "text": "Congratulations, first prize～! The prize is a \"Special Carrot Hamburger\"!"
+        },
+        {
+            "text": "We got \"<itemname>\".",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohh! Amazing! Extra special, first class plus!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Speaking of special, even going to an eel restaurant couldn't possibly compare to the top-class quality of this prize hamburger! This is precisely a hamburger intended for the class president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The class president and the hamburger made for the class president. Once these two come together, what comes next is――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "――just eating it!!!!!",
+            "choice_data_list": [
+                "Good for you!",
+                "Good for you!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, and of course, I'll share it with Trainer!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Because the class motto for this month is! \"Cherish a thoughtful heart.\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The class president, the hamburger made for the class president, and the Trainer watching over me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If I have that much, I'm absolutely sure I could eat an extra special hamburger, with exemplary-ness!"
+        },
+        {
+            "text": "After that, I enjoyed the extra special taste of Sakura Bakushin O's kindness together with her."
+        },
+        {
+            "name": "Market Person",
+            "text": "Second prize～!! The prize is a \"mountain of carrots\"!"
+        },
+        {
+            "text": "We got \"<itemname>\".",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A mountain of them!! Mmm, that sounds great!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "After all, more is always better!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, with such a large amount of food, I worry how I could possibly eat it all～.",
+            "choice_data_list": [
+                "Why don't you try cooking it?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Haaaaaaah!? So that's what this was about～～～～!!!!",
+            "choice_data_list": [
+                "!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Food tastes better when it's cooked, right!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In other words, this heaping pile of carrots is just waiting for me to lead them to deliciousness!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Leave it to me! This Sakura Bakushin O right here shall bestow upon you the class president's wondrous existence!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All of you!! I'll make sure you graduate as delicious carrooots～～!!"
+        },
+        {
+            "text": "……I'm kind of nervous about this, so I decided to help her whenever she ends up cooking."
+        },
+        {
+            "name": "Market Person",
+            "text": "Third prize～! The prize is \"one carrot\"!"
+        },
+        {
+            "text": "We got \"<itemname>\".",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Uuuuu―ghhh…… One single carrot, huh."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha!? Isn't it possible that there's something important hidden inside this singular carrot!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It really is just one carrot… Truly, it isn't symbolic of anything!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmm! If you look closely at this carrot, you'll see a shape in it that doesn't make any sense!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just as I thought, the item bestowed upon the class president can't be just a mere carrot…!",
+            "choice_data_list": [
+                "…Did you watch any detective dramas yesterday?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What do you mean!? A great detective is always close by!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If that's the case, then it's up to the president detective and the Trainer detective to compete over this one carrot!!"
+        },
+        {
+            "text": "On the way home, Sakura Bakushin O and I had a great discussion about the true meaning of a carrot…"
+        },
+        {
+            "name": "Market Person",
+            "text": "Too bad, you lost! The participation prize is a tissue～!"
+        },
+        {
+            "text": "We got \"<itemname>\".",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Shoooock…! A, a tissue…! And it's just a participation prize!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "… N, no! There's no way I was only given a mere tissue!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In other words, this must be―― a \"You Did Your Best Award\"!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In the childhood quiz competitions, marathons, and other competitions that I have challenged as class president…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I received many tissues! As an accompaniment to my proud \"You Did Your Best Award\"!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So therefore, this tissue is also a good thing――a good…?",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, it's just… Did you also have that \"Shoooock!\" feeling when you got those tissues?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But, I'm the only one who got the \"You Did Your Best Award\"…… W, what? The other kids got one too…?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, no, that can't be…? Ehhhhhh～……? H～nnnnn…?"
+        },
+        {
+            "text": "Sakura Bakushin O experienced a depressing feeling that could not be put into words…"
+        }
+    ]
+}

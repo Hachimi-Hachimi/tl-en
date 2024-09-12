@@ -1,0 +1,154 @@
+{
+    "text_block_list": [
+        {
+            "text": "The training course is being improved today, so I planned to start training earlier than usual…"
+        },
+        {
+            "name": "King Halo",
+            "text": "One! Two! Three!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ha… Hmm… I wonder If that last turn wasn't sharp enough. Well then. one more time…",
+            "choice_data_list": [
+                "It's almost training time…",
+                "It's almost time for training…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Geez. I know already. Horse girls hate trainers who rush."
+        },
+        {
+            "name": "King Halo",
+            "text": "But let me focus just a little bit more. I messed up in the middle of the winning live the other day. didn't I?",
+            "choice_data_list": [
+                "You did?",
+                "You did?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh. you didn't notice? Then it looks like my recovery was perfect."
+        },
+        {
+            "name": "King Halo",
+            "text": "But even if one person didn't notice. a failure is a failure. If I let myself make the same mistake twice, I wouldn't forgive myself."
+        },
+        {
+            "name": "King Halo",
+            "text": "…After all, I'm a first-class horse girl."
+        },
+        {
+            "name": "King Halo",
+            "text": "So please, let me confirm it one more time All you have to do is shift the training time a little.",
+            "choice_data_list": [
+                "Fine, one more time.",
+                "All right, let's do it again."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes. Let's practice until I'm satisfied one more time.",
+            "choice_data_list": [
+                "… Eh?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "My, did I say something funny? I didn't, did I?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! There's no way the first-class King would stop practice unsatisfied!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, I’ll give you the privilege of playing the music! We're going to raise King's dancing to the ultimate level together!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, let's commence training. You're ready, aren't you?",
+            "choice_data_list": [
+                "But we don't have much time…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "What, it's still fine isn't it. You're so impatient."
+        },
+        {
+            "name": "King Halo",
+            "text": "…In the first place, for the course that I use to have a usage time is a mistake."
+        },
+        {
+            "name": "King Halo",
+            "text": "In any case. that's enough chit-chat. Shut up and get ready for training!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Do everything at full power without giving up. That's King's creed. Master both dancing and training perfectly the-"
+        },
+        {
+            "text": "(Ding-dong, ding-dong…)"
+        },
+        {
+            "name": "School Announcement",
+            "text": "It is time to end training. The course will be maintained today so all students are encouraged to prepare to return home as soon as possible."
+        },
+        {
+            "name": "King Halo",
+            "text": "…Ah.",
+            "choice_data_list": [
+                "Don't tell me, you forgot about the maintenance?",
+                "Don't tell me, you forgot about the maintenance?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Th… there's no way I'd forget! Even if it's not at school, I can still run. It's no problem."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph. I don't mind if you leave first. I can at least do normal outdoors exercise by myself."
+        },
+        {
+            "name": "King Halo",
+            "text": "C'mon, hurry u-",
+            "choice_data_list": [
+                "I'll stay."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Eh?"
+        },
+        {
+            "name": "King Halo",
+            "text": "But, the plan is ruined and you have your own job don't you? There's no real reason for you to accompany m-",
+            "choice_data_list": [
+                "Because I'm your trainer.",
+                "Because, I'm your trainer."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Th-then accompany me till the end! Cause I'm not letting you leave till I'm satisfied!",
+            "choice_data_list": [
+                "I wouldn't have it any other way!",
+                "I wouldn't have it any other way!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohhohoho! Good answer! I'll be sure to utilize you as much as I like today!"
+        },
+        {
+            "text": "And so, that day I ended up accompanying King Halo's training until she was happy."
+        }
+    ]
+}

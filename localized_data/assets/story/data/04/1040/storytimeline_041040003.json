@@ -1,0 +1,244 @@
+{
+    "text_block_list": [
+        {
+            "text": "The day after the failed scout of Gold City. While I was walking along the tree-lined streetー"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "After all, the one who was arguing on the course a while ago was City-san, right?"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "The other party she was arguing with was a trainer, right? It was pretty loud, I wonder if it’s okay…"
+        },
+        {
+            "text": "I wonder if something happened. Let’s go check it out…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "ーThen, you mean. I don’t need to train!?"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "No-no, that’s not what I mean. I just don’t want to put on extra muscles and break down your current body figure, I told you I wouldn’t do anything that would hurt your body!"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "More importantly let’s polish your form more! After all, you have to run beautifully. Oh, you have to practice winning live too!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Then, will I get faster? Will I be able to win a race?"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "Ah, you mean that? It will be okay-okay, I’ll do the rest well there. All you have to do is run and win the race."
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "Then your fame won’t be hurt! More beautiful than anyone, everyone will be captivated by Gold City’s run and win! It’s the perfect plan, right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Wrong. Wrong. Wrong, wrong!! I didn’t want to be like that…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Hey… Why?"
+        },
+        {
+            "name": "Gold City",
+            "text": "You said that. “I will make you the top Horse Girl there is”. “The No. 1 Horse Girl who shines on the turf”"
+        },
+        {
+            "name": "Gold City",
+            "text": "But… why are you…!"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "Ehh? Well, my feelings haven’t changed. I mean you, you are “Gold City” right?"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "You are that famous, cool and composed model!"
+        },
+        {
+            "name": "Gold City",
+            "text": "……Ah!!"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "It will be okay I said, leave it all to me! I’ll think about everything, about your image, and how to make it shine."
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "All you have to do is follow the instructions! That’s for your sake too. That’s what a trainer is for, right?",
+            "choice_data_list": [
+                "That’s not a trainer!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh…? A, you… why…"
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "…Hoy, who the hell are you. Would you mind as an outsider to shut your mouth?",
+            "choice_data_list": [
+                "If you’re a trainer, listen to her more!",
+                "If you’re a trainer, listen to her more!"
+            ]
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "What did you say? You arrogant…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "……ah."
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "A, hoy!…What is it, you don’t understand. Even though I will be going all the way to make you shine."
+        },
+        {
+            "name": "Average Trainer A",
+            "text": "What a bad temper~… That’s enough, I’ll find another horse girl."
+        },
+        {
+            "text": "…I couldn’t possibly leave Gold City alone. Let’s go after her!"
+        },
+        {
+            "text": "I searched all over the school, but I couldn’t find her. Where else is leftー",
+            "choice_data_list": [
+                "Gold City!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Woah!? What-what!?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You startled me~… seriously, what’s going on~? Are you going after City?"
+        },
+        {
+            "text": "I explained the situation, and asked her if she had any idea of where Gold City could be."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hmm, that’s why you’re looking for City?…Ehe~, suspicious."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You want to scout City because of her good looks anyway too, right~? Ya, seriously her looks are good. But this is hella bad."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But then, the difference between manager-san and you won’t change if you know what I mean~…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Just in case, let me hear it. Why are you obsessed with City?",
+            "choice_data_list": [
+                "I want to support her "
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Tosen Jordan:『Support her』, is it~…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "By the way, that, have you thought about how『I want to support her』?",
+            "choice_data_list": [
+                "Nothing yet"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nothing yet!? E, for real? Isn’t that bad?",
+            "choice_data_list": [
+                "I don’t know anything about her yet",
+                "I don’t know anything about her yet"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "I want to talk to her, I want to know her"
+            ]
+        },
+        {
+            "text": "ーAfter that, I want to discuss and decide what to do with her. So I appealed to Tosen Jordan."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Hm, hmmm? Ya well, how would I know~…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Eh, what is that mood like waiting for me. I’m in trouble~…",
+            "choice_data_list": [
+                "Tell me where she is…!",
+                "Tell me where she is…!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wooo, don’t come any closer~! I don’t want anymore~!!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "ーGe, it’s coming~!? Jordan, doesn’t know for real!",
+            "choice_data_list": [
+                "Please, tell me!!",
+                "Please, tell me!!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No way-no way, stay away~!!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Phew, if you come this farー",
+            "choice_data_list": [
+                "Please—!!",
+                "Please—!!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, you’re still chasing~!? Please let go of me~!!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ahh~! Geez, I don’t know, I don’t know! Even if you ask me, I’m in trouble~!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I don’t know where City could have gone, other than about the riverbed…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, shoot.",
+            "choice_data_list": [
+                "Thank you!!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Woah, hey a moment!?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, don’t tell her that I was the one who told you!? For real don’t tell, okay~!? When City gets mad she is seriously scary!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey! Are you listening~!!"
+        }
+    ]
+}

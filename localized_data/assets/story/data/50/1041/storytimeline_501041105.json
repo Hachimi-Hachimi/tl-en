@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushinbakushiiiin!",
+            "choice_data_list": [
+                "Have you gotten dressed?",
+                "Have you gotten dressed?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I did, indeed! After all, I'm in high spirits!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There are still 2400 meters worth of race left, and I'm determined to Bakushin right through summer!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll show everyone how hard working I am during races and summer training camps, and I'll be a role model for them from head to toe!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's goooo!"
+        },
+        {
+            "text": "And so began the summer training camp to improve our skills!"
+        }
+    ]
+}

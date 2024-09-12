@@ -1,0 +1,153 @@
+{
+    "text_block_list": [
+        {
+            "text": "After training with Hokko Tarumae. As usual, we were discussing our schedule of races and locodol activities."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Actually, I'm thinking of holding some events other than street performances."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I would like to consider ways to convey the charm of Tomakomai and attract more customers."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "First we need to get the word out to a lot of people…… what do you think Trainer?"
+        },
+        {
+            "text": "An event that can raise awareness. It is essential that the event has the ability to attract a large number of visitors. Speaking of events that can attract a lot of people…",
+            "choice_data_list": [
+                "How about going to a music festival!",
+                "How about we go to a music festival!"
+            ]
+        },
+        {
+            "text": "The more the population of the audience grows, the more people will be interested in Hokko Tarumae."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "…… The music festival that trainer is talking about is a big event with a lot of famous artists and idols, right?"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I think it is tough.",
+            "choice_data_list": [
+                "Eh."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "To be on such a stage, it is essential to have a proven track record and popularity in the entertainment industry."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "It's hard for a local locodol with no track record and no credibility to be allowed to appear on the stage.",
+            "choice_data_list": [
+                "I see ……"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Besides, even if we were able to participate in a festival, the festival-goers are there to listen to the artists' songs."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "It is difficult to get such people interested in Tomakomai. That is why you have to have an influence backed by a proven track record and popularity.",
+            "choice_data_list": [
+                "That's true too ……",
+                "That's true too ……"
+            ]
+        },
+        {
+            "text": "I was naive. How to increase the number of visitors to Tomakomai, a good idea is not going to come so easily."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Hmmm…… I think I'll leave it at that for today and reconsider. Thanks for taking the time to discuss this with me!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "An event that attracts visitors and gets them interested in Tomakomai.…… I knew it would be hard to come up with―."
+        },
+        {
+            "text": "Good! With this dance performance, you're going to win the world, aren't you? You'll be on TV and become a big star in no time!"
+        },
+        {
+            "text": "No, no, no, the TV industry is not that easy. You need not only talent, but also luck and hard work."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(Yes, yes. The industry is very tough―)"
+        },
+        {
+            "text": "Eeeeh～ Don't be so serious there! You're such a downer! You're always like that!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "………eh……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Festival-goers come to hear the artists sing."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "It is difficult to get such people interested in Tomakomai. That is why you have to have an influence backed by a proven track record and popularity."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Maybe that one earlier was also…… too serious ……?"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh, by the way…… trainer, make a troubled face. I think she was hurt by my seriousness, too―"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(The trainer liked Tomakomai.)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(They are very supportive of my desire to make Tomakomai a better place and said they would work with me to make it happen. ……)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "― and yet I'm so rude ……!"
+        },
+        {
+            "text": "On my way back to my room, I saw Hokko Tarumae standing there look like she is waititng someone. I walked up to her to see what was wrong."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh…… um, trainer.…… Uh, that, good work today……!"
+        },
+        {
+            "text": "I was just about to think a plan for an event to be hosted in regards to the plan I mentioned earlier. Since I'm here, I'll let her know about it.",
+            "choice_data_list": [
+                "Tarumae, about what we talk about earlier―"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "……! I'm sorry!",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Well, I am always grateful for the support of the street live activities, and that alone is enough for me……"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "So, I'll be fine! It's enough if we can continue to do this kind of steady street live performance! Excuse me!"
+        },
+        {
+            "text": "…… Indeed, organizing event is hard. Does it mean that live street activity is the most solid path?"
+        },
+        {
+            "text": "As she said, I would like to support her steady activities and learn more about community development."
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "text_block_list": [
+        {
+            "text": "—— It's summer training camp, and the horsegirls of Tracen Academy, including Symboli Rudolf, are staying at a seaside facility, fully immersed in their training."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Phew…</i> I believe that wraps up this part."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But remember it's only the first day, we shouldn't push ourselves too hard. Let's make sure to warm up properly.",
+            "choice_data_list": [
+                "How about we take a break \nand do something fun?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahah, you always come up with interesting ideas. Sure, let's take a breather."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Overexerting ourselves is never a good idea. There's a beachside restaurant nearby, let us grab lunch there."
+        },
+        {
+            "text": "Some time after having had lunch with Symboli Rudolf and completing the day's training…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh, it's you, Trainer. You're quite dedicated, working even during your free time.",
+            "choice_data_list": [
+                "What are you doing here?",
+                "What are you doing here?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Just taking a leisurely stroll and keeping an eye out. Well, to put it simply, I've got nothing to do."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Having free time can be enjoyable, but…"
+        },
+        {
+            "name": "???",
+            "text": "<i>Kyaa～～～～～～～～～～～～～！！！！ </i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Wh… What in the world was that scream…!?",
+            "choice_data_list": [
+                "It sounds like something might be wrong!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We should go check it out! Hopefully it's not a real emergency!!"
+        },
+        {
+            "name": "???",
+            "text": "<i>Kyaaa～～～～～～～～～～～～～！！！！ </i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm hearing screams from all directions! What on earth is happening…!?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Huff… huff…</i> The last scream came from around here……",
+            "choice_data_list": [
+                "…… I don't see anyone.",
+                "…… I don't see anyone."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm sure of it. I heard it only a moment ago."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Please, let everyone be safe…"
+        },
+        {
+            "name": "Horsegirls",
+            "text": "<i>Baaaah～～～～ ！！！！ </i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Huh!?"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Huh… Whoa!? P-President……!? We're so sorry! We mistook you for one of our classmates…!!"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "I-I-I'm so sorry! I didn't expect the Student Council President to get involved in the Haunted Challenge! I don't even know how to apologize……!!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haunted Challenge…? So, there was no real danger to you all, then?"
+        },
+        {
+            "name": "Horsegirls",
+            "text": "No……"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…………"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahahah! So that's what's been happening! I guess I ended up giving you all quite a scare!"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Uhm… President Rudolf?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahahah… Well, as long as you're all having fun, I'm genuinely pleased."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm sorry for interrupting. Please, continue as if I wasn't here."
+        },
+        {
+            "name": "Horsegirls",
+            "text": "…………"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm? Hey, what's wrong? You all look a bit stunned…",
+            "choice_data_list": [
+                "I think they thought you'd be mad at them.",
+                "I think they thought you'd be mad at them."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why would I be angry? They've done nothing wrong. After all, this is their free time. What's there to be upset about?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We are all students. There's more to it than races and training; the days we spend with friends will become important memories for our future."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Besides, a day like this won't come again. It's a precious night during our summer camp, so it's only natural to want to create enjoyable memories while we have the chance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The same goes for me…… Heheh, I'd be lying if I said I weren't a little more excited than usual.",
+            "choice_data_list": [
+                "Since we're here, why don't you join them?"
+            ]
+        },
+        {
+            "name": "Horsegirls",
+            "text": "What!?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahah. Now, now, Trainer. That would probably bother them."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Don't you worry, girls. The training camp is long. Enjoy tonight to the fullest and recharge your spirits ——"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "…… Oh, um, President Rudolf!!"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "If you're okay with it… Would you… like to join us for the Haunted Challenge…?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…… Are you sure?"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Y-yes! If it's not too much trouble!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It is no trouble at all. Heheh… well then, I'll gladly accept your offer!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "—— Alright, class A, please report in."
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Yes, ma'am! Everyone's in position and ready to go!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you. Class B, check for any danger zones and get to the site."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Once you find a blind spot, hide yourselves. Afterward… you know what to do, right?"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Yes! We're going to surprise them at the perfect time!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent. Good luck to you both."
+        },
+        {
+            "name": "Horsegirls",
+            "text": "Roger that, president!",
+            "choice_data_list": [
+                "You're really into this.",
+                "You're really into this."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh? What are you saying? This is all to make it the best event possible."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Showing something half-baked would be unfair to the participants, wouldn't it? With everyone coordinated, we'll create an unparalleled sense of terror.",
+            "choice_data_list": [
+                "You look like you're enjoying yourself.",
+                "You look like you're enjoying yourself."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heheh, indeed… I've never had a training camp that was this exciting."
+        },
+        {
+            "text": "The following day, the students were buzzing about how the \"Haunted Challenge\" had been even scarier and more enjoyable than in previous years."
+        }
+    ]
+}

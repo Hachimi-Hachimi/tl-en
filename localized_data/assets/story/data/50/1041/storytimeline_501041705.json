@@ -1,0 +1,213 @@
+{
+    "text_block_list": [
+        {
+            "text": "After going out with Sakura Bakushin O, we were supposed to have dinner and go home, but…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer! I… have a restaurant I'd like to take you to!"
+        },
+        {
+            "text": "I was taken along by her, accompanying her to…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I can't waait～! The \"Deluxe\" course at this ryokan is famous for its all-you-can-eat crab…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oyaoya! Trainer, you look so excited that you're freaking out!?",
+            "choice_data_list": [
+                "No, I was wondering if it's really alright to use your \ncard…"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fu-fu-fu… No need to worry! Because Trainer is my \"special person\"!",
+            "choice_data_list": [
+                "W, what does that mean?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In fact, the other day I delivered an elderly woman to the hospital, who was huddled in pain…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That person turned out to be the proprietress of this place!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And so, as a thank you, \"Please, come with your special someone,\" was the invitation I received!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So go ahead and relax, please stuff yourself full!"
+        },
+        {
+            "text": "I was touched by Sakura Bakushin O's words, and I did, indeed, relax as I waited for the food to be served――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oohhhhh～～! This is deliciooous～～! This one, that one, they all taste so expensive!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer, what do you think, what do you think? Is it delicious? Are you deeply moved!?",
+            "choice_data_list": [
+                "I am!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaall right! Now, onto the main dish! …Is what I'd love to do, but――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This crab! The way this crab is cooked is the only thing that, no matter how I try… I'm, not very good at… well……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You're not coming out at all! You're hiding in your spike-y shell! That's unsportsmanlike!"
+        },
+        {
+            "text": "…Definitely, the delicate task of extracting the crab from its shell looks difficult for someone as hasty and impatient as her.",
+            "choice_data_list": [
+                "Crab is a battle of patience!",
+                "You can crack them with utensils."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Patience…! I see, now that you say that! Because everything can be done with patience, can't it!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaaaall ri～ght! Patience is an honor roll student's specialty! Leave it all to me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hummmmuuuuuu～～!! Bakushin's, patieeeencee～～!!"
+        },
+        {
+            "text": "(Crack! Crack, craaack!!)"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wheee―w… Some way or another, I managed to smash all the shells.",
+            "choice_data_list": [
+                "Th, this is… patience…!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ehhen! That's right, this is the patience of an honor roll student!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come, now! Trainer, dig in! And while you're eating, I'll serve you another round!",
+            "choice_data_list": [
+                "I'll do it myself, okay?",
+                "I'll do it myself, okay?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Nonono! I have decided! That you shall enjoy this!"
+        },
+        {
+            "text": "Sakura Bakushin O's offer moved me once again… and I decided to put my faith in her."
+        },
+        {
+            "text": "…The cracked crab shells were painful to the tongue, but the two of us enjoyed the meal together――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Haaaa～～… That food was absolutely delicious!",
+            "choice_data_list": [
+                "Thank you for letting me enjoy it."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "My pleasure! Thanks to the advice of my Trainer, my patience won out over the crabs!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "My Trainer always inspires me this way!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If Trainer had been a classmate of mine, I would have even recruited Trainer to be my vice president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha… So this is how Trainer felt when you scouted me!?",
+            "choice_data_list": [
+                "Mostly, I guess?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ehehe―! Is that so, is that so～～! You're making me blush～."
+        },
+        {
+            "text": "We had both full stomachs and full hearts over our banquet cuisine."
+        },
+        {
+            "text": "I handed her a spoon made especially for cracking crabs――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhhh～～!? That stubborn crab broke apart so easily!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Then, leave the peeling to me! Please do enjoy the fruits of my labor, Trainer!",
+            "choice_data_list": [
+                "I'll do it myself, okay?",
+                "I'll do it myself, okay?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Nonono! I have decided! That you shall enjoy this!"
+        },
+        {
+            "text": "Sakura Bakushin O's offer moved me once again… and I decided to put my faith in her."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "(Chew, chew!) Ah, here comes the next crab! Mr. Crab, so hefty! Bakushinbakushin!"
+        },
+        {
+            "text": "…Her crab-handling was too fast, and I had to eat an absurd amont of food, but we enjoyed our dinner――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Haaaa～～… That food was absolutely delicious!",
+            "choice_data_list": [
+                "Thank you for letting me enjoy it."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, no! I'm the one who wants to thank you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Thanks to Trainer, I have now gained another Bakushin speciality of mine!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Please continue to teach me so much! And――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I hope you'll continue to, as an important person in my life, polish my Bakushin together with me!"
+        },
+        {
+            "text": "We had both full stomachs and full hearts over our banquet cuisine."
+        }
+    ]
+}

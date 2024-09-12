@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I can hear it, I hear it…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The voices awaiting the arrival of the most exemplary of honor students!!",
+            "choice_data_list": [
+                "Go out there and give it your best shot!",
+                "Go out there and give it your best shot!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Leave・it・to・me!!!</i> The in-perfect-form class president is here!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I shall pledge! I, the class president――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In accordance with the Uma Musume Ship, fair! Square! I pledge to be an exemplary Bakushin of the greatest degree!!"
+        }
+    ]
+}

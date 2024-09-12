@@ -1,0 +1,251 @@
+{
+    "text_block_list": [
+        {
+            "text": "In the morning of the summer training camp. It's still early, but Zephyr is nowhere to be seen.",
+            "choice_data_list": [
+                "Is she looking for wind?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, just when I felt an air of south wind…",
+            "choice_data_list": [
+                "Good morning. Did you go out for a walk?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yeah. I was invited by an unfamiliar breeze melded with the heat of the sun. So I looked for a place to find cool breeze but…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I can feel the morning sea breeze blowing now. From… you?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "……"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It… must be a wind from a different season. Anyway, let's start today's training."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "(From here… like a Kandatsu!)"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Ha― Ha― Ha…",
+            "choice_data_list": [
+                "Well done, the time is good!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Thank you. In order to become a heavenly wind, I must not let go of this wind―…oh."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's the cool breeze, again…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "……"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Um… trainer. Can I ask you a favor?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's ok if you are 'calm wind' at night, I'd like you to come with me to wait for the wind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There is something I really want to confirm."
+        },
+        {
+            "text": "The wind that Yamanin Zephyr wants to wait… If I meet the 'wind' she was talking about, I might get to know her better.",
+            "choice_data_list": [
+                "Yes, of course!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Wow, that was 'Sorai'(spring wind), thank you. See you later tonight…"
+        },
+        {
+            "text": "I followed Zephyr along the road near the training camp."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The calmness of the evening breeze… is very nice at times."
+        },
+        {
+            "text": "Zephr seemed satisfied. However, there were no wind blowing, and the sky is cloudy with no stars to be seen.",
+            "choice_data_list": [
+                "This feels like we're just taking a walk.",
+                "This feels like we're just taking a walk."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yah… we're 'waiting' for the wind. It takes time for the evening breeze to pass and the 'wind' to start blowing."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But that's just for a little while. Soon, we should be able to meet the 'wind' I felt this morning.",
+            "choice_data_list": [
+                "The 'wind' from this morning…"
+            ]
+        },
+        {
+            "text": "Good morning. Did you go out for a walk?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yeah. I was invited by an unfamiliar breeze melded with the heat of the sun. So I looked for a place to find cool breeze but…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I can feel the morning sea breeze blowing now. From… you?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The sea breeze in the morning becomes the land breeze after the evening breeze passes. I'm sure if we wait here…"
+        },
+        {
+            "text": "The wind that blew from the sea to the land this morning, returns to the sea at night. I guess that's why she thinks she will feel the same 'wind' if she wait in the same location."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I want to feel it and find out. How did that 'cool breeze' come about?"
+        },
+        {
+            "text": "Looking at her being so desperate to meet this 'wind'. I can't help myself to pray for the wind to come soon."
+        },
+        {
+            "text": "(*whoosh)",
+            "choice_data_list": [
+                "The sound of the wind…!?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh dear…? Fufu, it's Handkerchief-san. I didn't expect to see you here.",
+            "choice_data_list": [
+                "It… It's a flying squirrel…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, trainer.",
+            "choice_data_list": [
+                "!The wind, is it blowing?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "No, it's Megane-san. If Megane-san is here, then this must be a place of 'sunny wind'."
+        },
+        {
+            "text": "From the location where Zephy was looking at― The voice of an owl hoots out…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's even Patapata-san over there. Fufu, everyone seems to be enjoying the waltz…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…unngh… fu…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This is a nice forest… The 'sunny breeze' here is just like the one back at home. The air is… clear.",
+            "choice_data_list": [
+                "It would be perfect if the wind starts blowing.",
+                "It would be perfect if the wind starts blowing."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "―…?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind… yes… The air is still calm… But―"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This feeling… compared to that 'cool breeze' is…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Ah, I see."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It felt so strange. I was wondering why I could feel… the 'cool breeze' so well?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It was the same this morning. There was no pine wind. A dry wind was about to creep into my heart. That is until…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind ran away. A cool stream of air blew along the sea breeze… it was from you."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That's why I thought… maybe I could meet the 'cool breeze' again if I'm around you. But…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There is no wind blowing now, yet I can feel the 'wind' in my heart. …Trainer."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It was you all along. You are the breath. The pleasant breeze…",
+            "choice_data_list": [
+                "Zephyr…"
+            ]
+        },
+        {
+            "text": "The girl who always chased after the wind of freedom, who preferred to be alone… is feeling comfortable being around me.",
+            "choice_data_list": [
+                "…I will continue to send you good winds from now on."
+            ]
+        },
+        {
+            "text": "In order to respond to her feelings, I must do my best to make her feel the best 'wind'. Just when I made up my mind… suddenly―!"
+        },
+        {
+            "text": "(Swooosh―!)"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh dear, trainer! Come! To the sound of the wind!"
+        },
+        {
+            "text": "Following the wind, we found ourselves by the the ocean. The starry sky, which seems to have been cleared by the wind earlier, is shining the surface of the water."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's a triumphant wind… and one that I never felt before."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Will I be able to receive this wind someday?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "With the two of us…",
+            "choice_data_list": [
+                "I believe that day will come."
+            ]
+        },
+        {
+            "text": "Zephyr nodded softly and looked up at the star-filled sky for a while. The wind blowing towards the sea was gentle."
+        }
+    ]
+}

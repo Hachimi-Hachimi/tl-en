@@ -1,0 +1,248 @@
+{
+    "text_block_list": [
+        {
+            "text": "On a certain holiday, I was called out to meet Air Groove―"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've got some guts making me wait like this, trainer.",
+            "choice_data_list": [
+                "Sorry……was there always a field here?",
+                "Sorry……was there always a field here?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You didn't know? This field is also part of Tracen's property. It's used for lessons sometimes as well."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now then, the reason I called you out here was to carry that."
+        },
+        {
+            "text": "Air Groove's gaze was directed at a wagon full of red, white, and yellow flowers."
+        },
+        {
+            "name": "Air Groove",
+            "text": "There ended up being more than I expected. While I'd rather not I'd like you to lend me a hand.",
+            "choice_data_list": [
+                "You took care of them well, so a lot bloomed huh.",
+                "You took care of them well, so a lot bloomed huh."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Your words are unnecessary. Whatever, just hurry up and carry them."
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Uwa, they're gorgeous～ ! Thank you again this year, Air Groove senpai!"
+        },
+        {
+            "text": "Once I brought the wagon to the front of the dormitory, long lines of horse girls started to form."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Everyone only gets 1 per person! Don't disturb the line, once it's your turn state your preferred color."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If possible, write a letter or show your face. Go convey your daily gratitude."
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "I'm sure my mother will be thrilled!"
+        },
+        {
+            "text": "Comparing Air Groove and her kouhai, I start to think \"Ah, maybe this is一",
+            "choice_data_list": [
+                "Carnations for Mother's Day?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right. I plant them so that they bloom at this time."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Everyone's been away from their family stuck in their dorms. It's times like this where it's a good opportunity to convey their feelings."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Do you know the meaning of the yellow carnations?",
+            "choice_data_list": [
+                "The different colors have different meanings",
+                "The different colors have different meanings"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "We're starting there, huh?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "For example, red carnations symbolize \"love for my mother\". It's a rather popular gift."
+        },
+        {
+            "name": "Air Groove",
+            "text": "On the other hand, yellow symbolizes \"jealousy\". It's generally avoided."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But among horse girls, there are still some who would prefer to pick yellow."
+        },
+        {
+            "name": "Air Groove",
+            "text": "To horse girls born as the their mother's \"second generation\"…it's not exaggeration to say that their mother is their greatest rival."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That is to say, it's a gift delivered with the will to say \"I will surpass you\"."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Alright. We've handed them out. Thanks for the help."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The only thing left is this yellow carnation."
+        },
+        {
+            "text": "Air Groove smiles gently as she looks down at the carnation left in the wagon一"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I suppose I'll send this one to my mother.",
+            "choice_data_list": [
+                "It's a beautiful one",
+                "It's a beautiful one"
+            ]
+        },
+        {
+            "text": "However… at that moment, one horse girl rushed over."
+        },
+        {
+            "name": "Horsegirl C",
+            "text": "U-Um……!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? Oh, you are……What's wrong?"
+        },
+        {
+            "name": "Horsegirl C",
+            "text": "I was doing independent training, and before I noticed it was already this late… Um… are all the flowers gone already?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "――――"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No, you're lucky. There just happened to be one more left."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now, go on and take it."
+        },
+        {
+            "name": "Horsegirl C",
+            "text": "Ah! Thank you so much!"
+        },
+        {
+            "text": "The young girl received the flowers from Air Groove and went home after bowing her head many times."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fu……they're all sold out."
+        },
+        {
+            "text": "Air Groove muttered so, with her usual cool expression. I couldn't tell how she was feeling from her face alone."
+        },
+        {
+            "text": "Suddenly, I got worried remembering the injury she'd sustained from protecting her kouhai.",
+            "choice_data_list": [
+                "Are you putting yourself off again?",
+                "Are you putting yourself off again?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "一Fu. Good grief, you worry too much."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What happened during the dance training the other day was indeed unsightly. But……I've been thinking since then."
+        },
+        {
+            "name": "Air Groove",
+            "text": "About how I should be carrying myself as \"Empress\"一"
+        },
+        {
+            "name": "Air Groove",
+            "text": "If you pursue your ideals to the point of neglecting yourself, you'll be overwhelmed. In that aspect… it's something also failed to grasp."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But, it's different now.",
+            "choice_data_list": [
+                "Meaning, you've learned to value yourself?",
+                "Meaning, you've learned to value yourself?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right……Even if there are no flowers, I don't mind."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Even if I don't have any definite proof, I'm sure that my will is unwavering. All that's left, is to go tell my mother directly.",
+            "choice_data_list": [
+                "In that case, I'm glad"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yeah, it's nothing for you to stress yourself over."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Calm and collected. That's how the trainer of the \"Empress\" should carry themselves."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But, well……it's only because you were so bothersome……that I…",
+            "choice_data_list": [
+                "Eh? What?",
+                "Eh? What?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…I'm saying it's because you noticed!!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's something I heard my mother speak of before as well, she said that she \"Couldn't be \"queen\" alone\"."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The sincere eyes one turns to become a mirror, and reflect what their ideal figure is."
+        },
+        {
+            "name": "Air Groove",
+            "text": "So, basically……it's like that.",
+            "choice_data_list": [
+                "I'll continue to watch you closely",
+                "I'll continue to watch you closely"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph, was there any reason to restate it? ……Fool."
+        },
+        {
+            "text": "Whilst receiving some kind scolding, I watched her figure in the setting sun."
+        }
+    ]
+}

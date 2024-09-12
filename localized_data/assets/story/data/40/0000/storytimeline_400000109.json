@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "name": "Bitter Glasse",
+            "text": "Oh, there you are! Good work! I wanted to talk to you!"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "That was a good run! Gave me the chills."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "I look forward to fighting with you guys again! See you in the \"Aoharu Hai\"!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "… Like she said… Uhh, well… that wasn't bad."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "… I'm not trying to comfort you or anything. Really."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "… See you next race. Bye."
+        }
+    ]
+}

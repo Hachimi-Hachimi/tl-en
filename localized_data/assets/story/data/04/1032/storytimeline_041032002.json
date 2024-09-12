@@ -1,0 +1,240 @@
+{
+    "text_block_list": [
+        {
+            "text": "Today is the \"Selection Race\". An important day for upcoming horsegirls to display their blossoming running abilities to the trainers present."
+        },
+        {
+            "text": "I, as well, was eager to discover the potential of the future horsegirls here and scout for one to take under my wing. Just then…"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Color me surprised. Did you see the updated start list they just handed out? I wondered what was up, and it turns out Agnes Tachyon's been added to it…!"
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "What? Agnes Tachyon!? That… talented girl, who — rumour has it — is quite the hazardous presence!?",
+            "choice_data_list": [
+                "(Agnes Tachyon…!?)"
+            ]
+        },
+        {
+            "text": "I remembered what had a happened in the infirmary a few days earlier, and a chill ran down the length of my spine. But—"
+        },
+        {
+            "name": "Selection Race Official",
+            "text": "Ms. Tachyon, Ms. Agnes Tachyon!? That's strange… Ms. Cafe, have you seen Ms. Tachyon!?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ehh… d-don't ask me…"
+        },
+        {
+            "name": "Selection Race Official",
+            "text": "Huuuh… what are we supposed to do now…"
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "Aww. Sounds like Tachyon's not going to show up today either. I was hoping to see her fabled \"superluminal \" final spurt."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "But why? Her mother won Oka Sho, her grandmother won Oaks… Even among her prestigious lineage she was praised as their \"magnum opus\" before enrolling here."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "If only she wasn't so… unusual."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Pardon me, Manhattan Cafe. Is Agnes Tachyon… not coming?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's my understanding that the academy has informed her that participation in this Selection Race is mandatory."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah, yes… The notification did reach her, and I know she requested details… But, well…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But she chose not to race anyway…? Understood, thank you."
+        },
+        {
+            "text": "I could see that Symboli Rudolph was deeply concerned. What would happen to Agnes Tachyon if she missed this race…?",
+            "choice_data_list": [
+                "(… Let me go look for her)"
+            ]
+        },
+        {
+            "text": "I decided to leave the track for a bit and search for Agnes Tachyon."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Haa…? What the hell are you doing here, Tachyon?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What an uncharacteristically illogical question, my dear Shakur. As a student of the academy, is it somehow unusual for me to be seen here on the academy grounds?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, dang it! Ain't you supposed to be in the Selection Race today!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha ha ha! There's no need for that attitude! Are you running a little low in serotonin?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The answer is simple. I judged it unnecessary. I have my objectives and, unfortunately, competing in the race does not serve them."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And good lord, did you see what happened last time I did one of those things? Trainers swarming all over me like guinea pigs on freshly-thrown cabbage…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "… Ain't that 'cause they were so impressed with your running?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I know, but… the training schedules those people come up with… so inefficient! I can't just be throwing away precious research time."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "They get to apply their standards, pick and choose the horsegirls they like… don't we have a right to choose as well?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ugh! Alright, whatever!! I don't wanna hear, I don't care. Skip all the races you want."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…But y'know, research this, experiment that. If you keep missing classes, refuse to race, refuse to get a trainer, never make your debut…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "… they're not gonna to let you keep hanging around here."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm. She said \"I don't care\" and to do whatever I want but she still wants to give me advice… Oh, my dear Shakur, you do amuse me."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And, oh…? You… Well, if it isn't the junior trainer from the other day!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Have you come back voluntarily, to offer up your body in the name of science? Truly, the soul of a guinea pig! Quite, quite extraordinary!",
+            "choice_data_list": [
+                "Nononono!"
+            ]
+        },
+        {
+            "text": "I desperately managed to calm her down and explained I was there to try and persuade her to participate in the Selection Race."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, is that all. Sorry to disappoint you, but I have no intention of participating."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That race is a place for horsegirls to show off their potential, just as much as a place for trainers to find new prospects."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And at this moment in time, I have no need to prove my capabilities to anyone at present. Therefore, I will not participate. That is all I will say on the matter."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "—Now then, let us instead continue with our experiment!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I just so happen to have put the finishing touches to a neuromuscular monitor of my own invention just last night. A thousand times greater resolution than conventional equipment—",
+            "choice_data_list": [
+                "You're really all about the experiments, huh!?",
+                "You really only care about your experiments, don't you!?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The limits of what is possible can only by probed through rigorous experimentation. It takes time, and the more time the better. Am I wrong?",
+            "choice_data_list": [
+                "What researching could be that important…?",
+                "What research could be so important…?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "\"The potential of horsegirls\"."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "More accurately, \"the physiological potential that lies dormant within the organism known as the horsegirl\". In essence,\"the absolute limits of speed\"— no, what lies \"beyond the limits\".",
+            "choice_data_list": [
+                "Beyond…?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "There is so-called conventional wisdom on this topic of course. But what is conventional wisdom if not the enemy of discovery?! We must reexamine—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why, even the very nature of horsegirls is itself a profound question, my dear trainer."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "While this body may be superficially similar to a human's, our ears and tails are highly developed, and it possesses extraordinary strength for its mass."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In particular, our running ability is outstanding even in the animal kingdom, possessing speed superior to most species."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "—Ahahaha!! Truly… TRULY fascinating, do you not agree?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In short, my dear, my guiding motivation is a simple one. \"How fast can we go?\", \"How vast is our potential?\""
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I, with this body, aim to find the outer limits of our potential! The outer limits of speed!",
+            "choice_data_list": [
+                "That's what your research was for…!?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's fair to say the the horsegirls who are able to push their performance the furthest are those who pursue high-level competition."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The higher the level, the stronger the competition, and that is indispensible to extracting peak performance."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So, of course, getting to race in the Twinkle Series would be a boon to my research. Hence why I came to this academy in the first place."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But, well—"
+        },
+        {
+            "name": "Teacher",
+            "text": "Agnes Tachyon. …Academy management wants to see you. Come."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmmm, it seems I have been summoned. …Well then, I'll have to excuse myself, rookie."
+        },
+        {
+            "text": "The teacher, a grave expression on his face, led Agnes Tachyon away…"
+        }
+    ]
+}

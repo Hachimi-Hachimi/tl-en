@@ -1,0 +1,15 @@
+{
+    "text_block_list": [
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Let's prepare further for training."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "But first — let's go visit the statue of the Three Goddesses.",
+            "color_text_info_list": [
+                "statue of the Three Goddesses"
+            ]
+        }
+    ]
+}

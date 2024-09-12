@@ -1,0 +1,245 @@
+{
+    "text_block_list": [
+        {
+            "text": "On the day of Winning Tickets debut match"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer-san, and the both of you! Thank you for coming to support me～～!!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Don't worry about it. We are partners in the same team!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It is my teammates spring stage. Even for those who could not come today, I will support you with all my might."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "And when you're done we will have a fun dinner! Grilled Scallops and more scallops! Three-color rice bowl of crab and sea urchin with salmon roe!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Melon parfait! Don't forget about melon parfait!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "… So that's your real objective."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wh, what are you saying!? The meal is a bonus! Anyway, now you should focus! concentrate!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's right. concentrate, concentrate. Well then, Trainer-san, I'll be going!",
+            "choice_data_list": [
+                "Good luck!",
+                "Good luck!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! The road to the Derby begins from here! I will definitely win!"
+        },
+        {
+            "text": "Winning Ticket took her first step towards the big dream. And thenー"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaaaa!!!! I lost～!!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Shut up! How many more times are you going to yell that you lost?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hee… How cold～. We've been friends since we entered the school, you can at least comfort me～."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Even if I comfort you, you'll cry and scream anyway."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Well, this is the starting point for the Derby, right? Even though I've got a long way to go, I can't believe I lost at my first race."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, after seeing how excited you were, it's not like I don't know where you're coming from."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Right!? What should I do if I can't get in the Derby because of this?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh～～Geez! Even If you lose your debut game, it's not a reason you can't go to the Derby!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I lost my debut match too, that's why I think you should start looking ahead."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Right, you can start again from here. If you really want to be depressed, just leave it to when your dreams are broken."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wooo… Taishin's unyielding spirit! Hayahide's quiet and burning spirit! I can't stop here!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If you're aiming for the Derby, you can't stop here! Thank you, after all, you should have a friends ～～Waaa～!!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "In the end you're crying after all! Shut up, Geez!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But, this simplicity is also one of the good qualities about Ticket. We can't afford to lose too."
+        },
+        {
+            "text": "At teams training timeー"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaa～～! Derby!!!!"
+        },
+        {
+            "text": "Usually, the training after a race is light, but Winning Ticket was running with all her might as if it was right before a race."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wow… Ticket-san is so fired up."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I thought she would be depressed today after yesterday's race but she is surprisingly cheerful, this girl."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "She said she was encouraged by her friends. Ticket -san has wonderful friends who understand her dreams."
+        },
+        {
+            "text": "If you are aiming for the Derby, you can't slack off."
+        },
+        {
+            "text": "I have to respond firmly to her who runs towards her dreams!"
+        },
+        {
+            "text": "Tickezou! Swing your arms!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yes!!!!"
+        },
+        {
+            "text": "Be aware of your stride! let's save the power until the end!!"
+        },
+        {
+            "text": "Be aware of your stride! let's save the power until the end!!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Stride length Waaaaaa!! Let's get out of here～～!!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahh… ahh… ahh. Alright, it's over! Thank you for your hard work!"
+        },
+        {
+            "text": "Good work. Rest well, so as not to leave fatigue."
+        },
+        {
+            "text": "Good work. Rest well, so as not to leave fatigue."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! But, I'm thinking about running a little more."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I lost my debut match, but I was encouraged by my friends, and I received firm coaching from my trainer."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I mean, that loss was not in vain. My feelings for the Derby have grown even more!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You're one interesting girl. I don't hate people like you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To this passion, Trainer-san you have to respond too."
+        },
+        {
+            "text": "Of course, that's what I'm going to do. There's no trainer who will hold back a Horse Girl who is running towards her dream.",
+            "choice_data_list": [
+                "Tickezou, your next race is next week!",
+                "Tickezou, your next race is next week!"
+            ]
+        },
+        {
+            "text": "Of course, that's what I'm going to do. There's no trainer who will hold back a Horse Girl who is running towards her dream.",
+            "choice_data_list": [
+                "Tickezou, your next race is next week!",
+                "Tickezou, your next race is next week!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't tell me, it's the series race!? It's harder than you think, that is!!"
+        },
+        {
+            "text": "Of course, physical condition is a priority. but if it's Tickezou, I'm sureー"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "W… Waaaa!! I'll run!!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I will hit a lot of difficult challenges towards my Derby goal! This means that me and the trainer are going to work together!",
+            "choice_data_list": [
+                "Let's win together!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "let's win～!!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "… It seems that the trainer also has “Hot blood”."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It would be the influence of Ticket-san. It's fun to see what the future holds for the 2 of them."
+        },
+        {
+            "text": "The story of Winning Ticket that began with a lossー"
+        },
+        {
+            "text": "But it was definitely starting to move towards the goal."
+        },
+        {
+            "name": "Commentator",
+            "text": "Here comes Winning Ticket! Winning Ticket now, first to cross the goal!"
+        },
+        {
+            "text": "(Cheers～～～～!!)"
+        },
+        {
+            "text": "After 2 weeks of racing, Winning Ticket won for the first time."
+        }
+    ]
+}

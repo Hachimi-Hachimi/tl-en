@@ -1,0 +1,220 @@
+{
+    "text_block_list": [
+        {
+            "text": "It was the end of a long day of work. I sat down to rest… and remembered my encounter with Manhattan Cafe…",
+            "choice_data_list": [
+                "Maybe I should go and see her again…"
+            ]
+        },
+        {
+            "text": "I wasn't sure if she'd even be there or not, but the thought lingered. I decided to go out to the track. But…"
+        },
+        {
+            "text": "(click, clack…)"
+        },
+        {
+            "text": "…the door. It wouldn't open. The handle turned just fine, but when I pushed, it didn't budge.",
+            "choice_data_list": [
+                "(Is someone pushing on it from outside…?)"
+            ]
+        },
+        {
+            "text": "Surely not. I pulled back, and flung all my weight at the door… It opened."
+        },
+        {
+            "text": "And of course, there was nobody to be seen."
+        },
+        {
+            "text": "'Door must be warped,' I said to myself. After all, what else could it have been? I put it from my mind, and set out for the training course."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Haa, haa… hah―"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "All these years… I've been chasing you… ever since I was a child… Why… why can I never get any closer…?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "How… do you find such speed in the corners…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "How do you run like that, flowing like water…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You really are special… But… one day… I will catch you…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes… let's run… Again…… and again… and again…"
+        },
+        {
+            "text": "With long, languid strides, she almost seemed to melt into the night air, before finding an effortless surge of speed in the final straight."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "―hnng…!"
+        },
+        {
+            "text": "From a mere shadow on the edge of perception, she made her presence suddenly and terrifyingly real with a final explosion of power. For a moment, I thought I was seeing things…"
+        },
+        {
+            "name": "???",
+            "text": "So…? What do we think of that? A fascinating specimen, I'm sure you'll agree.",
+            "choice_data_list": [
+                "Agh!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Good reactions! Any change in your body temperature, do you think? I'd love to see your ECG but… maybe another time…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You must be a new trainer, I presume? Out here looking for promising young talent? Either that, or…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A suspicious, unauthorized person, furtively watching Uma Musume in the dead of night?! This won't do at all, I should call security post-haste!",
+            "choice_data_list": [
+                "I'm a trainer! I'm a trainer!!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Is that so? That's a relief. And? I take it that one over there has caught your eye?",
+            "choice_data_list": [
+                "No, well, sort of. She's… interesting…"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm… is that so? Or are you mistaking for \"interest\" the ambiguous physiological response of your body to other, stranger phenomena…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Whatever you decide to call it, if you are \"interested\" then you should probably introduce yourself sooner rather than later. Time, after all, is a finite resource."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Anyway, intrigued as I am to see her reaction, I must excuse myself. My research awaits."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah. But let me leave you with one piece of advice."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Be bold. She is surprisingly susceptible to… pressure."
+        },
+        {
+            "text": "…What was that about…?"
+        },
+        {
+            "text": "\"Stranger phenomena\"… has she felt it too? Does the unexplained follow Manhattan Cafe around…?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Fu― Haa…",
+            "choice_data_list": [
+                "Good evening."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…? Good evening.",
+            "choice_data_list": [
+                "You always train this late?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes… The darkness… helps me to see…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Can I… help you…?",
+            "choice_data_list": [
+                "I was just wondering who you were talking to before…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She is…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…a friend."
+        },
+        {
+            "text": "I looked around, and saw no one. What did she mean? I looked back at her, puzzled…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You…… cannot see her…… No matter how hard you look ……you do not have eyes to see. Neither you… nor anyone else…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "So please…… Do not concern yourself. There is no reason to …concern yourself."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No one knows she is there. No one but me. Because… she is far, far away … on the other side…",
+            "choice_data_list": [
+                "Okay, so… she's a friend that only you can see?",
+                "Okay, so… she's a friend that only you can see?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……"
+        },
+        {
+            "text": "I took her at her word… but what could that even mean? A friend that only she can see?"
+        },
+        {
+            "text": "Surely she didn't mean some kind of… ghost…?"
+        },
+        {
+            "name": "???",
+            "text": "N̵̹̠̉ ̵͎͌̈́Ó̷̤̣̃",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "text": "A… voice? No, not a voice… not even a word. A… feeling? Like a ball of raw emotion, resonating in my head…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Are you… afraid…?",
+            "choice_data_list": [
+                "Huh…?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Nothing… Never mind…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I should go."
+        },
+        {
+            "text": "Manhattan Cafe bowed curtly, and left."
+        },
+        {
+            "text": "The strange things that had been happening to me… were they all related to Manhattan Cafe's mysterious \"friend\"?"
+        },
+        {
+            "text": "There was so much I didn't understand… but one thing was clear. She could run like no one else…"
+        }
+    ]
+}

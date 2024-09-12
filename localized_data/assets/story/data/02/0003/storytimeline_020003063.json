@@ -1,0 +1,53 @@
+{
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Huh, Trainer-san and Hayahide!",
+            "choice_data_list": [
+                "It was your best race so far.",
+                "It was your best race so far."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hehe～, I even surprised myself! To beat the “Yayoi Prize” record time!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "When I saw Taishin come up, some strength welled up from inside me…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "A rival is a presence that brings out the power that you do not even notice yourself, and Taishin was the one who taught me that, Waaaa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well,I lost… I feel like I had a good race."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Geez, It's not fair, both of you. I also wish I could run with you."
+        },
+        {
+            "text": "If this goes on, the 3 girls will surely race in their first classic race together at the “SatsukiShou”."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Next time I will make sure I don't lose. No matter how good the race was, there is no point if you don't win."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "haha, I will also make sure to appear at the “SatsukiShou”. And this time we will run together all 3 of us."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! The 3 of us together!"
+        },
+        {
+            "text": "First Rival Showdownー Winning Ticket that ran win her rival showed a bigger smile than ever before."
+        },
+        {
+            "text": "From now on, the once in a lifetime showdown, the classic front begins and the goal of the Derby is slowly approaching."
+        }
+    ]
+}

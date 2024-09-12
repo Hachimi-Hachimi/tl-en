@@ -1,0 +1,213 @@
+{
+    "text_block_list": [
+        {
+            "name": "Daiichi Ruby",
+            "text": "Don't be discouraged ―it's something that should be obvious. Such possibility does not exist. It must not exist."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Because it is synonymous with closing the curtain. A constant applause for a glorious victory. ―therefore."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Be brilliant. Be supreme. Always shine the brightest. That is my family's motto."
+        },
+        {
+            "text": "The training course was even more crowded than usual that day. Was it cheering, shout of joy, or amazement?"
+        },
+        {
+            "text": "While many emotions are voiced and mixed together, The eyes are focused on a single point."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "Hey, over here! It's already started!",
+            "choice_data_list": [
+                "I'm coming!"
+            ]
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "The girl my senior told me to keep an eye on… Look, it's that girl.",
+            "choice_data_list": [
+                "She is pretty far behind……"
+            ]
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "Right? Senpai, the front is pretty crowded too, it will be difficult to recover from here… and even more."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "…and the other runners are already debuting horse girl, is what you want to say right? Well just watch. She's just getting started."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "(―The front was blocked. But still within the expected range)"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "(No problem. There won't be a problem. Just like always ―my path has been shown to me.)"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Ha…!!"
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "What… you must be joking!?",
+            "choice_data_list": [
+                "From the far outside…!"
+            ]
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Incredible end leg…… She's part of that Noble family."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Daiichi Ruby…!"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Haaaaaaaa!!"
+        },
+        {
+            "text": "A Noble family. The legitimate heir to a bloodline that has made their name in politics, business, and even in the world of horse girl race."
+        },
+        {
+            "text": "There is probably no one in this country who has not heard that name. And the horse girl of that family is…"
+        },
+        {
+            "text": "(Wooooooooo…!!)"
+        },
+        {
+            "text": "― Daiichi Ruby. This horse girl finished faster than all the other horse girls who had already made their debuts."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "That was amazing…… So that's the rumored member of Noble family, Daiichi Ruby. I guess it's starting to get serious.",
+            "choice_data_list": [
+                "……I agree",
+                "……I agree"
+            ]
+        },
+        {
+            "text": "I wonder what kind of trainer will she get? Many trainers have already gathered around her to scout her."
+        },
+        {
+            "text": "For myself… I don't have much confidence. But once you saw that run…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "… Dear trainer. I would like to take this opportunity to tell you something."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "―Bring it to me."
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "Yes, milady. We will distribute them now.",
+            "choice_data_list": [
+                "……Documents?"
+            ]
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "Here are the details of the selection test to determine milady personal trainer. Please take a moment to review the details."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Each item contains detailed information about the test. Any trainer is welcome to participate."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "The duration is 30 days. We will give you an evaluation for each test and the overall evaluation will be used to determine the result."
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "If there is a tie, we will set up another test. Is there any questions? If there is, I will be happy to answer them."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "Ballroom dance and table manners… and there are other thing too, this is not something average person can learn in 30 days!"
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "As you say, it's not easy task. But you understand that, and that's why you are right here, are you not?"
+        },
+        {
+            "name": "Trainers",
+            "text": "…………"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "If there is nothing else, I will leave it at that. Thank you for your time."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "If you wish to participate in the test, please change into clothes that are easy to move in and come to the dojo. It will be the first venue."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "It's not going to be easy by the looks of it… It looks like seniors have already gone to change their clothes, What are you going to do?"
+        },
+        {
+            "text": "… I think it's a chance. At a first glance, the content of the test has nothing to do with the trainer's job."
+        },
+        {
+            "text": "It was a test that none of the people gathered here had ever experienced before. This means that everyone start from the same position."
+        },
+        {
+            "text": "And if I manage to win, I can guide Daiichi Ruby's run with my own hand.",
+            "choice_data_list": [
+                "I'd like to try!"
+            ]
+        },
+        {
+            "text": "Imagining yourself passing the selection test. you feels like you're dreaming, and feel a little excited."
+        },
+        {
+            "text": "―But the reality is not that sweet. A voice that blows away the excitement echoes through the dojo."
+        },
+        {
+            "name": "Instructor",
+            "text": "That's right, now repeat the move! It's not about power, all you need is the flow…… don't let your guard down!! Come on!"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Haa……!"
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "This is self-defense practice. Shall we move in a flowing manner? Lady Ruby has been training since she was young."
+        },
+        {
+            "text": "As I recall, the details of the selection test said \"take self-defense training and acquire a certain skill\"",
+            "choice_data_list": [
+                "That's what we're going to do……?",
+                "That's what we're going to do……?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "So that's everyone, right? Now let's get started."
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "Certainly, Lady Ruby…… But I see that there are a few people who are reluctant to participate."
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "If you are frightened at this level, you will not be able to move forward. Polished confidence leads to shining dignity."
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "Please be prepared and aware that you are serving the Noble family and their daughter, Daiichi Ruby-sama."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "This is the end of our conversation. I am the one who will make the final decision. Ladies and gentlemen, please take on the challenge with all your heart."
+        }
+    ]
+}

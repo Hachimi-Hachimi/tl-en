@@ -1,0 +1,235 @@
+{
+    "text_block_list": [
+        {
+            "text": "― During the summer training camp held at the seaside training facility, the horsegirls engage in even more rigorous training than usual."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Ha… ha… </i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The sensation here is completely different from our usual course. However, I can feel that being trained here is hardly a bad thing."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now, let's keep going at it――"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Hey, did you hear? There's a festival nearby tonight!"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Really? Let's go together after we're done with training then!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, a festival…? They're engaging in quite the refined activity, aren't they?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I remember being taken there when I was a little. I remember there were lots of stalls, and it was lively and bustling.",
+            "choice_data_list": [
+                "Want to go check it out?",
+                "Want to go check it out?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah… are you sure?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In that case, we should hurry up and wrap up training. I'll give it my all and do one more session."
+        },
+        {
+            "text": "After finishing up training around sunset, Mejiro Mcqueen and I made our way to the festival venue."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My, this is quite a large, bustling crowd, isn't it."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There are so many stalls that it's hard to decide where to start looking. What should we try out first? Oh!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That stall out further in the back… could we have a quick look at it?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you very much. Well then, let's check it out."
+        },
+        {
+            "text": "I started walking quickly to catch up with Mejiro McQueen. However, at that moment—",
+            "choice_data_list": [
+                "Uff…!!"
+            ]
+        },
+        {
+            "text": "I unfortunately bumped into someone."
+        },
+        {
+            "text": "If it continues like this, I'm going to lose sight of Mejiro Mcqueen. But it was already too late."
+        },
+        {
+            "text": "For a while now, I've been searching for Mejiro Mcqueen with no luck.",
+            "choice_data_list": [
+                "(Where did she go…?)",
+                "(Where did she go…?)"
+            ]
+        },
+        {
+            "text": "(Ding dong, ding dong♪）"
+        },
+        {
+            "name": "Announcer A",
+            "text": "Lost and found announcement. Can the trainer of Mejiro McQueen please come to the committee tent immediately, thank you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah…… Trainer!",
+            "choice_data_list": [
+                "I'm glad you are safe!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm sorry, it's because I went ahead without waiting…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This time, I will make sure not to get carried away and stay with you, Trainer……",
+            "choice_data_list": [
+                "It's not a big deal, so don't worry about it.",
+                "It's not a big deal, so don't worry about it."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But, I don't want to cause you trouble――",
+            "choice_data_list": [
+                "It's a festival rule to let loose and have fun.",
+                "It's a festival rule to let loose and have fun."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? Festival rule…?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Haha, you're certainly right about that. After all, everyone who comes here is enjoying themselves without restraint."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If that's the case, then I have a small favor to ask. This is the stall I was going to go to earlier―"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If it's all right with you, will you come with me?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If I can catch one right… <i>there</i>!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, the string broke…… Excuse me, I would like another try please!"
+        },
+        {
+            "text": "It turns out that the stall that caught Mejiro Mcqueen's interest was a <i>Yo-yo Tsuri </i>stall."
+        },
+        {
+            "text": "And then, a short time later―"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I did it, Trainer!"
+        },
+        {
+            "text": "I looked over and saw that Mejiro Mcqueen had successfully reeled in a <i>Yo-yo</i> balloon."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huhu, it was quite a challenge, but it feels so rewarding when you manage to catch one."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm feeling good about winning the next game. So, which stall should we go to next?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "――Ah, look over here! That looks like a shooting game! And what's more, it says that you can win luxury prizes!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I wonder what kind of prizes those are. Well, since we're already here, shall we give it a go?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Come on, Trainer, over here!"
+        },
+        {
+            "text": "After thoroughly enjoying the festival, we decided to walk back to the training facility together."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you for coming along with me today. Thanks to you, I had a really great time.",
+            "choice_data_list": [
+                "I didn't do anything in particular."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That is not true. It's just, how can I put it into words…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If you hadn't been here with me as my Trainer, I probably wouldn't have let loose and had as much fun like this."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Until now, as a horsegirl of the Mejiro family, I have always striven to maintain proper conduct at all times. But――"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If it's for you, Trainer… I'd be willing to break that rule, just a little bit."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "After all, you'll forgive me, won't you, Trainer?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…… Thank you so much! Now, I want to propose an idea right away―"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That carrot castella we bought at the festival… shall we eat that while walking together?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I usually would never eat while walking, but since it's just the two of us here right now…",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Haha, thank you very much. Well then, Trainer, please help yourself."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "text_block_list": [
+        {
+            "text": "During training one day. I felt a gaze and looked up to see…"
+        },
+        {
+            "text": "The person looking at me was someone I didn't recognize. I assumed it was a fan or a visitor."
+        },
+        {
+            "text": "At the end of training, she was still looking at me. … Is there something she wants to talk about?",
+            "choice_data_list": [
+                "… Um, can I help you?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ah… I'm sorry. I hope I didn't interrupt your practice.",
+            "choice_data_list": [
+                "No, we're done."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "I'm glad to hear that! Actually, there is something I would like to talk to you about."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "I'm Etsuko Otonashi, a reporter for \"Twinkle Monthly\"."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "… I watched your training and was greatly impressed. I would love to support you both with articles. I have been waiting to discuss this with you."
+        },
+        {
+            "text": "She seems polite and sincere. With her considered articles, she may be able to gain <chrname> some fans.",
+            "choice_data_list": [
+                "It would be my pleasure!"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Thank you for your willingness. So, let's get right to it… What do you consider when deciding on a training plan?",
+            "choice_data_list": [
+                "I'm always considering her aspirations."
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "… I see. So your role as a trainer is to—",
+            "choice_data_list": [
+                "It's to help my Uma Musume achieve her dreams!"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "……… Su. Su… Su, Su……",
+            "choice_data_list": [
+                "Su…?"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Splendid!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "In other words, you're prepared to do whatever it takes to make sure that the horse girl in your charge reaches her dream!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "When she trains you train with her, when she's tired you provide hot springs, when she's thirsty you would scoop water from mountains!",
+            "choice_data_list": [
+                "(Is that what I said…!?)"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Ahh… I'm floored… with your determination as trainer. I'll turn this into an article that will blow their minds…!"
+        },
+        {
+            "text": "This is how I came to know a — in many ways— powerful supporter…!"
+        }
+    ]
+}

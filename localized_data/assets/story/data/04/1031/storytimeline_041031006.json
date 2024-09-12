@@ -1,0 +1,245 @@
+{
+    "text_block_list": [
+        {
+            "text": "On a day off, I happened to run into Ines Fujin while walking around town. Unusual, as she spends most of her free time at her part time jobs.",
+            "choice_data_list": [
+                "No shift today I see.",
+                "No shift today I see."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, Trainer! Yep, a rare occasion～♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So I'm taking the opportunity to go all around town and enjoy it to the fullest! Now where do I start～?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…… Well, I would've liked to, at least.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The thing is… Killing a little time is easy enough, but I have no clue how to deal with a whole day……"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah… it's surprisingly hard～!"
+        },
+        {
+            "text": "Considering how active she always is, that's such a <i>her</i> problem to have I'm not even surprised. In that case —",
+            "choice_data_list": [
+                "Shall I escort you today?",
+                "Shall I escort you today?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh? You, Trainer?",
+            "choice_data_list": [
+                "I owe you for all your help as well."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I see, I see～ In that case, I'll take you up on that!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Where are you gonna lead me～? Ehehe♪ I'm expecting a wonderful time!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Wohaaoh～!</i> Those cranes and koalas are so cute～♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You can't find all these animals at the local zoo! My little sisters will be so amazed when I tell them!"
+        },
+        {
+            "text": "Seeing her smile and wanting to keep up how well this was going, I tried to cross-reference the spots recommended on social media with the map, but…",
+            "choice_data_list": [
+                "The petting area is… uhh? I don't see it."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hmm? Gimme a minute. …… Let's see～"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "They moved last week apparently. Says it's opposite the Penguin Corner now!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Amazing! This view's spectacular～! You think we can see the academy through this telescope～?",
+            "choice_data_list": [
+                "Let's take a peek!"
+            ]
+        },
+        {
+            "text": "Putting words right into action, I tried to insert a coin in the telescope before her.",
+            "choice_data_list": [
+                "Wait, I don't have any change!?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Awww～ I think I saw an exchange section back there if……"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hey—! Man, you're panicking too much! There's no need to rush, the telescope's not going anywhere, you know～?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The atmosphere here feels kind of really mature… …… It's a little exciting♪",
+            "choice_data_list": [
+                "Got my change already, it's time to play!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahh! Wait, wait, wait! There's a sign over there!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It says you need special coins to play here. You need to exchange some first, Trainer!"
+        },
+        {
+            "text": "We continued to drop by various places, but everywhere we went I ended up needing Ines Fujin to help me out.",
+            "choice_data_list": [
+                "Ugh, my self-image……",
+                "Ugh, my self-image……"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Don't let it get you down! Cheer up! Though I can't deny you had a few fumbles."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I got to go to so many unfamiliar places and I can tell you put a lot of effort into everything."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm… feeling really happy!"
+        },
+        {
+            "text": "Ines Fujin will follow my lead and back me up. Still, as her trainer, I want to actually be of use to her."
+        },
+        {
+            "text": "Somewhere I can \"be of use to her\" ― Come to think of it, there's one place we haven't been yet."
+        },
+        {
+            "name": "Crowd",
+            "text": "(<i>Wooooaaaahhhh……!!!</i>)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh man, oh man! That girl hasn't slowed down this whole time!"
+        },
+        {
+            "text": "I watched a heated race unfold with Ines Fujin. Her eyes were glued to the leading horse girl who was gallantly running away from the rest."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Turf, 2400m…… She ran an escape on the same distance as the Japan Derby!"
+        },
+        {
+            "text": "Turf, 2400m. As she says, it's the distance of the Japan Derby. It was also the same distance as that time she stole my heart in an instant.",
+            "choice_data_list": [
+                "You can run just as well, no, better!",
+                "You can run just as well, no, better!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You think? …… No, I want that to be true!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "This made me realise once again. I… really love running an escape!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I want to constantly run as fast as I can, faster than anyone else, like a wind sweeping the turf!"
+        },
+        {
+            "text": "There it is. Her passionate gaze — the beast inside surfacing."
+        },
+        {
+            "text": "When her wish comes true, I'm sure the entire audience will be captivated by her. I couldn't help but picture the scene at the venue, the unending cheers for her performance.",
+            "choice_data_list": [
+                "Then we aim for the lead early!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's right! The groundwork for an escape is laid early after all!",
+            "choice_data_list": [
+                "We'll need to focus on your starts too."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, there was a girl in this race who reacted late and couldn't break away from the pack… I better concentrate, too!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I could also be blocked or run out stamina in the final leg…",
+            "choice_data_list": [
+                "You'll need power and stamina for that."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Mm-hm!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Trainer's opening up more than earlier now. Looking happy, giving it their all. It's kind of……)"
+        },
+        {
+            "text": "I became naturally impassioned by the conversation and before I knew it, quite a bit of time had passed."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "What can I say…… You really are a trainer.",
+            "choice_data_list": [
+                "S-Sorry for rambling on……"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I didn't mean that in a bad way! I can tell that you really want me to win. Those honest feelings reached me loud and clear."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…… I thought you were pretty dashing even!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So don't apologize, mm?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thank you for today! If we get another chance, let's go out somewhere together again!",
+            "choice_data_list": [
+                "I'll escort you properly next time!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Mm, I'm looking forward to it♪"
+        },
+        {
+            "text": "I was able to spend a fulfilling day off with Ines Fujin."
+        }
+    ]
+}

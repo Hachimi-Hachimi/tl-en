@@ -2,6 +2,9 @@
     "windows": {
         "bundle_name": "NGPMGO5DV7VPDGJI6HTM7W2AMANZTZRT"
     },
+    "android": {
+        "bundle_name": "3UQDBHPFHY6POF2RTPLTZYPUYRNPXDKY"
+    },
     "data": {
         "motion_parameter_list": {
             "4": {
@@ -14,7 +17,7 @@
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "Left"
+                        "text": "left"
                     }
                 }
             },

@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Long…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The long race is about to begin…",
+            "choice_data_list": [
+                "(Something's happening.)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "3600m, a steep road for me… I've run and run, but still it goes on."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But, I have to try."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "――I should be a role model for everyone, as class president!",
+            "choice_data_list": [
+                "……That's right!",
+                "……That's right!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "First up is the first 1200 meters. I'm going to overcome it!"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Ugh… I don't need this. They're all here, look…",
+            "choice_data_list": [
+                "Huh? Who is?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Folks from back home. I told them it was just a little school event, no big deal, y'know? Well, they all made the trip up here anyway…!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And who's that they're sat next to? All the local folks from the neighborhood here! And they're all getting on like a house on fire!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Getting all excited over little old me… I tell you, it's like some kind of family reunion up there!",
+            "choice_data_list": [
+                "So instead of two fan clubs, now you've got one big one!",
+                "So instead of two fan clubs, now you've got one big one!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "T… trainer-san! Come on, not you too!?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ngaah! Just stop it with the expectations already!"
+        },
+        {
+            "text": "But once it came time for Nice Nature to line up in the starting gates, her expression was very different…"
+        },
+        {
+            "text": "The big race was about to begin…!"
+        },
+        {
+            "text": "(Bang!!)"
+        },
+        {
+            "name": "Both",
+            "text": "Ha, hah, ha, haa…!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "They're rounding the first corner now and it's Nice Nature in 4th position, but all eyes are on Tokai Teio, a length behind in 5th…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Ugh, I really could do without all this pressure. Look at her, I bet she doesn't even know the meaning of the word…)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(But it's alright… it's all going to plan so far…)"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh. See ya later!"
+        },
+        {
+            "name": "Commentator",
+            "text": "And Tokai Teio makes her move, she powers to the front of the pack…!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uuh…!?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Crap! Teio's hitting out already! If I let her get a gap now, I'm never bringing her back…)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gaaah…!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Nice nature breaks away from the group and takes off in pursuit as they round the last corner!"
+        },
+        {
+            "name": "Commentator",
+            "text": "It's still Tokai Teio, Tokai Teio leads with Nice Nature in 3rd, she's giving it everything to try and bridge the gap…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hah, ha, hah…! Aaaaaaaghh!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Tokai Teio leads by 2 lengths… 2½… 3 lengths now and she is HOME!"
+        },
+        {
+            "name": "Commentator",
+            "text": "It's another commanding victory for Tokai Teio!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ha, hah, ha… aaah—"
+        },
+        {
+            "text": "……"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hahaa… I was pretty close there, wasn't I?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And hey! 3rd place isn't a bad result! Can't complain, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You know, I think it's actually just right for me! Not nothing, but not a big deal either. Kind of suits me, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah. Yeah, this is pretty much what I'm capable of."
+        },
+        {
+            "name": "Teacher A",
+            "text": "Sorry to interrupt. Is Nature-san here?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, uh, yeah. Can I help you with something?"
+        },
+        {
+            "name": "Teacher A",
+            "text": "I've got a delivery for you. I'll just put it down here."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh…?"
+        },
+        {
+            "text": "The teacher placed a large box on the table. It was packed to bursting with letters… fan letters, all addressed to Nice Nature."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"Dear Nay-chan,\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"We know you gave it everything in todays race. It's a shame you couldn't finish first, but seeing you fight so hard is an inspiration.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"You bring smiles to all of us even though you aren't here…\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"To know a wonderful Uma Musume like you is a privilege and we will treasure it forever.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"We will always cheer for you! Stay healthy,\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't… what is…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What are they talking about? \"Inspiration\"? Me? But… but I didn't…",
+            "choice_data_list": [
+                "You're a hero to a lot of people, you know.",
+                "You're a hero to a lot of people, you know."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "……!!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ngaaaah! Aaaaagh! AAAAAA!!!!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Shit! Shit shit shit shit AAAAAAAGH!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Third place, what the hell is that! Every GOD DAMN time!!!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ohhhh, I ran a good race, did I!? Good hustle, huh!? Better luck next time!? I'm not just going to stand here and accept that that's all I've got. I won't do it!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "God, and just listen to me… trying to style it out like third place is alright really. Pretending it doesn't hurt to lose EVERY SINGLE TIME. I'm an embarrassment."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Telling people not to have faith in me… because I don't want to let everyone down, you know…? I don't want to let myself down!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But… but… but come on…!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't want this to be all there is!",
+            "choice_data_list": [
+                "Yeah. I know, right?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Those people support me… they cheer for me, they look to me for inspriation. Me!!!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So I have to do it for them. I have to give them what they want to see. I have to shine… I have to win!",
+            "choice_data_list": [
+                "I've been waiting to hear you say that."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trainer-san…",
+            "choice_data_list": [
+                "From now on, we're racing for 1st place."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, yeah, uh… what I mean is… ugh…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahh, it's no good, is it? I've got to stop trying to hedge all the time."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sorry for not giving you a straight \"yes\". I guess… I'm not brave enough to say that sort of thing out loud just yet."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But… umm… you know. If you say you want to… like… go for it, then…",
+            "choice_data_list": [
+                "Let's go for it. Together!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay. Let's do it, trainer-san!"
+        }
+    ]
+}

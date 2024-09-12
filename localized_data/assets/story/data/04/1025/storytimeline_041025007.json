@@ -1,0 +1,257 @@
+{
+    "text_block_list": [
+        {
+            "text": "The summer training camp. Manhattan Cafe had been training harder than I'd ever seen before."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Haa… haa…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Huuh…",
+            "choice_data_list": [
+                "Okay, good work. Let's leave it there for today."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But… trainer-san…",
+            "choice_data_list": [
+                "I said, let's leave it there.",
+                "I said, let's leave it there."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Under… stood…… Thank you. Um… trainer-san…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Do you think all this training… has made me stronger…?",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Really… In that case, trainer-san, there's something I'd like you to do for me."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Something… very important."
+        },
+        {
+            "text": "Manhattan Cafe had asked me to come and watch her race down on the beach that night. But who with? She was alone when I got to our meeting place…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you for coming, trainer-san."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It's very important that you see this.",
+            "choice_data_list": [
+                "Are you going to race your… friend…?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No… not her. The truth is…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "\"They\" are here… Now… behind you, trainer-san.",
+            "choice_data_list": [
+                "!?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Don't… turn around. They… want you."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "As long as you're with me, you are safe. But they will try to draw you away… get you on your own…",
+            "choice_data_list": [
+                "W… what will they do then…?",
+                "W… what will they do then…?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I don't know. But…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I will not let them take you."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tonight, we are going to race. And put an end to this."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer-san… do you believe me…?"
+        },
+        {
+            "text": "I swallowed hard. I didn't want to think about what might happen if she lost. But there was only one answer to her question…",
+            "choice_data_list": [
+                "I believe you. Always.",
+                "I believe you. Always."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you. Alright. Shall we…?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The rules are simple. Run to the rock over there, and then back again. The first one back is the winner."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "They are strong. But…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I will not lose. I am stronger now. Stronger than ever. Because of the work we did, together, trainer-san."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I am ready. Would you…?"
+        },
+        {
+            "text": "I nodded, and took a step back. I raised an arm, ready to signal the start.",
+            "choice_data_list": [
+                "Marks, set… go!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Huu―"
+        },
+        {
+            "text": "A sharp breath, and she took flight. The jet black of her hair mingled with the dark of the night as she faded into the shadows like an apparition."
+        },
+        {
+            "text": "I could only see one figure receding into the distance. But when I squinted, I could swear I saw a second set of footprints in the sand…",
+            "choice_data_list": [
+                "Is that… \"them\"…?",
+                "Is that… \"them\"…?"
+            ]
+        },
+        {
+            "text": "From the way the sand flew from their feet, it looked like Manhattan Cafe was ahead, but only barely. The effort was written on her face as she dug deep to hold her slender lead…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(You really are fast… That's it, isn't it…? You wanted to run… like this…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(To get faster… to get better… But you couldn't tell anyone… Because no one else can see you…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(That's why… you wanted trainer-san…!)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(Because even if he doesn't see …he can still believe…!)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You… cannot see her… No matter how hard you look… you do not have eyes to see… Neither you… nor anyone else…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No one knows she is there. No one but me. Because… she is far, far away…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You… cannot see her… And yet… it's almost as if you can…?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(You wanted to be noticed… You wanted him to see you… but…)"
+        },
+        {
+            "text": "From out of nowhere, a blast of wind… sand blew all around… they were close to finish line now, but I couldn't see a thing…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I won't let you… I won't let you take him…!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Haaaah!"
+        },
+        {
+            "text": "As suddenly as it had started, the wind dropped. The sand settled, and the air was still."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "They… no, she… has gone. I think… she was able to do what she needed to do…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "All she wanted… was to run. Like everybody else."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Like all of us at the academy. To win. To lose. To get faster. To get stronger. That was all she wanted."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But… no one even knew she was there…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "If only I could have found her sooner… You might not have been dragged into this.",
+            "choice_data_list": [
+                "But… she's happy now, right…?",
+                "But… she's happy now, right…?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I… think she is.",
+            "choice_data_list": [
+                "And it was thanks to you.",
+                "And it was thanks to you."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer-san… you are… a very unusual person."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You must have been so afraid and yet… … you put it aside as if it didn't matter at all."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(Someone like that… is what she needed… what I…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah…",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A shooting star… It's almost as though… she's… running…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… trainer-san… Can we… stay here a while longer…?"
+        },
+        {
+            "text": "Manhattan Cafe didn't say another word, and we gazed at the night sky together for I don't know how long. And I knew… this was a training camp I would never forget."
+        }
+    ]
+}

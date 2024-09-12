@@ -1,0 +1,158 @@
+{
+    "text_block_list": [
+        {
+            "text": "The weather forecast had been wrong and it was pouring with rain. I was in the office, throwing together an indoor training plan for the day…",
+            "choice_data_list": [
+                "(Where'd that pen go…?)"
+            ]
+        },
+        {
+            "text": "It felt like I'd been losing things a lot recently. The pen today. Those papers from the academy yesterday…"
+        },
+        {
+            "text": "I got up to get another one… when…"
+        },
+        {
+            "text": "(bonk!!)",
+            "choice_data_list": [
+                "Oww!"
+            ]
+        },
+        {
+            "text": "A sudden shove, like someone was trying to push me over… but there was no one in the room but me…",
+            "choice_data_list": [
+                "(Maybe I'm just… tired…?)"
+            ]
+        },
+        {
+            "text": "No time to worry about that now though. A trainer can't keep their Uma Musume waiting! I gave myself a quick pep-talk, and got to work."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Haa, haa…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um…… trainer-san… …the music's stopped…",
+            "choice_data_list": [
+                "…… hmm? What?"
+            ]
+        },
+        {
+            "text": "(I'd put on some music to help her tempo while she ran laps of the gym. When had it stopped? I hadn't even noticed…)",
+            "choice_data_list": [
+                "Sorry! I was miles away…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… trainer-san…",
+            "choice_data_list": [
+                "Really, I'm sorry…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No… it's fine, but…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Recently, have you noticed anything… unusual… happening?",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "If not… that's fine…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Shall we… finish for today…?",
+            "choice_data_list": [
+                "Yeah… let's leave it there.",
+                "Yeah… let's leave it there."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Understood. I'm going to stay here a while longer.",
+            "choice_data_list": [
+                "If you want to keep training, I'll stay too."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That… won't be necessary… You… should go home…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Straight home. Don't stop. And…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "For the time being… please don't come down to the track at night…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You must not visit me… at night…"
+        },
+        {
+            "text": "When I got outside, the rain had stopped. As I walked home, I thought back on what Manhattan Cafe had said.",
+            "choice_data_list": [
+                "(I mustn't see her…?)"
+            ]
+        },
+        {
+            "text": "Maybe she was mad at me for messing up earlier. \"I've got to do better tomorrow\" I told myself, when…"
+        },
+        {
+            "text": "Suddenly a chill run down my back… I was being watched…",
+            "choice_data_list": [
+                "W… who's there…?!",
+                "W… who's there…?!"
+            ]
+        },
+        {
+            "text": "I turned back to look, but there was nothing but darkness. Darkness… and the unmistakable sense that someone was right behind me…!"
+        },
+        {
+            "name": "???",
+            "text": "Um…",
+            "choice_data_list": [
+                "AAGH!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I had one more thing to tell you…",
+            "choice_data_list": [
+                "Y… y…… you frightened the life out of me!!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sorry. I didn't mean to."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I just wanted to say… take care. So…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Until tomorrow."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "As I thought… it's not me they want… it's trainer-san…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But why? What don't they like about him? Or… could it be…"
+        }
+    ]
+}

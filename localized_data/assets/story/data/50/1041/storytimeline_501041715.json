@@ -1,0 +1,64 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahhh―! I worked so hard today, too! These legs are beat!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait, oya? There's someone over there――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Rice! Where are you headed at this hour?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "M-Ms. Bakushin O! Um, I just thought, I would run… for a bit."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rice also wanted to do her best…. like everyone else, and, um……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I, I'm so sorry! I'll hurry back… right now… before the curfew!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhhh～～～! What a hard worker! Not to mention, that run……!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Excellent… One of my rivals, indeed! My battered legs are itching to get going!",
+            "choice_data_list": [
+                "You're going to run some more?",
+                "We'll work hard tomorrow.",
+                "We'll work hard tomorrow."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Excellent… One of my rivals, indeed! My battered legs are itching to get going!",
+            "choice_data_list": [
+                "You're going to run some more?",
+                "We'll work hard tomorrow.",
+                "We'll work hard tomorrow."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What a fantastic idea! By all means, let's do it!"
+        },
+        {
+            "text": "After that, Rice Shower and Sakura Bakushin O did additional training together until curfew."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course I will! I'll Bakushin with all my might tomorrow―!"
+        },
+        {
+            "text": "Sakura Bakushin O was already full of energy for tomorrow's training."
+        }
+    ]
+}

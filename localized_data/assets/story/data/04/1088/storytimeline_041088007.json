@@ -1,0 +1,259 @@
+{
+    "text_block_list": [
+        {
+            "text": "At the end of Summer Training Camp, Satono Crown stopped me, saying she had something she needed to talk to me about."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Do you have a moment? For the question I'm about to ask, can you give me an honest answer please?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……Trainer. Do you……have any interest in what's beyond the ocean?",
+            "choice_data_list": [
+                "Beyond the ocean……?"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(After such a grueling summer camp, a statement that hints at a challenge overseas……)"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(In addition to that, they already know that I'm going to Hong Kong because of our shopping trip)"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(Good! It's perfect, if I do say so myself! With this, it should properly convey that I want to go to Hong Kong together……!)",
+            "choice_data_list": [
+                "Hmmmmm……"
+            ]
+        },
+        {
+            "text": "If she was going out of her way to ask me after training was over, then she must want to keep this private."
+        },
+        {
+            "text": "Beyond the ocean……so she's asking about traveling abroad……? In that case, I didn't have any plans to go abroad anytime soon. So my answer is――"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(Alright, Trainer! Let's go together――to Hong Kong!)",
+            "choice_data_list": [
+                "I don't plan on going"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "What!? No, wait―――― …………"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(No……I can't force the issue, definitely……)"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "…………I see. I guess it can't be helped. ……Thank you.",
+            "choice_data_list": [
+                "……?"
+            ]
+        },
+        {
+            "text": "It was a bit unusual, but she seemed to be worried about something. I wonder if something happened…… I suppose I'll keep an eye on her for a while."
+        },
+        {
+            "text": "It was with that in mind that dinner approached. ……but Satono Crown was nowhere to be found."
+        },
+        {
+            "name": "Uma Musume A",
+            "text": "……Kura-chan is it? Ummm……huh? We just came out of the common room though?"
+        },
+        {
+            "text": "If she's not in the common room……then maybe she went outside? Did she not tell anyone where she was going?――",
+            "choice_data_list": [
+                "(The beach……?)"
+            ]
+        },
+        {
+            "text": "Now that I think about it, when we were talking about traveling abroad, she seemed to have something on her mind……",
+            "choice_data_list": [
+                "(Is it possible……?)"
+            ]
+        },
+        {
+            "text": "Maybe she made her way back to the beach from this afternoon. It was nighttime but I still made my way there. Then――"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……Trainer.",
+            "choice_data_list": [
+                "I was looking for you",
+                "I was looking for you"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Sorry. I just wanted to enjoy the evening breeze……"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(As I thought. Trainer always seems to be able to find me no matter where I go……)",
+            "choice_data_list": [
+                "Is there something worrying you?",
+                "Is there something worrying you?"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "!　…………"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "(They noticed. So we are communicating properly. They trust me……there's no mistaking that)"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "…………"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "…………during the next long break, I plan on going to Hong Kong."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "While helping with Papa's business, I plan on making use of the Satono family's exclusive training facilities over there."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "But really, I――"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "――wanted to go together with Trainer."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Fufuu. I even made plans on the assumption that we'd be going together……"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Having you help me with intensive training. Seeing some of the races in Hong Kong. ……And if possible, running in a few."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "And then……seeing the sights with Trainer, visiting Papa's stores…………"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "I know it was really presumptive of me……"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Without even hearing your thoughts, just getting swept up in the moment……"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Up until now……even today was like that. I kept naively thinking 『Trainer would understand』."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……But, today made me realize…… that maybe this was for the best……"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Don't worry! Even if I'm on my own, I'll show you that I can still grow in Hong Kong!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "That's why, while Trainer's staying here…… you can think of the best training menu for the future me♪",
+            "choice_data_list": [
+                "If possible, I want to go too"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Eh……?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "But……you said you didn't plan to…………",
+            "choice_data_list": [
+                "Did I say that?"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Y-you did! Today, in the afternoon――"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……Trainer. Do you……have any interest in what's beyond the ocean?"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Back then, you said 『I don't plan on going』……",
+            "choice_data_list": [
+                "Sorry, I thought you meant a vacation……"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Eeeh!? There's no way――"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Huh……but, I suppose……? It could be misunderstood that way…… I guess……I didn't convey it properly……"
+        },
+        {
+            "text": "For my part, before, I spent so much time desperately trying to read her intentions that I never even asked about her feelings.",
+            "choice_data_list": [
+                "We both need to talk more, huh?",
+                "We both need to talk more, huh?"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "You're right. Trust isn't all about knowing without speaking to each other……Being able to say it out loud……is important too.",
+            "choice_data_list": [
+                "In that case, in regards to Hong Kong――"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……?",
+            "choice_data_list": [
+                "I want to go as your trainer",
+                "I want to go as your trainer"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "…………Fufuu."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "Right. Let's go together――to Hong Kong!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "……Then, I guess I'll have to adjust my plans, huh? I made adjustments assuming you wouldn't come.",
+            "choice_data_list": [
+                "Ah, I don't have the notepad with me"
+            ]
+        },
+        {
+            "name": "Satono Crown",
+            "text": "No problem! There's always the sand. Let's write out all our ideas here!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "For visiting Hong Kong, gourmet food is important isn't it? Near Papa's offices, there's a recommended dim sum restaurant we can go to!"
+        },
+        {
+            "name": "Satono Crown",
+            "text": "And the night view is something you can't miss. And if we're going to be there for a while, we definitely need to see Victoria Harbor! And then there's――"
+        },
+        {
+            "text": "After that, we spent the summer night scribbling plans for Hong Kong in to the sand until we could barely walk without stepping on them."
+        }
+    ]
+}

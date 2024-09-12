@@ -1,0 +1,161 @@
+{
+    "text_block_list": [
+        {
+            "text": "One afternoon, I get a notification on my phone, so I take a look, and――"
+        },
+        {
+            "name": "???",
+            "text": "Horseshoes: found―!!",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Wait! Bakushin O-senpaaai―……!"
+        },
+        {
+            "text": "<i>(Thud!!)</i>"
+        },
+        {
+            "text": "――A tremendous crash assaulted my back!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaaah～! I apologize for the abruptness of my assault! Trainer!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Please forgive her! My senpai only did it because her righteous heart is burning to catch this criminal…!",
+            "choice_data_list": [
+                "Uh, criminal?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "My classmate's horseshoe has been stolen! As the class president, I cannot turn a blind eye!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "The same thing is happening all over school… I, too, as a hero of justice, am pursuing the culprit!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Stealing horseshoes, that crow!",
+            "choice_data_list": [
+                "Was I just mistaken for a crow…?",
+                "Was I just mistaken for a crow…?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, no, no! Not at all! That phone, it looked like the stolen horseshoe…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just now! Compleeetely! I forgot that the culprit was a crow!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Howeeeeever! Next time, without fail, I'll get the horseshoe back from that cro――"
+        },
+        {
+            "text": "(Kaaaaack! Caaaw!)"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There it is! A crow with a horseshoe in its mouth! This time, in the name of the class president, I shall capture you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You can't escaaaaaape!!"
+        },
+        {
+            "name": "Classmate A",
+            "text": "Horseshoes and… huh? This menko, the one I lost and was looking for…!"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Aahh!? There's my hoof hammer, too! It was just the crows' doing…! Thank goodness!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That crow was the school's great thief! That's amazin', Bakushin O-senpai!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fu-fu-fu! Isn't it!? This is――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The Bakushin-esque power of the class president!"
+        },
+        {
+            "name": "Classmates",
+            "text": "As expected, Bakushi―n! That's our class president～～!"
+        },
+        {
+            "text": "Sakura Bakushinoh's fame was further enhanced!"
+        },
+        {
+            "name": "Classmate",
+            "text": "Whoa! Thanks, class president! For getting my horseshoe back!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Those crows were shakin' in their boots so bad, they must have changed their minds! Now we've successfully kept the peace at the school!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh no, no, this is nothing! With my superb swiftness, I can do this stuff without breaking a sweat!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Please do keep counting on me for anything at all, one thing after the other!"
+        },
+        {
+            "text": "Sakura Bakushin O's class was excited by her success."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Whhaaaah―!? Being able to fly isn't fair―!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Uuuugh… I missed. I should have polished up on my Bakushin more…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, if I simply give up like this, I'll ruin my reputation as class president! What should I do!",
+            "choice_data_list": [
+                "We'll use traps to lure them out."
+            ]
+        },
+        {
+            "text": "Earlier, she said \"I mistook a horseshoe for a cell phone.\" …Using what she said as a hint, I set up a phone as a decoy――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hiyaaaaah――!!"
+        },
+        {
+            "name": "Classmate",
+            "text": "Whoa! Thanks, class president! For getting my horseshoe back!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Those crows were shakin' in their boots so bad, they must have changed their minds! Now we've successfully kept the peace at the school!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fufu, I'd like to thank you, too! This has been a great learning experience!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Not only must I Bakushin… It's also quite necessary to work out a plan!"
+        },
+        {
+            "text": "While she regretted that she couldn't solve the problem, she seemed to have made a new discovery."
+        }
+    ]
+}

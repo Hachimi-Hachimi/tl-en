@@ -1,0 +1,317 @@
+{
+    "text_block_list": [
+        {
+            "text": "The day before Christmas, after training was over."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer, what are your plans for tomorrow?",
+            "choice_data_list": [
+                "Nothing special, I guess."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! Then, I shall do you the honor of going out somewhere together with me!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, then, farewell―!",
+            "choice_data_list": [
+                "Where and when!?"
+            ]
+        },
+        {
+            "text": "I then managed to get the details of the meeting, and the next day…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oya! You're quite early, Trainer.",
+            "choice_data_list": [
+                "I thought Bakushin O would get here with her usual \nspeed."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That is true! I'm an honors student, after all!",
+            "choice_data_list": [
+                "But, I thought you said an hour ago was early."
+            ]
+        },
+        {
+            "text": "Our engagement is at eleven. And it's only 10:00 now."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's good to be fast―rather, early! So, with all haste, let's get to it!",
+            "choice_data_list": [
+                "Where to?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, well, I can understand your excitement, but please do settle down."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Because I've learned how to spend Christmas in a proper and exemplary way!",
+            "choice_data_list": [
+                "An exemplary Christmas?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Precisely! That's what the magazine my classmate was reading said!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If it's said to be an exemplary way to spend one's time, then there's no choice but to put it into practice!"
+        },
+        {
+            "text": "There was a part of me that was a little concerned when I heard it was from a magazine her classmates were looking at, but I decided to just go along with it without saying anything."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "First things first, lunch! The place should be around here…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Holdupholdup, looks like it's right over there! That brick building is an Italian restaurant!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It certainly has an Italian look to it! And with so few people around, it's like a nice little secret hideaway!",
+            "choice_data_list": [
+                "Maybe it's because it's still early?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It'll be just fine! It's an early-speedy lunch!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's gooo―!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Mmm～… ♪ That was deeelicious!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And the desserts were so sweet, it was almost like a secret spell was cast on them!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But, sure enough, I suppose I just couldn't hide my class president aura, can I?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I had no idea that they would serve it in a heart-shaped bowl… I could feel the waitress's unwavering trust in me!",
+            "choice_data_list": [
+                "(Is that so?)",
+                "(Is that so?)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now then, onto the shopping! Let me see here, I think I recall the magazine said that general store is the place to go!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmmm, there's nothing in particular that I want right now. But if it's the exemplary place to be, let's give it a shot."
+        },
+        {
+            "text": "After that, we window-shopped at a general store that sold Christmas ornaments, and then watched a lights display…"
+        },
+        {
+            "text": "It turned into a full day out with Sakura Bakushin O."
+        },
+        {
+            "text": "Then, after we'd finished dinner…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahhh, now that was a very fun day! Wasn't it amazingly exemplary?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If we finish the final item on our itinerary strong, it'll be a perfect score! Let's see, I think the last one is……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, right! Let's hug it out under the starry night sky!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "……Wait, hug!? Eeehh, why?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But it looked like it most certainly, definitely, undeniably did say that! Could I have overlooked something?!",
+            "choice_data_list": [
+                "Wasn't today a plan for a date, though?"
+            ]
+        },
+        {
+            "text": "When I look back the day, I feel like I went on your typical, run-of-the-mill date plan, so to speak."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A date?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, you're saying that my Trainer and I have been on a date this whole time?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Chowaaaahh――!?</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aah! Date! Nowaynowaynoway, <i>no way!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To think that the class president herself would take part in impure relations!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Sakura Bakushin O, today's disappointment!!",
+            "choice_data_list": [
+                "(Today?)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What do I dooo!? I can't face my fellow classmates like this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaahhh, am I going to be dragged into school for punishment tomorrow!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As punishment for betraying everyone's trust, will I forever be branded as a good- for-nothing class president―!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer, what do I dooo～!?",
+            "choice_data_list": [
+                "……Good job on your patrols!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eh!",
+            "choice_data_list": [
+                "I didn't see any students getting carried away!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhh～!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's right! None whatsoever!",
+            "choice_data_list": [
+                "Right then, let's go home!",
+                "Right then, let's go home!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yessir!"
+        },
+        {
+            "text": "And so, that was how I spent a wholesome Christmas with Sakura Bakushin O."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "――Well, I suppose it's alright!",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Because if it's with your Trainer, it's not like it's an impure relationship."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In fact, I'd say it's a very pure affair!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, hugging is a no-go for the class president, so I'll give you something special instead!",
+            "choice_data_list": [
+                "Something special?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indeed! It's a notebook!"
+        },
+        {
+            "text": "Sakura Bakushin O gave me a personal organizer to help me keep track of my management schedule."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I thought you might need it before the new year! Since I'm the impossibly intelligent and thoughtful class president!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I've even filled in the schedule for you! Here are my future race plans!"
+        },
+        {
+            "text": "I flipped through the pages and saw G1, G1, G1…… There was a chock-full schedule of races."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "For now I'm thinking we'll enter every race, but I'll book an appointment to hash it out with you, Trainer!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Canceling appointments is a Miracle-no-go! Let's Bakushin together next year, too!",
+            "choice_data_list": [
+                "Without a doubt. Thanks!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fufuu, you're very welcome!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…Aaaahhh―!? It's already so late!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class presdient, I absolutely cannot break the curfew!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's Bakushin, Trainer! I'll lead you along this time, just for you!",
+            "choice_data_list": [
+                "Huh!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, give me your hand!"
+        },
+        {
+            "text": "…And thus, the noisy yet joyful Christmas night went on."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's・Bakushiiiin!"
+        }
+    ]
+}

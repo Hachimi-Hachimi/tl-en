@@ -1,0 +1,83 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I was coming and going due to the races, but… I was able to finish the summer training camp without incident!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah!!!!!",
+            "choice_data_list": [
+                "What!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I have realized something, just now…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In terms of distance traveled, surely I must have passed the 3600 meter mark by now!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Perhaps I've already covered about 100 million meters…!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I, I… I'm just way too brilliant――!?",
+            "choice_data_list": [
+                "……Unchartered territory for an Uma Musume, huh!",
+                "……Unchartered territory for an Uma Musume, huh!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hawawawawaa, my excellence is just terrifying…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But I cannot settle for just this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm going to go run on the beach and extend the distance even more!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushiiiin!",
+            "choice_data_list": [
+                "Right now!?"
+            ]
+        },
+        {
+            "text": "I rushed after Sakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "BakushinBakushiiiin!",
+            "choice_data_list": [
+                "Wait, the bus is already here!",
+                "Wait, the bus is already here!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eh!? Then, I cannot proceed! Tardiness is a class president no-go!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm turning back right awa―― Aaaaahhhh――?!"
+        },
+        {
+            "text": "(Splaaash!)"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaah, my speed has turned against me…! Trainer, you're soaking weeet―!!"
+        },
+        {
+            "text": "…This is how the, hot? summer camp with Sakura Bakushin O came to an end."
+        }
+    ]
+}

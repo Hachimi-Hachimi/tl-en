@@ -1,0 +1,93 @@
+{
+    "text_block_list": [
+        {
+            "text": "Today is the start of the \"summer training camp\" - a training program to improve our skills."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You over there! Promptly get your belongings to your room, please!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You there, we'll talk later! First, we must greet the workers at the facility!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You, too, get to your room as soon as possi―"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "―ooh, if it isn't Trainer-san!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Be careful, I was almost about to show you to your room by mistake!",
+            "choice_data_list": [
+                "You're all worked up.",
+                "You're all worked up."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course I am!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "When it comes to the camp, it's the class president's time to shine! Guiding, supervision, patrolling, et cetera."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahh, so busy, so busy! It's hard work being an honors student!",
+            "choice_data_list": [
+                "…What about training?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Naturally, I'll be able to do both flawlessly――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaaahh!! You over there, what are you up to!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You are not allowed to go to the beach yet! I won't let you through without permission!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Um……Then, can I have permission to go to the beach?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha! You're asking me for permission!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's just how reliable I am. Then, there's only one answer!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I grant you permission!!"
+        },
+        {
+            "name": "Teacher",
+            "text": "Arrghhh! Sakura Bakushin O, what the hell do you think you're doing!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Teacher! Did you see that!? Wasn't that a splendid decision on my part!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "From now on, you can call me, \"class teacher president\" if you like!"
+        },
+        {
+            "name": "Teacher",
+            "text": "What the hell are you talking about!?"
+        },
+        {
+            "text": "And so began the… fiery? Summer training camp with Sakura Bakushin O."
+        }
+    ]
+}

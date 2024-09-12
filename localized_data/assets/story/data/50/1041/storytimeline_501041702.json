@@ -1,0 +1,218 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Siiiigh…"
+        },
+        {
+            "text": "One holiday, I went out with Sakura Bakushin O, but she didn't seem to be in the mood the whole time.",
+            "choice_data_list": [
+                "You look down. What happened?",
+                "You look down. What happened?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To tell the truth… a classmate of mine is leaving the Academy."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm sorry to say goodbye to her, both as class president and personally…"
+        },
+        {
+            "text": "Due to the nature of the Academy, students often transfer out. But that doesn't mean it's any easier when they have to part ways."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oya? Could that be…"
+        },
+        {
+            "text": "A student in a jersey was running in front of me. She seemed to be heading towards the school.",
+            "choice_data_list": [
+                "Do you know her?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's the classmate I was telling you about! I can't believe she's training at this hour――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class president, I cannot allow this! Stop right theeeere!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's late, you should head back. I cannot let a curfew breaker go unnoticed!"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Ughh… I know I'm not supposed to be doing this. But I'm running out of time!!",
+            "choice_data_list": [
+                "What do you mean?",
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "I have to leave the Academy. Because my father was transferred overseas――"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "That's why I wanted to practice for my last race… a mock race, so I wouldn't have any regrets."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Last race…"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "I never ended up growing, and I never had a trainer… But I want to finish everything off with contentment!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see, I understand your situation. And I've made up my mind…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "From this moment on, as class president, I will assist you in your training!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's okay, right, Trainer!?",
+            "choice_data_list": [
+                "Yeah, but you'll have to wait for tomorrow, it's curfew \ntoday.",
+                "Yeah, but you'll have to wait for tomorrow, it's curfew \ntoday."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Uu, that's right! Then, special training starts tomorrow!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "With my assistance and Trainer's guidance, you're sure to win first place!!"
+        },
+        {
+            "text": "The next day, I decided to hang out with Sakura Bakushin O and help her classmate train."
+        },
+        {
+            "text": "When I asked her what kind of mock race she was going to run, she replied, \"Long distance.\" This was a kind of race that Sakura Bakushin O wasn't exactly good at.",
+            "choice_data_list": [
+                "So, what kind of practice are you planning on doing?",
+                "So, what kind of practice are you planning on doing?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All you have to do is Bakushin! If you Bakushin, you'll find your way!"
+        },
+        {
+            "text": "The response was both unsurprising and unfavorable. This is――",
+            "choice_data_list": [
+                "Build up your stamina and let's Bakushin!",
+                "There's a certain timing to Bakushin-ing."
+            ]
+        },
+        {
+            "text": "I told her that endurance and stamina to run the course were essential to achieve success in long distances."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see. Well, you certainly can't Bakushin if you're out of energy!",
+            "choice_data_list": [
+                "Let's focus on physical training."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Understood! I shall keep this up to the bitter end!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha, haah… Looks like… fuuh, that's about it… for today!"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Thanks, Baku-chan! And your Trainer, too…"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "I think I have a good feeling about today's training. I'm sure I'll get good results!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's… above all else――"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Baku-chan!? ……Wait, are you sleeping?"
+        },
+        {
+            "text": "Sakura Bakushin O, a sprinter, must have had a tough time training with a long-distance runner."
+        },
+        {
+            "text": "However, for the sake of her classmate, she pushed herself to her limits and went along with the training anyways…",
+            "choice_data_list": [
+                "Good work, \"president.\""
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Mumblemumble… It's only the… natural thing to dooo… snoore……"
+        },
+        {
+            "text": "Sakura Bakushin O, still asleep, smiled contentedly."
+        },
+        {
+            "text": "I explained that she could move up in the rankings by Bakushin-ing at just the right moment."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see, so what you're saying is, Bakushin is a kind of special move!!",
+            "choice_data_list": [
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, then, let us find the impeccable timing for this Bakushin!"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Alright, got it!"
+        },
+        {
+            "text": "Once that was decided, the first thing to do was to find out what Sakura Bakushin O's classmate was capable of and what her running habits were."
+        },
+        {
+            "text": "I put together a training regimen that best suited her current situation, and asked her to implement it into her routine."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Phew, I guess that's it for today!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Your training has paid off, and you've got the timing of your Bakushin down to a tee!"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Yeah, I've got a good feeling about this! I'll make sure I get a good result!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm counting on you! Bakushin is the solution to everything!"
+        },
+        {
+            "name": "Freckled Horsegirl",
+            "text": "Fufu, thanks. You're always there for me, Baku-chan."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course I am! I'm the president of your class, after all!"
+        },
+        {
+            "text": "Being thanked by her classmate seems to have given Sakura Bakushin O more confidence."
+        }
+    ]
+}
