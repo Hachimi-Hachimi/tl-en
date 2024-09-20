@@ -1,5 +1,5 @@
 {
-    "base_url": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/main/localized_data",
-    "zip_url": "https://codeload.github.com/Hachimi-Hachimi/tl-en/zip/refs/heads/main",
-    "zip_dir": "tl-en-main/localized_data"
+    "base_url": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/staging/localized_data",
+    "zip_url": "https://codeload.github.com/Hachimi-Hachimi/tl-en/zip/refs/heads/staging",
+    "zip_dir": "tl-en-staging/localized_data"
 }
