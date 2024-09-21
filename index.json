@@ -345,8 +345,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "f1ff3097b6f1294685a2a96bb656e44c88a9bab7e3fc180f62fca390dd246308",
-      "size": 307883
+      "hash": "2680369e14501f307c2bcd360c07c25d22c5dfe632b49773d5592413ccdfa378",
+      "size": 304103
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -8770,8 +8770,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "1b76c9e404f0fec96b5e7b94d53aec2fac56a03ace608fecb120bc7dc013f08d",
-      "size": 83469
+      "hash": "03eee1ac30e36ec7f1d54c67e327da2429443a134d003b38aef84ac0c9998617",
+      "size": 83458
     },
     {
       "path": "race_jikkyo_comment_dict.json",
