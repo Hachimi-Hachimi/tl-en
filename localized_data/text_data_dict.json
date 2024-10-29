@@ -420,7 +420,8 @@
         "9351": "Hall of Fame Umamusume error",
         "9401": "Campaign Expired",
         "100001": "Event Error",
-        "338": "About Purchase Limit"
+        "338": "About Purchase Limit",
+        "1813": "Gacha banner expired"
     },
     "3": {
         "1": "Each Umamusume has different goals. \\nLet's now work to realize these goals!",
@@ -652,7 +653,8 @@
         "112101": "[Chevalier Fidèle] Durandal",
         "102403": "[Rocking​☆​MewMeow] Mayano Top Gun",
         "104202": "[Be​♪​Witched] Seeking the Pearl",
-        "112401": "[POPPING!] Bubble Gum Fellow"
+        "112401": "[POPPING!] Bubble Gum Fellow",
+        "102303": "[Engineered Victory] Biwa Hayahide"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -841,7 +843,8 @@
         "112101": "[Chevalier Fidèle]",
         "102403": "[Rocking​☆​MewMeow]",
         "104202": "[Be​♪​Witched]",
-        "112401": "[POPPING!]"
+        "112401": "[POPPING!]",
+        "102303": "[Engineered Victory]"
     },
     "6": {
         "1001": "Special Week",
@@ -983,7 +986,9 @@
         "2007": "Sonon Elfie",
         "9007": "Beauty Anshinzawa",
         "1113": "Fusaichi Pandora",
-        "1124": "Bubble Gum Fellow"
+        "1124": "Bubble Gum Fellow",
+        "2008": "ST-2",
+        "9045": "Sugar Lights"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -1125,7 +1130,9 @@
         "2007": "Ami Koshimizu",
         "9044": "Rina Satō",
         "1113": "Moe Kahara",
-        "1124": "Sayaka Kamitani"
+        "1124": "Sayaka Kamitani",
+        "2008": "Yui Ishikawa",
+        "9045": "Yui Ishikawa"
     },
     "8": {
         "1001": "Ritto Dorm",
@@ -1775,7 +1782,8 @@
         "1006": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "2006": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "3007": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
-        "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time"
+        "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -2132,7 +2140,14 @@
         "50105": "One-time! Limited to SSR guts cards!",
         "50107": "One-time! Limited to SSR wisdom cards!",
         "30282": "Get 90 extra pieces with the ★3 banner Umamusume!",
-        "30283": "Rate up on selected SSR support cards!"
+        "30283": "Rate up on selected SSR support cards!",
+        "30284": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30285": "Rate up for select support cards!",
+        "30286": "Guaranteed ★3 Umamusume from these 8!",
+        "50109": "Limited to ★3 Umamusume released in 2023!",
+        "50110": "Limited to SSR Support Cards released in 2023!",
+        "50113": "One-time! Limited to SSR speed cards!",
+        "50115": "Limited to ★3 Umamusume released in 2022!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2789,7 +2804,8 @@
         "2006": "Scout Race Tickets",
         "3007": "League Tickets",
         "257": "Factor Research Report",
-        "3008": "League Tickets"
+        "3008": "League Tickets",
+        "228": "Entry Tickets"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3247,7 +3263,8 @@
         "1006": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "2006": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "3007": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
-        "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time"
+        "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3609,7 +3626,11 @@
         "30279": "Pick Up Support Card Gacha",
         "30280": "Twinkle Collection Pretty Derby Gacha",
         "30282": "Pick Up Pretty Derby Gacha",
-        "30283": "Secret Pickup Support Card Gacha"
+        "30283": "Secret Pickup Support Card Gacha",
+        "30286": "Twinkle Collection Pretty Derby Gacha",
+        "50109": "Guaranteed 2023 ★3 Gacha",
+        "50110": "Guaranteed 2022 SSR Gacha",
+        "50115": "Guaranteed 2022 ★3 Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5838,7 +5859,11 @@
         "630039": "Carnival (HARD)",
         "630040": "Carnival (HARD)",
         "630041": "Challenge Race (VERY HARD)",
-        "630042": "Challenge Race (EXTREME)"
+        "630042": "Challenge Race (EXTREME)",
+        "600065": "Champions Meeting CLASSIC",
+        "600066": "Champions Meeting CLASSIC Final",
+        "1202301": "Japan Cup (HARD)",
+        "1202302": "Japan Cup (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -8001,7 +8026,10 @@
         "630039": "Carnival (HARD)",
         "630040": "Carnival (HARD)",
         "630041": "Challenge Race (VERY HARD)",
-        "630042": "Challenge Race (EXTREME)"
+        "630042": "Challenge Race (EXTREME)",
+        "600066": "Champions Meet: Final",
+        "1202301": "Japan Cup (HARD)",
+        "1202302": "Japan Cup (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9592,7 +9620,10 @@
         "11039": "Carnival (HARD)",
         "11040": "Carnival (HARD)",
         "11041": "Challenge Race (VERY HARD)",
-        "11042": "Challenge Race (EXTREME)"
+        "11042": "Challenge Race (EXTREME)",
+        "6065": "Champions Meeting CLASSIC",
+        "6066": "Champions Meeting CLASSIC Final",
+        "12023": "Japan Cup"
     },
     "33": {
         "1001": "February Stakes",
@@ -10372,7 +10403,10 @@
         "11039": "Carnival Race",
         "11040": "Carnival Race",
         "11041": "Challenge Race",
-        "11042": "Challenge Race"
+        "11042": "Challenge Race",
+        "6065": "Champions Meeting",
+        "6066": "Champions Meeting",
+        "12023": "Legend Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -10649,7 +10683,8 @@
         "1201902": "VS Gold Ship",
         "1202102": "VS Curren Chan",
         "1202201": "VS Rice Shower",
-        "1202001": "VS Smart Falcon"
+        "1202001": "VS Smart Falcon",
+        "1202301": "VS Symboli Rudolf"
     },
     "38": {
         "1001": "February S",
@@ -10857,7 +10892,8 @@
         "20005": "Carnival Pt \\nTrade",
         "20006": "Carnival Pt \\nTrade",
         "8001": "Circle Pts.",
-        "20007": "Carnival Pt \\nTrade"
+        "20007": "Carnival Pt \\nTrade",
+        "11007": "Trial Coin Shop"
     },
     "42": {
         "16": "Daily Jewels Pack",
@@ -10939,7 +10975,8 @@
         "103": "1500 Jewels",
         "104": "1500 Jewels",
         "105": "7500 Jewels (max 3x)",
-        "106": "1500 Jewels (max 4x)"
+        "106": "1500 Jewels (max 4x)",
+        "109": "1500 Jewels (max 4x)"
     },
     "47": {
         "10071": "Warning Shot!",
@@ -12426,7 +12463,13 @@
         "104202111": "Riding the Mistral",
         "104202211": "Shining From The Ocean Floor...☆",
         "104802221": "Simply the Best!",
-        "107102121": "Mystic Flame"
+        "107102121": "Mystic Flame",
+        "101241": "Growing Dreams, Pioneer's Path",
+        "203131": "Curtain Closer",
+        "203281": "Unconscious Shackles",
+        "901241": "Growing Dreams, Pioneer's Path",
+        "112401111": "Champion's Composure",
+        "112401211": "Vanguard's Limelight"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -13894,7 +13937,22 @@
         "203131": "Leader・If you're leading or at most 2.5 m from the lead during the Final Straight, your speed will greatly increase.",
         "203281": "Your Speed, Stamina, and Wisdom stats are lowered by 100.",
         "112401111": "Leader・During the latter part of the Middle Leg, your speed will slightly increase; (Mile/Medium only) the effect is much stronger if you're leading or at most 5 m from the lead.",
-        "112401211": "Leader・Your speed will slightly increase when there's 200 m remaining in the race; (Mile/Medium only) if you're leading or at most 2.5 m from the lead during the Final Straight, your speed will increase tremendously."
+        "112401211": "Leader・Your speed will slightly increase when there's 200 m remaining in the race; (Mile/Medium only) if you're leading or at most 2.5 m from the lead during the Final Straight, your speed will increase tremendously.",
+        "120231": "If you're in the first half of the pack halfway through the race, your speed will increase; it will increase tremendously if the race is Long and you were blocked from the side during any corner.",
+        "202771": "Leader・Long・If you're in the first half of the pack around the start of the Final Leg, your acceleration will increase.",
+        "203241": "During any Middle Leg straight, you will get a slight speed boost and your stamina will recover.",
+        "203242": "During any Middle Leg straight, you will get a marginal speed boost and your stamina will slightly recover.",
+        "203251": "Medium/Long・At a random point during the first half of the Final Leg, if you're in the middle or the back of the pack, you will get a speed boost.",
+        "203252": "Medium/Long・At a random point during the first half of the Final Leg, if you're in the middle or the back of the pack, you will get a slight speed boost.",
+        "203262": "Runner・Long・If you're in the first half of the pack around the start of the Final Leg, your acceleration will slightly increase.",
+        "203272": "Runner・At a random point during the second half of the Opening Leg, your speed will slightly increase.",
+        "203301": "Long・At a random point during the Middle Leg, your speed will increase.",
+        "203302": "Long・At a random point during the Middle Leg, your speed will slightly increase.",
+        "203311": "Medium・At a random point during the Middle Leg, your speed will increase.",
+        "203312": "Medium・At a random point during the Middle Leg, your speed will slightly increase.",
+        "210341": "Medium/Long・During the Final Straight, your speed will increase; the effect is stronger the higher your total Research Level is.",
+        "210342": "Medium/Long・During the Final Straight, your speed will slightly increase.",
+        "409061": "Medium/Long・At a random point on any corner, your speed will greatly increase."
     },
     "49": {
         "1": "50 Jewels",
@@ -14005,7 +14063,10 @@
         "2302": "Hang Climb",
         "2303": "Dynamic Hammer",
         "2304": "Like a Submarine",
-        "2305": "Acrobat Arrow"
+        "2305": "Acrobat Arrow",
+        "901": "Speed",
+        "902": "Power",
+        "906": "Wisdom"
     },
     "59": {
         "8000": "Jewel Nephrite",
@@ -16995,7 +17056,8 @@
         "507105": "Reach a total Free genre level of 6000 or higher.",
         "720012": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
         "310138": "Clear all event limited missions.",
-        "310139": "Clear all event limited missions."
+        "310139": "Clear all event limited missions.",
+        "320008": "Receive Excellent grades in the Trainer's Proficiency Exam."
     },
     "67": {
         "100000": "Win any race once during training.",
@@ -23636,7 +23698,107 @@
         "2300368": "[Time-Limited] Obtain 70000 total Carnival Pts",
         "2300369": "[Time-Limited] Obtain 80000 total Carnival Pts",
         "2300370": "[Time-Limited] Obtain 90000 total Carnival Pts",
-        "2300371": "[Time-Limited] Obtain 100000 total Carnival Pts"
+        "2300371": "[Time-Limited] Obtain 100000 total Carnival Pts",
+        "303176": "Complete a training run with rank UA or higher once.",
+        "303177": "Complete a training run with rank UA1 or higher once.",
+        "303178": "Complete a training run with rank UA2 or higher once.",
+        "303179": "Complete a training run with rank UA3 or higher once.",
+        "303180": "Complete a training run with rank UA4 or higher once.",
+        "303181": "Complete a training run with rank UA5 or higher once.",
+        "303182": "Complete a training run with rank UA6 or higher once.",
+        "303183": "Complete a training run with rank UA7 or higher once.",
+        "303184": "Complete a training run with rank UA8 or higher once.",
+        "303185": "Complete a training run with rank UA9 or higher once.",
+        "340103": "Raise the affection rank of Bubble Gum Fellow to rank 1.",
+        "341072": "Raise the affection rank of Mr. C.B. to rank 11.",
+        "341078": "Raise the affection rank of Hishi Miracle to rank 11.",
+        "341083": "Raise the affection rank of Narita Top Road to rank 11.",
+        "342072": "Raise the affection rank of Mr. C.B. to rank 12.",
+        "342078": "Raise the affection rank of Hishi Miracle to rank 12.",
+        "342083": "Raise the affection rank of Narita Top Road to rank 12.",
+        "600438": "すべてのUpgrade ExamをA評価以上で終了しよう.",
+        "600439": "研究Lvを累計50000Lv上昇させよう.",
+        "600440": "オーバードライブを累計400回発動しよう.",
+        "600441": "すべてのUpgrade ExamをS評価で終了しよう.",
+        "600641": "O - ロライズを見よう.",
+        "1002108": "Finish a training run having completed all training objectives once.",
+        "1002109": "Finish a training run having completed all training objectives 2 times.",
+        "1002110": "Win the Sankei Sho All Comers once during training.",
+        "1002111": "Win the Mainichi Okan once during training.",
+        "1002112": "Win the Kyoto Daishoten once during training.",
+        "1002113": "Win the Tenno Sho (Autumn) once during training.",
+        "1002114": "Clear all event missions.",
+        "1002115": "Win the Sazanka TV Hai once during training.",
+        "1002116": "Win the Mile Championship Nambu Hai once during training.",
+        "1002117": "Win the JBC Classic once during training.",
+        "1002118": "Win the Tokyo Hai once during training.",
+        "1002119": "Win the JBC Sprint once during training.",
+        "1002120": "Win the Ladies' Prelude once during training.",
+        "1002121": "Win the JBC Ladies Classic once during training.",
+        "1002122": "Clear all event missions.",
+        "1002123": "Finish a training run having completed all training objectives once.",
+        "1002124": "Finish a training run having completed all training objectives 2 times.",
+        "1002125": "Win the Fuchu Umamusume Stakes once during training.",
+        "1002126": "Win the Queen Elizabeth Cup once during training.",
+        "1002127": "Clear all event missions.",
+        "1002178": "Clear all event missions.",
+        "1002179": "Complete a Run, Mecha Umamusume! training run once.",
+        "1002180": "Complete a Run, Mecha Umamusume! training run 3 times.",
+        "1002181": "Complete a Run, Mecha Umamusume! training run 5 times.",
+        "1002182": "Achieve an A rank or better in the 1st Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "1002183": "Achieve an A rank or better in the 2nd Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "1002184": "Achieve an A rank or better in the 3rd Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "1002185": "Achieve an A rank or better in the 4th Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "1002186": "Achieve an A rank or better in the 5th Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "1002187": "Do training while under the effects of Mecha Gear a total of 100 times in the \"Run, Mecha Umamusume!\" scenario.",
+        "1002188": "Reach a cumulative Research Level of 5000 in the \"Run, Mecha Umamusume!\" scenario.",
+        "1002189": "Trigger Overdrive a total of 50 times in the \"Run, Mecha Umamusume!\" scenario.",
+        "2003401": "[Daily] Enter Legend Race 1 time",
+        "2003402": "[Daily] Enter Legend Race 2 times",
+        "2003403": "[Daily] Enter Legend Race 3 times",
+        "2003404": "[Daily] Enter Legend Race 1 time",
+        "2003405": "[Daily] Enter Legend Race 2 times",
+        "2003406": "[Daily] Enter Legend Race 3 times",
+        "2003407": "[Daily] Enter Legend Race 1 time",
+        "2003408": "[Daily] Enter Legend Race 2 times",
+        "2003409": "[Daily] Enter Legend Race 3 times",
+        "2003410": "[Daily] Enter Legend Race 1 time",
+        "2003411": "[Daily] Enter Legend Race 2 times",
+        "2003412": "[Daily] Enter Legend Race 3 times",
+        "2003413": "[Daily] Enter Legend Race 1 time",
+        "2003414": "[Daily] Enter Legend Race 2 times",
+        "2003415": "[Daily] Enter Legend Race 3 times",
+        "2003416": "[Daily] Enter Legend Race 1 time",
+        "2003417": "[Daily] Enter Legend Race 2 times",
+        "2003418": "[Daily] Enter Legend Race 3 times",
+        "2003419": "[Limited] Enter Legend Race 6 times",
+        "2003420": "[Limited] Enter Legend Race 9 times",
+        "2003421": "[Limited] Enter Legend Race 12 times",
+        "2100138": "[Daily] Enter Champions Meeting",
+        "2100139": "[Daily] Enter Champions Meeting",
+        "2100140": "[Daily] Enter Champions Meeting",
+        "2100141": "[Daily] Enter Champions Meeting",
+        "2200207": "Receive 5 Passing grades in the Trainer's Exam",
+        "2200208": "Receive 6 Passing grades in the Trainer's Exam",
+        "2200210": "Receive 5 Good grades in the Trainer's Exam",
+        "2200211": "Receive 6 Good grades in the Trainer's Exam",
+        "2200213": "Receive 5 Excellent grades in the Trainer's Exam",
+        "2200214": "Receive 6 Excellent grades in the Trainer's Exam",
+        "2200215": "[Daily] Let's login",
+        "2200217": "[Daily] Let's login",
+        "2200219": "[Daily] Let's login",
+        "2200221": "[Daily] Let's login",
+        "2200223": "[Daily] Let's login",
+        "2200225": "[Daily] Let's login",
+        "2200227": "[Daily] Let's login",
+        "2200229": "[Daily] Let's login",
+        "2200231": "[Daily] Let's login",
+        "2200233": "[Daily] Let's login",
+        "2200235": "[Daily] Let's login",
+        "2600125": "Do 2 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "2600126": "Do 4 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "2600127": "Do 7 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "2600128": "Do 10 training runs ('As the Leaves Rust, Feelings Blossom' story event)."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -24625,7 +24787,8 @@
         "30127": "Enf of Year Countdown Login Bonus",
         "30128": "Enf of Year Countdown Login Bonus",
         "30129": "Enf of Year Countdown Login Bonus",
-        "30130": "New Year Special Login Bonus"
+        "30130": "New Year Special Login Bonus",
+        "30164": "TOKYO MEGA ILLUMI collab login bonus"
     },
     "75": {
         "10001": "[Tracen Academy] Special Week",
@@ -25042,7 +25205,9 @@
         "30222": "[KNOCK 'EM DOWN!] Espoir City",
         "30223": "[Chewing up the Refrain] Hishi Amazon",
         "30224": "[Roar of Apoyando] Narita Brian",
-        "30225": "[Making a Power Trio] Matikanefukukitaru"
+        "30225": "[Making a Power Trio] Matikanefukukitaru",
+        "30226": "[Cocoon] Air Shakur",
+        "30227": "[The Wind Blows For You, Scarlet] Daiwa Scarlet"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -25459,7 +25624,9 @@
         "30222": "[KNOCK 'EM DOWN!]",
         "30223": "[Chewing up the Refrain]",
         "30224": "[Roar of Apoyando]",
-        "30225": "[Making a Power Trio]"
+        "30225": "[Making a Power Trio]",
+        "30226": "[Cocoon]",
+        "30227": "[The Wind Blows For You, Scarlet]"
     },
     "77": {
         "10001": "Special Week",
@@ -25876,7 +26043,9 @@
         "30222": "Espoir City",
         "30223": "Hishi Amazon",
         "30224": "Narita Brian",
-        "30225": "Matikanefukukitaru"
+        "30225": "Matikanefukukitaru",
+        "30226": "Air Shakur",
+        "30227": "Daiwa Scarlet"
     },
     "78": {
         "10001": "Special Week",
@@ -26293,7 +26462,9 @@
         "30222": "Espoir City",
         "30223": "Hishi Amazon",
         "30224": "Narita Brian",
-        "30225": "Matikanefukukitaru"
+        "30225": "Matikanefukukitaru",
+        "30226": "Air Shakur",
+        "30227": "Daiwa Scarlet"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
@@ -27432,7 +27603,8 @@
         "112101": "Durandal Piece",
         "102403": "Mayano Top Gun Piece",
         "104202": "Seeking the Pearl Piece",
-        "112401": "Bubble Gum Fellow Piece"
+        "112401": "Bubble Gum Fellow Piece",
+        "102303": "Biwa Hayahide Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -27620,7 +27792,8 @@
         "111601": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112001": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "102303": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -28254,7 +28427,22 @@
         "61": "Savate",
         "62": "Paddleboarding",
         "63": "French Speaking",
-        "64": "Sightseeing"
+        "64": "Sightseeing",
+        "142": "Studying",
+        "143": "Reading",
+        "144": "Quiz",
+        "145": "Video Research",
+        "146": "Shogi",
+        "147": "Turf",
+        "148": "Treadmill",
+        "149": "Exercise Bike",
+        "150": "Cleaning",
+        "151": "Ball-Catching",
+        "152": "Dirt",
+        "153": "Squatting",
+        "154": "Sit-ups",
+        "155": "Boxing",
+        "156": "Tile Breaking"
     },
     "139": {
         "1": "Impressive! You two are \\na simply wonderful pairing…!!",
@@ -30363,7 +30551,10 @@
         "2032203": "Aggressive",
         "2032301": "Restless Step",
         "2032302": "Restless Step",
-        "2032303": "Restless Step"
+        "2032303": "Restless Step",
+        "11240101": "Growing Dreams, Pioneer's Path",
+        "11240102": "Growing Dreams, Pioneer's Path",
+        "11240103": "Growing Dreams, Pioneer's Path"
     },
     "148": {
         "1": "Ace Bonus",
@@ -30940,7 +31131,8 @@
         "30220": "Training bonus when Bond over 80",
         "30223": "Training bonus scaling with learnt \\nspeed skills, up to 5",
         "30224": "Speed and Skill Pt bonus \\nwhen Bond over 80",
-        "30225": "Training bonus when Bond over 80"
+        "30225": "Training bonus when Bond over 80",
+        "30226": "Stamina bonus when Bond over 80"
     },
     "157": {
         "1001": "May 2",
@@ -32141,7 +32333,9 @@
         "2007": "Sonon Elfie",
         "9007": "Beauty Anshinzawa",
         "1113": "Fusaichi Pandora",
-        "1124": "Bubble Gum Fellow"
+        "1124": "Bubble Gum Fellow",
+        "2008": "ST-2",
+        "9045": "Sugar Lights"
     },
     "171": {
         "12": "Login Bonus",
@@ -33861,9 +34055,48 @@
         "10420201": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
         "10420202": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
         "10420203": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
-        "11240101": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
-        "11240102": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
-        "11240103": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint."
+        "11240101": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
+        "11240102": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
+        "11240103": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
+        "2032401": "Obtain [端緒] skill hint.",
+        "2032402": "Obtain [端緒] skill hint.",
+        "2032403": "Obtain [端緒] skill hint.",
+        "2032501": "Obtain [急襲] skill hint.",
+        "2032502": "Obtain [急襲] skill hint.",
+        "2032503": "Obtain [急襲] skill hint.",
+        "2032601": "Obtain [覚悟を決めて] skill hint.",
+        "2032602": "Obtain [覚悟を決めて] skill hint.",
+        "2032603": "Obtain [覚悟を決めて] skill hint.",
+        "2032701": "Obtain [切り込み隊長] skill hint.",
+        "2032702": "Obtain [切り込み隊長] skill hint.",
+        "2032703": "Obtain [切り込み隊長] skill hint.",
+        "2033001": "Obtain [熱狂的] skill hint.",
+        "2033002": "Obtain [熱狂的] skill hint.",
+        "2033003": "Obtain [熱狂的] skill hint.",
+        "2033101": "Obtain [光差す方へ] skill hint.",
+        "2033102": "Obtain [光差す方へ] skill hint.",
+        "2033103": "Obtain [光差す方へ] skill hint.",
+        "2103401": "Obtain [夢の再生方法] skill hint.",
+        "2103402": "Obtain [夢の再生方法] skill hint.",
+        "2103403": "Obtain [夢の再生方法] skill hint.",
+        "3102101": "Increases Speed and Skill Points.",
+        "3102102": "Increases Speed and Skill Points.",
+        "3102103": "Increases Speed and Skill Points.",
+        "3102201": "Increases Stamina and Skill Points.",
+        "3102202": "Increases Stamina and Skill Points.",
+        "3102203": "Increases Stamina and Skill Points.",
+        "3102301": "Increases Power and Skill Points.",
+        "3102302": "Increases Power and Skill Points.",
+        "3102303": "Increases Power and Skill Points.",
+        "3102401": "Increases Guts and Skill Points.",
+        "3102402": "Increases Guts and Skill Points.",
+        "3102403": "Increases Guts and Skill Points.",
+        "3102501": "Increases Wit and Skill Points.",
+        "3102502": "Increases Wit and Skill Points.",
+        "3102503": "Increases Wit and Skill Points.",
+        "10230301": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
+        "10230302": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
+        "10230303": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -34171,7 +34404,9 @@
         "9043": "Mei Satake",
         "9044": "Ryoka Tsurugi",
         "1113": "Fusaichi Pandora",
-        "1124": "Bubble Gum Fellow"
+        "1124": "Bubble Gum Fellow",
+        "2008": "ST-2",
+        "9045": "Sugar Lights"
     },
     "186": {
         "1": "Raise the lvl of your support cards \\nto get a support bonus!",
@@ -34529,7 +34764,20 @@
         "733": "Hot Spring Ticket Rate up",
         "734": "Hot Spring Ticket Rate up",
         "735": "Increased Attempts",
-        "736": "Rental Amount UP"
+        "736": "Rental Amount UP",
+        "683": "Fall G1 Missions #2 \\nTenno Sho (Autumn)",
+        "685": "Fall G1 Missions #2 \\nQueen Elizabeth Cup",
+        "700": "Designated Race Piece Rewards",
+        "701": "Designated Race Piece Rewards",
+        "702": "Designated Race Piece Rewards",
+        "703": "Designated Race Piece Rewards",
+        "704": "Designated Race Piece Rewards",
+        "741": "Increased Rewards",
+        "742": "Half TP Consumption",
+        "743": "Free Retries UP",
+        "744": "Additional factor rerolls",
+        "745": "Half price rentals",
+        "746": "Rental Amount UP"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -34745,7 +34993,15 @@
         "732": "Increased chance to \\nget hot springs tickets",
         "733": "Increased chance to \\nget hot springs tickets",
         "734": "Increased chance to \\nget hot springs tickets",
-        "735": "Gain 1 extra ticket each day"
+        "735": "Gain 1 extra ticket each day",
+        "700": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "701": "You can gain 1 Umamusume piece per day \\nfrom winning JBC Classic in training.",
+        "702": "You can gain 1 Umamusume piece per day \\nfrom winning JBC Sprint in training.",
+        "703": "You can gain 1 Umamusume piece per day \\nfrom winning JBCL Classic in training.",
+        "704": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "741": "Items obtained in training doubled.",
+        "742": "Training costs half the TP.",
+        "743": "Free retries doubled."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -36636,7 +36892,8 @@
         "1054": "TOKYO MEGA ILLUMINATION collab started!! \\nFor details, check the official site!",
         "1055": "Golshi became a kindergartener and is \\nmaking a fuss?! A new manga begins! \\n\"PisuPisu☆SupiSupi Golshi-chan\"!",
         "1056": "3rd performance held at 02/3–4! \\n4th performance held at 03/22–23! \\nCheck the site for more 5th EVENT details!",
-        "1060": "TV Anime Season 3 \"Umabako 3\" \\nFirst Corner goes on sale 2024/1/31! \\nTons of bonuses included!"
+        "1060": "TV Anime Season 3 \"Umabako 3\" \\nFirst Corner goes on sale 2024/1/31! \\nTons of bonuses included!",
+        "1078": "TOKYO MEGA ILLUMINATION collab started!! \\nFor details, check the official site!"
     },
     "198": {
         "11": "Will appear as the scenario progresses",
@@ -40095,7 +40352,14 @@
         "11240102": "Learn 2 Leader skills",
         "11240103": "Reach ≥800 Power",
         "11240105": "Gain 150000 fans",
-        "11240106": "Reach ≥600 Guts"
+        "11240106": "Reach ≥600 Guts",
+        "10230301": "Learn 2 Leader skills",
+        "10230302": "Learn 2 Long Distance skills",
+        "10230303": "Reach ≥800 Power",
+        "10230305": "Win 2 Long Distance GⅠ races",
+        "10230306": "Reach ≥600 Stamina",
+        "10550109": "Trigger 3 mood-boosting events",
+        "10550110": "Learn 2 Betweener skills"
     },
     "293": {
         "1": "Training effect",
