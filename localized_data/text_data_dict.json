@@ -654,7 +654,8 @@
         "102403": "[Rocking​☆​MewMeow] Mayano Top Gun",
         "104202": "[Be​♪​Witched] Seeking the Pearl",
         "112401": "[POPPING!] Bubble Gum Fellow",
-        "102303": "[Engineered Victory] Biwa Hayahide"
+        "102303": "[Engineered Victory] Biwa Hayahide",
+        "105003": "[Stray Light Overdrive] Narita Taishin"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -844,7 +845,8 @@
         "102403": "[Rocking​☆​MewMeow]",
         "104202": "[Be​♪​Witched]",
         "112401": "[POPPING!]",
-        "102303": "[Engineered Victory]"
+        "102303": "[Engineered Victory]",
+        "105003": "[Stray Light Overdrive]"
     },
     "6": {
         "1001": "Special Week",
@@ -2147,7 +2149,9 @@
         "50109": "Limited to ★3 Umamusume released in 2023!",
         "50110": "Limited to SSR Support Cards released in 2023!",
         "50113": "One-time! Limited to SSR speed cards!",
-        "50115": "Limited to ★3 Umamusume released in 2022!"
+        "50115": "Limited to ★3 Umamusume released in 2022!",
+        "30288": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30289": "Rate up for select support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2344,7 +2348,8 @@
         "1149": "GOCHISO Sama",
         "1085": "Dodotto Yuushou! Daikanshasai!!!",
         "1095": "Irodori Phantasia",
-        "1152": "SHAKE ROCK"
+        "1152": "SHAKE ROCK",
+        "1094": "O - Rorize"
     },
     "17": {
         "1052": "None",
@@ -2805,7 +2810,8 @@
         "3007": "League Tickets",
         "257": "Factor Research Report",
         "3008": "League Tickets",
-        "228": "Entry Tickets"
+        "228": "Entry Tickets",
+        "261": "Factor Research Report"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3264,7 +3270,8 @@
         "2006": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "3007": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
-        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
+        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "261": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3630,7 +3637,9 @@
         "30286": "Twinkle Collection Pretty Derby Gacha",
         "50109": "Guaranteed 2023 ★3 Gacha",
         "50110": "Guaranteed 2022 SSR Gacha",
-        "50115": "Guaranteed 2022 ★3 Gacha"
+        "50115": "Guaranteed 2022 ★3 Gacha",
+        "30288": "Pick Up Pretty Derby Gacha",
+        "30289": "Pick Up Support Card Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -12469,7 +12478,35 @@
         "203281": "Unconscious Shackles",
         "901241": "Growing Dreams, Pioneer's Path",
         "112401111": "Champion's Composure",
-        "112401211": "Vanguard's Limelight"
+        "112401211": "Vanguard's Limelight",
+        "120231": "Accumulative Victory",
+        "120501": "Overdrive Speed",
+        "202771": "Laser-Focused",
+        "203241": "Chain Reaction",
+        "203242": "Fuse",
+        "203251": "Like a Blaze",
+        "203252": "Surprise Attack",
+        "203262": "Firm Resolve",
+        "203272": "Spearhead",
+        "203301": "Peak Ferocity",
+        "203302": "Fervor",
+        "203311": "Flash",
+        "203312": "Towards the Light",
+        "210341": "For a Fleeting View",
+        "210342": "Reproducing a Dream",
+        "409011": "Monster Machine",
+        "409021": "Recovery Sequence",
+        "409031": "All Systems Green",
+        "409041": "Limiter Release",
+        "409051": "Lead-Preserving Algorithm",
+        "409061": "Archline Top Scholar",
+        "920231": "Accumulative Victory",
+        "920501": "Overdrive Speed",
+        "100202121": "Crossing the Ocean",
+        "102303111": "Simulation Glasses: ON",
+        "102303211": "Drawing a Neon Trail",
+        "105501121": "Marvelous Momentum☆",
+        "105901121": "Fluttering Towards Glory"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -12760,9 +12797,9 @@
         "200302": "Your Speed stat is increased by 40 when 4th favorite or below.",
         "200311": "Your Speed stat is decreased by 40 in G1 and other major races.",
         "200321": "Your Stamina stat is decreased by 40 when you're the crowd favourite of the race.",
-        "200331": "Your speed will increase on a random corner.",
-        "200332": "Your speed will slightly increase on a random corner.",
-        "200333": "Your speed will decrease on a random corner.",
+        "200331": "Your speed will increase at a random point on a random corner.",
+        "200332": "Your speed will slightly increase at a random point on a random corner.",
+        "200333": "Your speed will decrease at a random point on a random corner.",
         "200341": "At a random point on a random corner, your acceleration will increase.",
         "200342": "At a random point on a random corner, your acceleration will slightly increase.",
         "200343": "At a random point on a random corner, your acceleration will slightly decrease.",
@@ -13201,7 +13238,7 @@
         "202862": "Short・At the start of the race, your acceleration will slightly increase.",
         "202871": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg, your acceleration will increase.",
         "202872": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg, your acceleration will slightly increase.",
-        "202882": "Chaser・During the Final Straight, if you're second or worse but close to the first place, your speed will slightly increase.",
+        "202882": "Chaser・During the Final Straight, if you're not in the first place but also no more than 10 meters away from it, your speed will increase.",
         "202892": "Chaser・If you're in the second half of the pack during the second half of the Opening Leg, your stamina will slightly recover.",
         "202901": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
         "202902": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
@@ -13526,7 +13563,7 @@
         "104602211": "Dirt・At a random point during the Final Leg, if you're in the first half of the pack, your acceleration will greatly increase.",
         "104701111": "Leader・At a random point during the Middle Leg, if you're in the first half of the pack, your stamina will greatly recover.",
         "104701121": "Leader・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase and your stamina will slightly recover.",
-        "104701211": "Medium/Long・At a random point on any corner, your speed will greatly increase.",
+        "104701211": "Medium/Long・Your speed will greatly increase at a random point on a random corner.",
         "104801111": "Leader/Betweener・During the first half in the Final Leg, your acceleration will increase and your stamina will slightly recover.",
         "104801211": "Leader/Betweener・At a random point during the Middle Leg, your speed will slightly increase and your stamina will recover.",
         "104802111": "Medium・At a random point during the Final Corner, if you're not in the front, your acceleration will increase; in Tokyo, your speed will also slightly increase.",
@@ -13952,7 +13989,21 @@
         "203312": "Medium・At a random point during the Middle Leg, your speed will slightly increase.",
         "210341": "Medium/Long・During the Final Straight, your speed will increase; the effect is stronger the higher your total Research Level is.",
         "210342": "Medium/Long・During the Final Straight, your speed will slightly increase.",
-        "409061": "Medium/Long・At a random point on any corner, your speed will greatly increase."
+        "409061": "Medium/Long・Your speed will greatly increase at a random point on a random corner.",
+        "120501": "If you're in the second half of the pack during any Final Leg corner, you will get a speed boost; in Medium-distance Nakayama races, the effect is stronger and your acceleration will also slightly increase.",
+        "202881": "Chaser・During the Final Straight, if you're not in the first place but also no more than 10 meters away from it, your speed will greatly increase.",
+        "409011": "Leader・Long・If you were within 10 meters from the lead around the end of the Middle Leg, then in the Final Leg, your acceleration will increase; after that, on the Last Straight, your speed will slightly increase.",
+        "409021": "Medium/Long・During any Middle Leg straight, you will get a slight speed boost and your stamina will recover.",
+        "409031": "Medium・At a random point during the Middle Leg, your speed will increase and your stamina will slightly recover.",
+        "409041": "Medium/Long・At a random point in the first half of Last Spurt, your speed will greatly increase.",
+        "409051": "Runner・In races of 2000 m or more, if you've been overtaken or are being blocked from the side during the early stages of the race, your speed will greatly increase.",
+        "100202121": "Runner・In 2200 m races, if you're in the 1st place at a random point during the second half of the Middle Leg, your speed will greatly increase.",
+        "102303111": "Leader・Long・Around the start of the Final Leg, use a little extra stamina to increase your acceleration tremendously.",
+        "102303211": "Leader・Long・At a random point during the first half of the Middle Leg, your stamina will recover; then, at a random point during the second half of the Middle Leg, your speed will slightly increase.",
+        "105003111": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
+        "105003211": "Chaser・During the Final Straight, if you're not in the first place but also no more than 10 meters away from it, your speed will tremendously increase.",
+        "105501121": "Betweener・If you're in the second half of the pack at a random point during the Middle Leg, your speed will increase.",
+        "105901121": "Betweener・At a random point during the Final Leg, you will get a speed boost."
     },
     "49": {
         "1": "50 Jewels",
@@ -15171,7 +15222,11 @@
         "254": "You can check and set your trainer information. On your \\n<color=#ff9900>birthday</color>, you will receive a congratulatory comment from Uma \\nMusume on the home screen, and changing your <color=#ff9900>gender</color> will change \\nsome scenarios. (Gender can be changed at any time)",
         "255": "You can set up a <color=#ff9900>representative Umamusume</color> and <color=#ff9900>support card</color> to \\nhelp your followers in their training. You will earn <color=#ff9900>Friend Pt \\nthe next day</color> depending on the number of times you do this. \\n(This will be given as a gift)",
         "256": "You can select the representative Umamusume and support \\ncard of the friends you <color=#ff9900>follow</color> from each list in training. \\nYou also earn more Friend Pt by helping a <color=#ff9900>mutual follower</color> \\nto train. If you don't have many followers, try looking \\nin the <color=#ff9900>recommendations</color>.",
-        "257": "You can check the items you currently have. You can also use \\nconsumable items. Some items can be converted to Money. \\n<color=#ff9900>Converting items cannot be undone</color>, so be careful."
+        "257": "You can check the items you currently have. You can also use \\nconsumable items. Some items can be converted to Money. \\n<color=#ff9900>Converting items cannot be undone</color>, so be careful.",
+        "249": "<color=#ff9900>Room Match</color> allows you to race against other trainers \\nwith your Hall of Fame Umamusume <color=#ff9900>Host</color>: Set your own \\nconditions for the race <color=#ff9900>Join</color>: Join another trainer's \\nrace. <color=#ff9900>Watch</color>: Enter an ID to watch the race.",
+        "250": "The race held will be GI. There are two modes. <color=#ff9900>Simple Mode</color> \\nallows you to hold a race right away. <color=#ff9900>Detailed mode</color> allows you \\nto choose weather, participation conditions, etc. first. Up to \\n<color=#ff9900>3 Umamusume per person</color> can be entered.",
+        "251": "Recruit participants for your races from the participation \\nlist. Trainers close to you can also be recruited using \\nthe <color=#ff9900>Circle and SNS Sharing functions</color>. For future reference, \\n<color=#ff9900>you can save your favorite races</color>. Have a go organizing \\na race with your friends!",
+        "252": "Save Umamusume in <color=#ff9900>My Entrants</color> to <color=#ff9900>select them easily</color> during \\nregistration! You can also save them from the results screen."
     },
     "64": {
         "6": "Reward from \"{0}\".",
@@ -23798,7 +23853,24 @@
         "2600125": "Do 2 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
         "2600126": "Do 4 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
         "2600127": "Do 7 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
-        "2600128": "Do 10 training runs ('As the Leaves Rust, Feelings Blossom' story event)."
+        "2600128": "Do 10 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "1002128": "Finish a training run having completed all training objectives once.",
+        "1002129": "Finish a training run having completed all training objectives 2 times.",
+        "1002130": "Win the Fuji Stakes once during training.",
+        "1002131": "Win the Swan Stakes once during training.",
+        "1002132": "Win the Mile Championship once during training.",
+        "1002133": "Clear all event missions.",
+        "1002134": "Finish a training run having completed all training objectives once.",
+        "1002135": "Finish a training run having completed all training objectives 2 times.",
+        "1002136": "Gather a total of 1000000 fans during the event period.",
+        "1002137": "Win the Japan Cup once during training.",
+        "1002138": "Clear all event missions.",
+        "1002139": "Finish a training run having completed all training objectives once.",
+        "1002140": "Finish a training run having completed all training objectives 2 times.",
+        "1002141": "Win the Miyako Stakes once during training.",
+        "1002142": "Win the Musashino Stakes once during training.",
+        "1002143": "Win the Champions Cup once during training.",
+        "1002144": "Clear all event missions."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -25207,7 +25279,9 @@
         "30224": "[Roar of Apoyando] Narita Brian",
         "30225": "[Making a Power Trio] Matikanefukukitaru",
         "30226": "[Cocoon] Air Shakur",
-        "30227": "[The Wind Blows For You, Scarlet] Daiwa Scarlet"
+        "30227": "[The Wind Blows For You, Scarlet] Daiwa Scarlet",
+        "20081": "[Leave the Haute Couture to Me!] North Flight",
+        "30228": "[COOL⇔CRAZY/Buddy] Symboli Kris S"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -25626,7 +25700,9 @@
         "30224": "[Roar of Apoyando]",
         "30225": "[Making a Power Trio]",
         "30226": "[Cocoon]",
-        "30227": "[The Wind Blows For You, Scarlet]"
+        "30227": "[The Wind Blows For You, Scarlet]",
+        "20081": "[Leave the Haute Couture to Me!]",
+        "30228": "[COOL⇔CRAZY/Buddy]"
     },
     "77": {
         "10001": "Special Week",
@@ -26045,7 +26121,9 @@
         "30224": "Narita Brian",
         "30225": "Matikanefukukitaru",
         "30226": "Air Shakur",
-        "30227": "Daiwa Scarlet"
+        "30227": "Daiwa Scarlet",
+        "20081": "North Flight",
+        "30228": "Symboli Kris S"
     },
     "78": {
         "10001": "Special Week",
@@ -26464,7 +26542,9 @@
         "30224": "Narita Brian",
         "30225": "Matikanefukukitaru",
         "30226": "Air Shakur",
-        "30227": "Daiwa Scarlet"
+        "30227": "Daiwa Scarlet",
+        "20081": "North Flight",
+        "30228": "Symboli Kris S"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
@@ -27604,7 +27684,8 @@
         "102403": "Mayano Top Gun Piece",
         "104202": "Seeking the Pearl Piece",
         "112401": "Bubble Gum Fellow Piece",
-        "102303": "Biwa Hayahide Piece"
+        "102303": "Biwa Hayahide Piece",
+        "105003": "Narita Taishin Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -27793,7 +27874,8 @@
         "112001": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "102303": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "102303": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "105003": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -27803,7 +27885,8 @@
         "5": "Grand Masters\\n-To Our Ancestors-",
         "6": "Reach for the stars\\nProject L'Arc",
         "7": "U.A.F. Ready GO!\\n-Sparkling Athletes-",
-        "8": "Harvesting! Feasting!\\nGreat Food Festival"
+        "8": "Harvesting! Feasting!\\nGreat Food Festival",
+        "9": "Run! Mecha Umamusume\\n-Invention of Dreams-"
     },
     "120": {
         "1": "With an outrageous declaration, young academy chairwoman Akikawa establishes a new race named the <color=#FF6D26>URA Finals</color>! Trainers and Umamusume work hand in hand to become its maiden champion!",
@@ -30554,7 +30637,34 @@
         "2032303": "Restless Step",
         "11240101": "Growing Dreams, Pioneer's Path",
         "11240102": "Growing Dreams, Pioneer's Path",
-        "11240103": "Growing Dreams, Pioneer's Path"
+        "11240103": "Growing Dreams, Pioneer's Path",
+        "2032401": "Fuse",
+        "2032402": "Fuse",
+        "2032403": "Fuse",
+        "2032501": "Surprise Attack",
+        "2032502": "Surprise Attack",
+        "2032503": "Surprise Attack",
+        "2032601": "Firm Resolve",
+        "2032602": "Firm Resolve",
+        "2032603": "Firm Resolve",
+        "2032701": "Spearhead",
+        "2032702": "Spearhead",
+        "2032703": "Spearhead",
+        "2033001": "Fervor",
+        "2033002": "Fervor",
+        "2033003": "Fervor",
+        "2033101": "Towards the Light",
+        "2033102": "Towards the Light",
+        "2033103": "Towards the Light",
+        "2103401": "Reproducing a Dream",
+        "2103402": "Reproducing a Dream",
+        "2103403": "Reproducing a Dream",
+        "10230301": "Accumulative Victory",
+        "10230302": "Accumulative Victory",
+        "10230303": "Accumulative Victory",
+        "10500301": "Overdrive Speed",
+        "10500302": "Overdrive Speed",
+        "10500303": "Overdrive Speed"
     },
     "148": {
         "1": "Ace Bonus",
@@ -31132,7 +31242,9 @@
         "30223": "Training bonus scaling with learnt \\nspeed skills, up to 5",
         "30224": "Speed and Skill Pt bonus \\nwhen Bond over 80",
         "30225": "Training bonus when Bond over 80",
-        "30226": "Stamina bonus when Bond over 80"
+        "30226": "Stamina bonus when Bond over 80",
+        "20081": "Training bonus and initial \\nPower increase",
+        "30228": "Power bonus when Bond over 80"
     },
     "157": {
         "1001": "May 2",
@@ -34058,27 +34170,27 @@
         "11240101": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
         "11240102": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
         "11240103": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
-        "2032401": "Obtain [端緒] skill hint.",
-        "2032402": "Obtain [端緒] skill hint.",
-        "2032403": "Obtain [端緒] skill hint.",
-        "2032501": "Obtain [急襲] skill hint.",
-        "2032502": "Obtain [急襲] skill hint.",
-        "2032503": "Obtain [急襲] skill hint.",
-        "2032601": "Obtain [覚悟を決めて] skill hint.",
-        "2032602": "Obtain [覚悟を決めて] skill hint.",
-        "2032603": "Obtain [覚悟を決めて] skill hint.",
-        "2032701": "Obtain [切り込み隊長] skill hint.",
-        "2032702": "Obtain [切り込み隊長] skill hint.",
-        "2032703": "Obtain [切り込み隊長] skill hint.",
-        "2033001": "Obtain [熱狂的] skill hint.",
-        "2033002": "Obtain [熱狂的] skill hint.",
-        "2033003": "Obtain [熱狂的] skill hint.",
-        "2033101": "Obtain [光差す方へ] skill hint.",
-        "2033102": "Obtain [光差す方へ] skill hint.",
-        "2033103": "Obtain [光差す方へ] skill hint.",
-        "2103401": "Obtain [夢の再生方法] skill hint.",
-        "2103402": "Obtain [夢の再生方法] skill hint.",
-        "2103403": "Obtain [夢の再生方法] skill hint.",
+        "2032401": "Obtain [Fuse] skill hint.",
+        "2032402": "Obtain [Fuse] skill hint.",
+        "2032403": "Obtain [Fuse] skill hint.",
+        "2032501": "Obtain [Surprise Attack] skill hint.",
+        "2032502": "Obtain [Surprise Attack] skill hint.",
+        "2032503": "Obtain [Surprise Attack] skill hint.",
+        "2032601": "Obtain [Firm Resolve] skill hint.",
+        "2032602": "Obtain [Firm Resolve] skill hint.",
+        "2032603": "Obtain [Firm Resolve] skill hint.",
+        "2032701": "Obtain [Spearhead] skill hint.",
+        "2032702": "Obtain [Spearhead] skill hint.",
+        "2032703": "Obtain [Spearhead] skill hint.",
+        "2033001": "Obtain [Fervor] skill hint.",
+        "2033002": "Obtain [Fervor] skill hint.",
+        "2033003": "Obtain [Fervor] skill hint.",
+        "2033101": "Obtain [Towards the Light] skill hint.",
+        "2033102": "Obtain [Towards the Light] skill hint.",
+        "2033103": "Obtain [Towards the Light] skill hint.",
+        "2103401": "Obtain [Reproducing a Dream] skill hint.",
+        "2103402": "Obtain [Reproducing a Dream] skill hint.",
+        "2103403": "Obtain [Reproducing a Dream] skill hint.",
         "3102101": "Increases Speed and Skill Points.",
         "3102102": "Increases Speed and Skill Points.",
         "3102103": "Increases Speed and Skill Points.",
@@ -34094,9 +34206,12 @@
         "3102501": "Increases Wit and Skill Points.",
         "3102502": "Increases Wit and Skill Points.",
         "3102503": "Increases Wit and Skill Points.",
-        "10230301": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
-        "10230302": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
-        "10230303": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint."
+        "10230301": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [Accumulative Victory] skill hint.",
+        "10230302": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [Accumulative Victory] skill hint.",
+        "10230303": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [Accumulative Victory] skill hint.",
+        "10500301": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
+        "10500302": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
+        "10500303": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -34777,7 +34892,13 @@
         "743": "Free Retries UP",
         "744": "Additional factor rerolls",
         "745": "Half price rentals",
-        "746": "Rental Amount UP"
+        "746": "Rental Amount UP",
+        "686": "Fall G1 Missions #2 \\nMile CS",
+        "687": "Fall G1 Missions #2 \\nJapan Cup",
+        "688": "Fall G1 Missions #2 \\nChampions C",
+        "705": "Designated Race Piece Rewards",
+        "706": "Designated Race Piece Rewards",
+        "707": "Designated Race Piece Rewards"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -35001,7 +35122,10 @@
         "704": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
         "741": "Items obtained in training doubled.",
         "742": "Training costs half the TP.",
-        "743": "Free retries doubled."
+        "743": "Free retries doubled.",
+        "705": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "706": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "707": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -40359,7 +40483,11 @@
         "10230305": "Win 2 Long Distance GⅠ races",
         "10230306": "Reach ≥600 Stamina",
         "10550109": "Trigger 3 mood-boosting events",
-        "10550110": "Learn 2 Betweener skills"
+        "10550110": "Learn 2 Betweener skills",
+        "10500301": "Reach ≥800 Wisdom",
+        "10500302": "Learn 3 Speed-increasing skills",
+        "10500303": "Win 3 GⅠ races as Chaser",
+        "10500304": "Reach ≥800 Power"
     },
     "293": {
         "1": "Training effect",
