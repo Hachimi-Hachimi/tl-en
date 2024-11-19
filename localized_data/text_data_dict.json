@@ -655,7 +655,8 @@
         "104202": "[Be​♪​Witched] Seeking the Pearl",
         "112401": "[POPPING!] Bubble Gum Fellow",
         "102303": "[Engineered Victory] Biwa Hayahide",
-        "105003": "[Stray Light Overdrive] Narita Taishin"
+        "105003": "[Stray Light Override] Narita Taishin",
+        "111101": "[Inherited Hope] Air Messiah"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -846,7 +847,8 @@
         "104202": "[Be​♪​Witched]",
         "112401": "[POPPING!]",
         "102303": "[Engineered Victory]",
-        "105003": "[Stray Light Overdrive]"
+        "105003": "[Stray Light Override]",
+        "111101": "[Inherited Hope]"
     },
     "6": {
         "1001": "Special Week",
@@ -1249,7 +1251,8 @@
         "1081": "Ritto Dorm",
         "1110": "Ritto Dorm",
         "1121": "Ritto Dorm",
-        "1124": "Miho Dorm"
+        "1124": "Miho Dorm",
+        "1111": "Ritto Dorm"
     },
     "9": {
         "1001": "Slight decrease (Nervous before races)",
@@ -1355,7 +1358,8 @@
         "1120": "Developing at Top Speed",
         "1110": "Slight decrease (Holding back for an upcoming race)",
         "1121": "Achieved through devotion.",
-        "1124": "Perfectly as declared"
+        "1124": "Perfectly as declared",
+        "1111": "Well-regulated"
     },
     "10": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -1785,7 +1789,8 @@
         "2006": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "3007": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
-        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
+        "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time"
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -2151,7 +2156,9 @@
         "50113": "One-time! Limited to SSR speed cards!",
         "50115": "Limited to ★3 Umamusume released in 2022!",
         "30288": "Get 90 extra pieces with the ★3 banner Umamusume!",
-        "30289": "Rate up for select support cards!"
+        "30289": "Rate up for select support cards!",
+        "30290": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30291": "Rate up on selected SSR support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2811,7 +2818,8 @@
         "257": "Factor Research Report",
         "3008": "League Tickets",
         "228": "Entry Tickets",
-        "261": "Factor Research Report"
+        "261": "Factor Research Report",
+        "3009": "League Tickets"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3271,7 +3279,8 @@
         "3007": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "3008": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
-        "261": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>"
+        "261": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3639,7 +3648,9 @@
         "50110": "Guaranteed 2022 SSR Gacha",
         "50115": "Guaranteed 2022 ★3 Gacha",
         "30288": "Pick Up Pretty Derby Gacha",
-        "30289": "Pick Up Support Card Gacha"
+        "30289": "Pick Up Support Card Gacha",
+        "30290": "Pick Up Pretty Derby Gacha",
+        "30291": "Secret Pickup Support Card Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5872,7 +5883,9 @@
         "600065": "Champions Meeting CLASSIC",
         "600066": "Champions Meeting CLASSIC Final",
         "1202301": "Japan Cup (HARD)",
-        "1202302": "Japan Cup (HARD)"
+        "1202302": "Japan Cup (HARD)",
+        "670017": "League of Heroes Main Stage",
+        "670018": "League of Heroes Extra Stage"
     },
     "29": {
         "100101": "February S",
@@ -8038,7 +8051,9 @@
         "630042": "Challenge Race (EXTREME)",
         "600066": "Champions Meet: Final",
         "1202301": "Japan Cup (HARD)",
-        "1202302": "Japan Cup (HARD)"
+        "1202302": "Japan Cup (HARD)",
+        "670017": "Main Stage",
+        "670018": "Extra Stage"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9632,7 +9647,9 @@
         "11042": "Challenge Race (EXTREME)",
         "6065": "Champions Meeting CLASSIC",
         "6066": "Champions Meeting CLASSIC Final",
-        "12023": "Japan Cup"
+        "12023": "Japan Cup",
+        "13017": "League of Heroes Main Stage",
+        "13018": "League of Heroes Extra Stage"
     },
     "33": {
         "1001": "February Stakes",
@@ -12506,7 +12523,10 @@
         "102303111": "Simulation Glasses: ON",
         "102303211": "Drawing a Neon Trail",
         "105501121": "Marvelous Momentum☆",
-        "105901121": "Fluttering Towards Glory"
+        "105901121": "Fluttering Towards Glory",
+        "202881": "Complete Combustion",
+        "105003111": "Zero Latency",
+        "105003211": "Indomitable Limit Breaker"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -14003,7 +14023,13 @@
         "105003111": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
         "105003211": "Chaser・During the Final Straight, if you're not in the first place but also no more than 10 meters away from it, your speed will tremendously increase.",
         "105501121": "Betweener・If you're in the second half of the pack at a random point during the Middle Leg, your speed will increase.",
-        "105901121": "Betweener・At a random point during the Final Leg, you will get a speed boost."
+        "105901121": "Betweener・At a random point during the Final Leg, you will get a speed boost.",
+        "101111": "If you're in the middle of the pack halfway through the race, your speed will slightly increase; the effect is stronger if you're running uphill.",
+        "203322": "Betweener・At a random point on a random downhill, your acceleration will slightly increase.",
+        "203331": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase.",
+        "203332": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will slightly increase.",
+        "111101111": "Medium・At a random point during the Middle Leg, your speed will greatly increase; the effect is stronger if your base Wisdom is at least 1200.",
+        "111101211": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, on any downhill during the second half of the race, your speed will slightly increase."
     },
     "49": {
         "1": "50 Jewels",
@@ -23870,7 +23896,13 @@
         "1002141": "Win the Miyako Stakes once during training.",
         "1002142": "Win the Musashino Stakes once during training.",
         "1002143": "Win the Champions Cup once during training.",
-        "1002144": "Clear all event missions."
+        "1002144": "Clear all event missions.",
+        "340104": "Raise the affection rank of Air Messiah to rank 1.",
+        "611901": "Watch episode 4 of Air Messiah's story.",
+        "611902": "Reach 10 million total fans for Air Messiah.",
+        "611903": "Reach 50 million total fans for Air Messiah.",
+        "611904": "Reach 100 million total fans for Air Messiah.",
+        "611905": "Win all G1, G2, and G3 trophies with Air Messiah."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -27685,7 +27717,8 @@
         "104202": "Seeking the Pearl Piece",
         "112401": "Bubble Gum Fellow Piece",
         "102303": "Biwa Hayahide Piece",
-        "105003": "Narita Taishin Piece"
+        "105003": "Narita Taishin Piece",
+        "111101": "Air Messiah Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -27875,7 +27908,8 @@
         "112101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "102303": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "105003": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "105003": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "111101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -28934,7 +28968,8 @@
         "1081": "\"Beat me if you can!\" A rebellious girl who loves to bicker.",
         "1110": "A strict warrior and holy mother. An Umamusume with two sides.",
         "1121": "Pay heed! The devoted sacred sword with dazzling footwork.",
-        "1124": "A shock troop commander with a fighting spirit and an expanding dream!"
+        "1124": "A shock troop commander with a fighting spirit and an expanding dream!",
+        "1111": "Steadfast in achieving her mother's wish that she carries with her."
     },
     "147": {
         "101": "Speed",
@@ -31365,10 +31400,11 @@
         "1081": "April 22",
         "1110": "March 31",
         "1121": "May 25",
-        "9040": "February 24日(AIが三女神の名を名乗った日",
-        "9041": "February 24日(AIが三女神の名を名乗った日",
-        "9042": "February 24日(AIが三女神の名を名乗った日",
-        "1124": "April 11"
+        "9040": "February 24 (The day the AI was named after the Three Goddesses)",
+        "9041": "February 24 (The day the AI was named after the Three Goddesses)",
+        "9042": "February 24 (The day the AI was named after the Three Goddesses)",
+        "1124": "April 11",
+        "1111": "February 4"
     },
     "159": {
         "1001": "Betweener",
@@ -31541,7 +31577,8 @@
         "1081": "High School",
         "1110": "Middle School",
         "1121": "High School",
-        "1124": "High School"
+        "1124": "High School",
+        "1111": "Middle School"
     },
     "163": {
         "1044": "Sweep Tosho is my pre-transformation name! I am Sweepy the Magical Girl! Now this is sorcery! Aaah!! (Bonk)",
@@ -31667,7 +31704,8 @@
         "1081": "This here gal's Espoir City! Keep them races comin'! I'll leave 'em in the... dust...? Hey, hands off! I didn't ask ya to pat my head!",
         "1110": "I desire to solidify my future through coronation with the tiara. ――Oh, and nice to meet you!",
         "1121": "My holy sword shall release a blazing light, which shall free you from the darkness that devours you. My name is Durandal. I vow to be your loyal knight!",
-        "1124": "I declare: \"As shock troop commander, I will conceive the cyclone of the Big Four!\" Let's expand our dream together!"
+        "1124": "I declare: \"As shock troop commander, I will conceive the cyclone of the Big Four!\" Let's expand our dream together!",
+        "1111": "Air Messiah. I want to be strong and graceful, like my mother was. I will prove the greatness and value of the future."
     },
     "164": {
         "1027": "Exercise",
@@ -31773,7 +31811,8 @@
         "1120": "Cleaning floors, racing duels while dizzy",
         "1110": "Singing, weighing by feel, disguising",
         "1121": "Mowing grass, writing in-depth reviews of romance shows",
-        "1124": "Balloon modelling, singing western music a capella"
+        "1124": "Balloon modelling, singing western music a capella",
+        "1111": "Clearing every single line off the chalkboard"
     },
     "165": {
         "1029": "Heat",
@@ -31876,10 +31915,11 @@
         "1109": "Bugs (especially flies), acting",
         "1116": "Leopard prints, tapioca",
         "1119": "Flies",
-        "1120": "Quadratic functions, diving.",
+        "1120": "Quadratic functions, diving",
         "1110": "Tragic love stories, winter mornings",
         "1121": "Staring contests, traveling alone, capitulation",
-        "1124": "Hamsters"
+        "1124": "Hamsters",
+        "1111": "Winking on command"
     },
     "166": {
         "1029": "Owns many adorable earmuffs.",
@@ -31985,7 +32025,8 @@
         "1120": "Can hear cats meow from miles away.",
         "1110": "They need pampering lest they droop down.",
         "1121": "They particularly pay attention to compliments.",
-        "1124": "She has the sharpest ears of the Big Four."
+        "1124": "She has the sharpest ears of the Big Four.",
+        "1111": "They flop down when she relaxes."
     },
     "167": {
         "1029": "Currently trying out low-price care products.",
@@ -32091,7 +32132,8 @@
         "1120": "Cuts her hair perfectly straight using a ruler.",
         "1110": "She uses deep-sea water shampoo for it.",
         "1121": "She wonders if she couldn't use it as a weapon.",
-        "1124": "She loves to decorate it with pastel colors."
+        "1124": "She loves to decorate it with pastel colors.",
+        "1111": "She's got her tail hair from her mother's side."
     },
     "168": {
         "1001": "Left: 23.5cm \\nRight: 23.0cm",
@@ -32197,7 +32239,8 @@
         "1120": "Both: 23.0cm",
         "1110": "Both: 24.5cm",
         "1121": "Both: 23.5cm",
-        "1124": "Left: 25.5cm\\nRight: 25.0cm"
+        "1124": "Left: 25.5cm\\nRight: 25.0cm",
+        "1111": "Left: 24.0cm\\nRight: 24.5cm"
     },
     "169": {
         "1029": "Reliefed their daughter retains her dialect after going to the city",
@@ -32303,7 +32346,8 @@
         "1120": "She can tell what her parents are thinking about from their facial expressions alone.",
         "1110": "Her mother has a secret recipe for carrot glacé.",
         "1121": "Who gets to do house chores is decided through games of \"Acchi Muite Hoi\".",
-        "1124": "They all have a refined sweet smell."
+        "1124": "They all have a refined sweet smell.",
+        "1111": "They all write in their own diaries."
     },
     "170": {
         "1001": "Special Week",
@@ -34211,7 +34255,16 @@
         "10230303": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [Accumulative Victory] skill hint.",
         "10500301": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
         "10500302": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
-        "10500303": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint."
+        "10500303": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
+        "2033201": "Obtain [駆け降り] skill hint.",
+        "2033202": "Obtain [駆け降り] skill hint.",
+        "2033203": "Obtain [駆け降り] skill hint.",
+        "2033301": "Obtain [下準備] skill hint.",
+        "2033302": "Obtain [下準備] skill hint.",
+        "2033303": "Obtain [下準備] skill hint.",
+        "11110101": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
+        "11110102": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
+        "11110103": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -34377,7 +34430,8 @@
         "501120900": "About",
         "501110900": "About",
         "501121900": "About",
-        "501124900": "About"
+        "501124900": "About",
+        "501111900": "About"
     },
     "182": {
         "1001": "Special Week",
@@ -39251,7 +39305,8 @@
         "5": "League of Heroes",
         "6": "League of Heroes",
         "7": "League of Heroes",
-        "8": "League of Heroes"
+        "8": "League of Heroes",
+        "9": "League of Heroes"
     },
     "275": {
         "1": "Entering a race",
@@ -40487,7 +40542,12 @@
         "10500301": "Reach ≥800 Wisdom",
         "10500302": "Learn 3 Speed-increasing skills",
         "10500303": "Win 3 GⅠ races as Chaser",
-        "10500304": "Reach ≥800 Power"
+        "10500304": "Reach ≥800 Power",
+        "11110101": "Win 5 GⅠ races",
+        "11110102": "Learn 5 Speed-increasing skills",
+        "11110104": "Learn 2 Betweener skills",
+        "11110105": "Reach ≥800 Power",
+        "11110106": "Reach ≥800 Wisdom"
     },
     "293": {
         "1": "Training effect",
