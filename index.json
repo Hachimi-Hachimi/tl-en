@@ -7319,6 +7319,11 @@
       "size": 194792
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1111_03.png",
+      "hash": "214b3adc7e812dc0ee5862d28cadc51a45a5057e5e662b95b98f0d1cbe7afbae",
+      "size": 280064
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1114_03.png",
       "hash": "0caf22a7d2ddbca3e32bd4b5474bfadb10837adeebb187a5fe3ec4ac969e2347",
       "size": 273635
@@ -7592,6 +7597,11 @@
       "path": "assets/textures/gacha/comment/gacha_comment_111001.png",
       "hash": "20bba1465cd9e34a9442470ee65d2526576db592a5226df44f4a65f29fbf301e",
       "size": 546861
+    },
+    {
+      "path": "assets/textures/gacha/comment/gacha_comment_111101.png",
+      "hash": "238775039156255a1c8b2a5759678521f8ac83d63fdbf239e48cb1ede29df52d",
+      "size": 507309
     },
     {
       "path": "assets/textures/gacha/comment/gacha_comment_111601.png",
@@ -9115,8 +9125,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "53032fd977b55016e0e289af8d81eab070dc3fbf635b1541b23752cbc2b7454d",
-      "size": 2456822
+      "hash": "c4db6b970658aa41e4cb3c3940c6969da95843f6df4ef06b6fad7b22541e5c4d",
+      "size": 2461010
     }
   ]
 }
