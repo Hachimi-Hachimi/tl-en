@@ -656,7 +656,9 @@
         "112401": "[POPPING!] Bubble Gum Fellow",
         "102303": "[Engineered Victory] Biwa Hayahide",
         "105003": "[Stray Light Override] Narita Taishin",
-        "111101": "[Inherited Hope] Air Messiah"
+        "111101": "[Inherited Hope] Air Messiah",
+        "103302": "[Glacialis Vega] Admire Vega",
+        "107702": "[Celestial Road] Narita Top Road"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -848,7 +850,9 @@
         "112401": "[POPPING!]",
         "102303": "[Engineered Victory]",
         "105003": "[Stray Light Override]",
-        "111101": "[Inherited Hope]"
+        "111101": "[Inherited Hope]",
+        "103302": "[Glacialis Vega]",
+        "107702": "[Celestial Road]"
     },
     "6": {
         "1001": "Special Week",
@@ -2158,7 +2162,11 @@
         "30288": "Get 90 extra pieces with the ★3 banner Umamusume!",
         "30289": "Rate up for select support cards!",
         "30290": "Get 90 extra pieces with the ★3 banner Umamusume!",
-        "30291": "Rate up on selected SSR support cards!"
+        "30291": "Rate up on selected SSR support cards!",
+        "30292": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30293": "Rate up for select support cards!",
+        "30294": "Guaranteed ★3 Umamusume from these 8!",
+        "50117": "One-time! Limited to SSR stamina cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -3650,7 +3658,10 @@
         "30288": "Pick Up Pretty Derby Gacha",
         "30289": "Pick Up Support Card Gacha",
         "30290": "Pick Up Pretty Derby Gacha",
-        "30291": "Secret Pickup Support Card Gacha"
+        "30291": "Secret Pickup Support Card Gacha",
+        "30292": "Pick Up Pretty Derby Gacha",
+        "30293": "Pick Up Support Card Gacha",
+        "30294": "Twinkle Collection Pretty Derby Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5885,7 +5896,12 @@
         "1202301": "Japan Cup (HARD)",
         "1202302": "Japan Cup (HARD)",
         "670017": "League of Heroes Main Stage",
-        "670018": "League of Heroes Extra Stage"
+        "670018": "League of Heroes Extra Stage",
+        "681601": "Arima Kinen Level 1",
+        "681611": "Arima Kinen Level 2",
+        "681621": "Arima Kinen Level 3",
+        "1202401": "Arima Kinen (HARD)",
+        "1202402": "Arima Kinen (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -8053,7 +8069,12 @@
         "1202301": "Japan Cup (HARD)",
         "1202302": "Japan Cup (HARD)",
         "670017": "Main Stage",
-        "670018": "Extra Stage"
+        "670018": "Extra Stage",
+        "681601": "Arima Kinen Level 1",
+        "681611": "Arima Kinen Level 2",
+        "681621": "Arima Kinen Level 3",
+        "1202401": "Arima Kinen (HARD)",
+        "1202402": "Arima Kinen (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9649,7 +9670,13 @@
         "6066": "Champions Meeting CLASSIC Final",
         "12023": "Japan Cup",
         "13017": "League of Heroes Main Stage",
-        "13018": "League of Heroes Extra Stage"
+        "13018": "League of Heroes Extra Stage",
+        "12024": "Arima Kinen",
+        "18014": "Sprinters Stakes",
+        "18015": "Mile Championship",
+        "18016": "Tokyo Yushun (Japan Derby)",
+        "18017": "Arima Kinen",
+        "18018": "Tokyo Daishoten"
     },
     "33": {
         "1001": "February Stakes",
@@ -10432,7 +10459,8 @@
         "11042": "Challenge Race",
         "6065": "Champions Meeting",
         "6066": "Champions Meeting",
-        "12023": "Legend Race"
+        "12023": "Legend Race",
+        "12024": "Legend Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -10710,7 +10738,8 @@
         "1202102": "VS Curren Chan",
         "1202201": "VS Rice Shower",
         "1202001": "VS Smart Falcon",
-        "1202301": "VS Symboli Rudolf"
+        "1202301": "VS Symboli Rudolf",
+        "1202402": "VS Daiwa Scarlet"
     },
     "38": {
         "1001": "February S",
@@ -12526,7 +12555,17 @@
         "105901121": "Fluttering Towards Glory",
         "202881": "Complete Combustion",
         "105003111": "Zero Latency",
-        "105003211": "Indomitable Limit Breaker"
+        "105003211": "Indomitable Limit Breaker",
+        "101111": "Traced Bloodline, Budding Future",
+        "110331": "Crystal Mist",
+        "110771": "Joy to the World",
+        "203322": "Descent",
+        "203331": "Thorough Preparation",
+        "901111": "Traced Bloodline, Budding Future",
+        "910331": "Crystal Mist",
+        "910771": "Joy to the World",
+        "111101111": "Chasing Mother's Likeness",
+        "111101211": "Steady Stratagem"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -12770,7 +12809,7 @@
         "200151": "Your Power stat is increased by 60 in races with Good track condition.",
         "200152": "Your Power stat is increased by 40 in races with Good track condition.",
         "200153": "Your Power stat is decreased by 40 in races with Good track condition.",
-        "200154": "Your Power and Speed stat is increased by 80 in races with Good track condition.",
+        "200154": "Your Power and Speed stat is increased by 60 in races with Good track condition.",
         "200161": "Your Power stat is increased by 60 in races with Slightly Heavy, Heavy, or Bad track condition.",
         "200162": "Your Power stat is increased by 40 in races with Slightly Heavy, Heavy, or Bad track condition.",
         "200163": "Your Power stat is decreased by 40 in races with Slightly Heavy, Heavy, or Bad track condition.",
@@ -14029,7 +14068,20 @@
         "203331": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase.",
         "203332": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will slightly increase.",
         "111101111": "Medium・At a random point during the Middle Leg, your speed will greatly increase; the effect is stronger if your base Wisdom is at least 1200.",
-        "111101211": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, on any downhill during the second half of the race, your speed will slightly increase."
+        "111101211": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, on any downhill during the second half of the race, your speed will slightly increase.",
+        "110331": "Chaser・If you're not in the front during the Final Corner, your acceleration will increase; it will increase greatly in 2400 m races.",
+        "110771": "If you used a stamina-recovery skill during the first half of the Middle Leg, then around the half point of the race, if you're in a good position but not leading, your speed will increase; it will increase greatly if there's at least 1000 m remaining at that point.",
+        "203341": "Chaser・Medium・If you're not in the front at a random point during the Middle Leg, your speed will increase.",
+        "203342": "Chaser・Medium・If you're not in the front at a random point during the Middle Leg, your speed will slightly increase.",
+        "203351": "Mile・If you're not in the front at a random point during the Middle Leg, use a little extra stamina to greatly increase your speed.",
+        "203352": "Mile・If you're not in the front at a random point during the Middle Leg, use a little extra stamina to increase your speed.",
+        "203362": "If you're not in the front at a random point during the Middle Leg, your speed will slightly increase.",
+        "100303221": "Leader・If you're in the first half of the pack during the first half of the Middle Leg, use a little extra stamina to greatly increase your speed.",
+        "103302111": "Chaser・Medium・If you're not in the front at a random point during the Middle Leg, your speed will greatly increase; the duration is longer in 2400 m races.",
+        "103302211": "Medium・At a random point during the first half of the Final Leg, your speed will greatly increase; the duration is longer in 2400 m races.",
+        "103602121": "Long・If you've been overtaken in the middle of the pack during the Middle Leg, you will will drain stamina from enemy girls ahead of you, and will get a speed boost.",
+        "107702111": "Leader・At a random point during the first half of the Middle Leg, your stamina will recover tremendously.",
+        "107702211": "Leader・At a random point during the second half of the Middle Leg, use a little extra stamina to greatly increase your speed."
     },
     "49": {
         "1": "50 Jewels",
@@ -16219,7 +16271,8 @@
         "720002": "Tenno Sho (Spring) Master",
         "720003": "Satsuki Sho Master",
         "100618": "WINnin' 5 -Winning☆Five-",
-        "720012": "Tenno Sho (Spring) Master"
+        "720012": "Tenno Sho (Spring) Master",
+        "720017": "Arima Kinen Master"
     },
     "66": {
         "100101": "Unlocked from the start.",
@@ -17100,9 +17153,6 @@
         "710001": "Reach League Rank Platinum IV in the League of Heroes.",
         "710002": "Reach League Rank Platinum IV in the League of Heroes 2 times.",
         "710003": "Reach League Rank Platinum IV in the League of Heroes 3 times.",
-        "720001": "マスターズチャレンジの有馬記念を制覇しよう.",
-        "720002": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
-        "720003": "マスターズチャレンジの皐月賞を制覇しよう.",
         "100636": "Watch 'Hakunetsu My Soul'.",
         "100637": "Watch 'U.M.A. NEW WORLD!!'.",
         "110401": "Watch episode 4 of Vivlos's story.",
@@ -17135,10 +17185,10 @@
         "507103": "Reach a total Sphere genre level of 6000 or higher.",
         "507104": "Reach a total Fight genre level of 6000 or higher.",
         "507105": "Reach a total Free genre level of 6000 or higher.",
-        "720012": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
         "310138": "Clear all event limited missions.",
         "310139": "Clear all event limited missions.",
-        "320008": "Receive Excellent grades in the Trainer's Proficiency Exam."
+        "320008": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "310140": "Clear all event limited missions."
     },
     "67": {
         "100000": "Win any race once during training.",
@@ -23902,7 +23952,55 @@
         "611902": "Reach 10 million total fans for Air Messiah.",
         "611903": "Reach 50 million total fans for Air Messiah.",
         "611904": "Reach 100 million total fans for Air Messiah.",
-        "611905": "Win all G1, G2, and G3 trophies with Air Messiah."
+        "611905": "Win all G1, G2, and G3 trophies with Air Messiah.",
+        "341077": "Raise the affection rank of Neo Universe to rank 11.",
+        "341079": "Raise the affection rank of Tanino Gimlet to rank 11.",
+        "341086": "Raise the affection rank of Tap Dance City to rank 11.",
+        "342077": "Raise the affection rank of Neo Universe to rank 12.",
+        "342079": "Raise the affection rank of Tanino Gimlet to rank 12.",
+        "342086": "Raise the affection rank of Tap Dance City to rank 12.",
+        "1002145": "Finish a training run having completed all training objectives once.",
+        "1002146": "Finish a training run having completed all training objectives 2 times.",
+        "1002147": "Win the Artemis Stakes once during training.",
+        "1002148": "Win the Fantasy Stakes once during training.",
+        "1002149": "Win the Hanshin Juvenile Fillies once during training.",
+        "1002150": "Clear all event missions.",
+        "1002151": "Finish a training run having completed all training objectives once.",
+        "1002152": "Finish a training run having completed all training objectives 2 times.",
+        "1002153": "Win 10 G1 races during training.",
+        "1002154": "Win the Zen-Nippon Junior Yushun once during training.",
+        "1002155": "Clear all event missions.",
+        "1002156": "Finish a training run having completed all training objectives once.",
+        "1002157": "Finish a training run having completed all training objectives 2 times.",
+        "1002158": "Win the Keio Hai Junior Stakes once during training.",
+        "1002159": "Win the Daily Hai Junior Stakes once during training.",
+        "1002160": "Win the Asahi Hai Futurity Stakes once during training.",
+        "1002161": "Clear all event missions.",
+        "2003501": "[Daily] Enter Legend Race 1 time",
+        "2003502": "[Daily] Enter Legend Race 2 times",
+        "2003503": "[Daily] Enter Legend Race 3 times",
+        "2003504": "[Daily] Enter Legend Race 1 time",
+        "2003505": "[Daily] Enter Legend Race 2 times",
+        "2003506": "[Daily] Enter Legend Race 3 times",
+        "2003507": "[Daily] Enter Legend Race 1 time",
+        "2003508": "[Daily] Enter Legend Race 2 times",
+        "2003509": "[Daily] Enter Legend Race 3 times",
+        "2003510": "[Daily] Enter Legend Race 1 time",
+        "2003511": "[Daily] Enter Legend Race 2 times",
+        "2003512": "[Daily] Enter Legend Race 3 times",
+        "2003513": "[Daily] Enter Legend Race 1 time",
+        "2003514": "[Daily] Enter Legend Race 2 times",
+        "2003515": "[Daily] Enter Legend Race 3 times",
+        "2003516": "[Daily] Enter Legend Race 1 time",
+        "2003517": "[Daily] Enter Legend Race 2 times",
+        "2003518": "[Daily] Enter Legend Race 3 times",
+        "2003519": "[Limited] Enter Legend Race 6 times",
+        "2003520": "[Limited] Enter Legend Race 9 times",
+        "2003521": "[Limited] Enter Legend Race 12 times",
+        "2600129": "Do 2 training runs ('A Gleaming Mejiro Gala' story event).",
+        "2600130": "Do 4 training runs ('A Gleaming Mejiro Gala' story event).",
+        "2600131": "Do 7 training runs ('A Gleaming Mejiro Gala' story event).",
+        "2600132": "Do 10 training runs ('A Gleaming Mejiro Gala' story event)."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -25313,7 +25411,10 @@
         "30226": "[Cocoon] Air Shakur",
         "30227": "[The Wind Blows For You, Scarlet] Daiwa Scarlet",
         "20081": "[Leave the Haute Couture to Me!] North Flight",
-        "30228": "[COOL⇔CRAZY/Buddy] Symboli Kris S"
+        "30228": "[COOL⇔CRAZY/Buddy] Symboli Kris S",
+        "30229": "[Alert! New Work Available!] Agnes Digital",
+        "30230": "[Howling Fortitude] Meisho Doto",
+        "30231": "[The Ruling Royalty] T.M. Opera O"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -25734,7 +25835,10 @@
         "30226": "[Cocoon]",
         "30227": "[The Wind Blows For You, Scarlet]",
         "20081": "[Leave the Haute Couture to Me!]",
-        "30228": "[COOL⇔CRAZY/Buddy]"
+        "30228": "[COOL⇔CRAZY/Buddy]",
+        "30229": "[Alert! New Work Available!]",
+        "30230": "[Howling Fortitude]",
+        "30231": "[The Ruling Royalty]"
     },
     "77": {
         "10001": "Special Week",
@@ -26155,7 +26259,10 @@
         "30226": "Air Shakur",
         "30227": "Daiwa Scarlet",
         "20081": "North Flight",
-        "30228": "Symboli Kris S"
+        "30228": "Symboli Kris S",
+        "30229": "Agnes Digital",
+        "30230": "Meisho Doto",
+        "30231": "T.M. Opera O"
     },
     "78": {
         "10001": "Special Week",
@@ -26576,7 +26683,10 @@
         "30226": "Air Shakur",
         "30227": "Daiwa Scarlet",
         "20081": "North Flight",
-        "30228": "Symboli Kris S"
+        "30228": "Symboli Kris S",
+        "30229": "Agnes Digital",
+        "30230": "Meisho Doto",
+        "30231": "T.M. Opera O"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
@@ -27718,7 +27828,9 @@
         "112401": "Bubble Gum Fellow Piece",
         "102303": "Biwa Hayahide Piece",
         "105003": "Narita Taishin Piece",
-        "111101": "Air Messiah Piece"
+        "111101": "Air Messiah Piece",
+        "103302": "Admire Vega Piece",
+        "107702": "Narita Top Road Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -27909,7 +28021,9 @@
         "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "102303": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "105003": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "111101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "111101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "103302": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "107702": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -30699,7 +30813,19 @@
         "10230303": "Accumulative Victory",
         "10500301": "Overdrive Speed",
         "10500302": "Overdrive Speed",
-        "10500303": "Overdrive Speed"
+        "10500303": "Overdrive Speed",
+        "2033201": "Descent",
+        "2033202": "Descent",
+        "2033203": "Descent",
+        "10330201": "Crystal Mist",
+        "10330202": "Crystal Mist",
+        "10330203": "Crystal Mist",
+        "10770201": "Joy to the World",
+        "10770202": "Joy to the World",
+        "10770203": "Joy to the World",
+        "11110101": "Traced Bloodline, Budding Future",
+        "11110102": "Traced Bloodline, Budding Future",
+        "11110103": "Traced Bloodline, Budding Future"
     },
     "148": {
         "1": "Ace Bonus",
@@ -31279,7 +31405,8 @@
         "30225": "Training bonus when Bond over 80",
         "30226": "Stamina bonus when Bond over 80",
         "20081": "Training bonus and initial \\nPower increase",
-        "30228": "Power bonus when Bond over 80"
+        "30228": "Power bonus when Bond over 80",
+        "30230": "Speed bonus when Bond at 100"
     },
     "157": {
         "1001": "May 2",
@@ -34256,15 +34383,30 @@
         "10500301": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
         "10500302": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
         "10500303": "Increases Power Cap and Wit Cap.\\nObtain [Overdrive Speed] skill hint.",
-        "2033201": "Obtain [駆け降り] skill hint.",
-        "2033202": "Obtain [駆け降り] skill hint.",
-        "2033203": "Obtain [駆け降り] skill hint.",
+        "2033201": "Obtain [Descent] skill hint.",
+        "2033202": "Obtain [Descent] skill hint.",
+        "2033203": "Obtain [Descent] skill hint.",
         "2033301": "Obtain [下準備] skill hint.",
         "2033302": "Obtain [下準備] skill hint.",
         "2033303": "Obtain [下準備] skill hint.",
-        "11110101": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
-        "11110102": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
-        "11110103": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint."
+        "11110101": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
+        "11110102": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
+        "11110103": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
+        "2033401": "Obtain [這い寄る足音] skill hint.",
+        "2033402": "Obtain [這い寄る足音] skill hint.",
+        "2033403": "Obtain [這い寄る足音] skill hint.",
+        "2033501": "Obtain [ハイピッチ] skill hint.",
+        "2033502": "Obtain [ハイピッチ] skill hint.",
+        "2033503": "Obtain [ハイピッチ] skill hint.",
+        "2033601": "Obtain [一歩ずつ前へ] skill hint.",
+        "2033602": "Obtain [一歩ずつ前へ] skill hint.",
+        "2033603": "Obtain [一歩ずつ前へ] skill hint.",
+        "10330201": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "10330202": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "10330203": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "10770201": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
+        "10770202": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
+        "10770203": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -34952,7 +35094,13 @@
         "688": "Fall G1 Missions #2 \\nChampions C",
         "705": "Designated Race Piece Rewards",
         "706": "Designated Race Piece Rewards",
-        "707": "Designated Race Piece Rewards"
+        "707": "Designated Race Piece Rewards",
+        "689": "Fall G1 Missions #3 \\nHanshin JF",
+        "690": "Fall G1 Missions #3 \\nZen-Nippon Junior Yushun",
+        "691": "Fall G1 Missions #3 \\nAsahi Hai FS",
+        "708": "Designated Race Piece Rewards",
+        "709": "Designated Race Piece Rewards",
+        "710": "Designated Race Piece Rewards"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -35179,7 +35327,10 @@
         "743": "Free retries doubled.",
         "705": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
         "706": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
-        "707": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training."
+        "707": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "708": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "709": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "710": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -36900,7 +37051,50 @@
         "1690": "Finish 3rd or higher in Tenno Sho (Spring) during training",
         "1691": "Finish 3rd or higher in Takarazuka Kinen during training",
         "1692": "Finish 3rd or higher in Arima Kinen during training",
-        "1693": "Complete all event limited missions"
+        "1693": "Complete all event limited missions",
+        "1694": "Complete a training once",
+        "1695": "Win a race in training once",
+        "1696": "Run in the Team Stadium once",
+        "1697": "Let's login",
+        "1698": "Complete all event daily missions",
+        "1699": "Complete a training once",
+        "1700": "Complete a training 3 times",
+        "1701": "Complete a training 5 times",
+        "1702": "Complete training 7 times",
+        "1703": "Complete training 9 times",
+        "1704": "Complete training 12 times",
+        "1705": "Win a race in training 10 times",
+        "1706": "Win a race in training 20 times",
+        "1707": "Win a race in training 30 times",
+        "1708": "Win a race in training 40 times",
+        "1709": "Win a race in training 50 times",
+        "1710": "Win a race in training 60 times",
+        "1711": "Win a GI race in training 10 times",
+        "1712": "Win a GI race in training 20 times",
+        "1713": "Win a GI race in training 30 times",
+        "1714": "Win a GI race in training 40 times",
+        "1715": "Reach 500K fans in training",
+        "1716": "Reach 1M fans in training",
+        "1717": "Earn a total of 1500000 fans in training",
+        "1718": "Earn a total of 2000000 fans in training",
+        "1719": "Run in the Team Stadium 5 times",
+        "1720": "Run in the Team Stadium 10 times",
+        "1721": "Play Stadium 15 times",
+        "1722": "Run in the Team Stadium 20 times",
+        "1723": "Run in the Team Stadium 30 times",
+        "1724": "Run in the Team Stadium 40 times",
+        "1725": "Earn a total of 500000 points in Team Stadium",
+        "1726": "Earn a total of 1000000 points in Team Stadium",
+        "1727": "Earn a total of 2000000 points in Team Stadium",
+        "1728": "Earn a total of 3000000 points in Team Stadium",
+        "1729": "Finish top 3 in Hopeful S during training",
+        "1730": "Finish 3rd or higher in Satsuki Sho during training",
+        "1731": "Finish 3rd or higher in Japan Derby during training",
+        "1732": "Finish 3rd or higher in Kikka Sho during training",
+        "1733": "Finish 3rd or higher in Takarazuka Kinen during training",
+        "1734": "Finish top 3 in the Tenno Sho (Autumn) during training",
+        "1735": "Finish top 3 in the Japan C during training",
+        "1736": "Complete all event limited missions"
     },
     "191": {
         "73": "Thrown Down! Chocolate Contest!",
@@ -40547,7 +40741,22 @@
         "11110102": "Learn 5 Speed-increasing skills",
         "11110104": "Learn 2 Betweener skills",
         "11110105": "Reach ≥800 Power",
-        "11110106": "Reach ≥800 Wisdom"
+        "11110106": "Reach ≥800 Wisdom",
+        "10030308": "Gain 150000 fans",
+        "10030309": "Learn 2 Leader skills",
+        "10030310": "Reach ≥800 Wisdom",
+        "10330202": "Reach ≥800 Speed",
+        "10330203": "Learn 2 Medium Distance skills",
+        "10330204": "Learn 3 Speed-increasing skills",
+        "10330205": "Reach ≥800 Power",
+        "10360208": "Gain 150000 fans",
+        "10360209": "Reach ≥800 Power",
+        "10770201": "Learn 2 Leader skills",
+        "10770202": "Learn 2 Energy-recovering skills",
+        "10770203": "Reach ≥600 Stamina",
+        "10770204": "Win 2 GⅠ races as Leader",
+        "10770205": "Learn 3 Speed-increasing skills",
+        "10770206": "Reach ≥800 Power"
     },
     "293": {
         "1": "Training effect",
