@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Maruzensky",
-            "text": "Aww, I've been rejected again. They're all so shy～!"
+            "text": "Aww, I've been rejected again. \nThey're all so shy～!"
         },
         {
             "name": "Maruzensky",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Hey, do you want to go on a date with me?"
+            "text": "Hey, do you want to go on a date with\nme?"
         },
         {
             "name": "Maruzensky",
-            "text": "A coastal drive, cutting through the wind! You're guaranteed to be thrilled and excited☆"
+            "text": "A coastal drive, cutting through \nthe wind! You're guaranteed to \nbe thrilled and excited☆"
         }
     ]
 }

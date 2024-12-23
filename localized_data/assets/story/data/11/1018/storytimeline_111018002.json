@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Air Groove",
-            "text": "If we are to walk our path together, I need you to show your commitment. …Consider this a way to raise your awareness of that."
+            "text": "If we are to walk our path together,\nI need you to show your commitment. …\nConsider this a way to raise your\nawareness of that."
         }
     ]
 }
