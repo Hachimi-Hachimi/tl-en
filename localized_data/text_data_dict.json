@@ -659,7 +659,8 @@
         "111101": "[Inherited Hope] Air Messiah",
         "103302": "[Glacialis Vega] Admire Vega",
         "107702": "[Celestial Road] Narita Top Road",
-        "111701": "[Dramatic Tutu] Win Variation"
+        "111701": "[Dramatic Tutu] Win Variation",
+        "101103": "[Honor of the Blue Flame] Grass Wonder"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -854,7 +855,8 @@
         "111101": "[Inherited Hope]",
         "103302": "[Glacialis Vega]",
         "107702": "[Celestial Road]",
-        "111701": "[Dramatic Tutu]"
+        "111701": "[Dramatic Tutu]",
+        "101103": "[Honor of the Blue Flame]"
     },
     "6": {
         "1001": "Special Week",
@@ -1803,7 +1805,8 @@
         "228": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
         "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "1007": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
-        "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>"
+        "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -2177,7 +2180,9 @@
         "30294": "Guaranteed ★3 Umamusume from these 8!",
         "50117": "One-time! Limited to SSR stamina cards!",
         "30296": "Get 90 extra pieces with the ★3 banner Umamusume!",
-        "30297": "Rate up for select support cards!"
+        "30297": "Rate up for select support cards!",
+        "30298": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30299": "Rate up on selected SSR support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2840,7 +2845,8 @@
         "261": "Factor Research Report",
         "3009": "League Tickets",
         "1007": "Scout Points",
-        "2007": "Scout Race Tickets"
+        "2007": "Scout Race Tickets",
+        "229": "Entry Tickets"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3303,7 +3309,8 @@
         "261": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
         "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "1007": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
-        "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>"
+        "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3679,7 +3686,8 @@
         "30293": "Pick Up Support Card Gacha",
         "30294": "Twinkle Collection Pretty Derby Gacha",
         "30296": "Pick Up Pretty Derby Gacha",
-        "30297": "Pick Up Support Card Gacha"
+        "30297": "Pick Up Support Card Gacha",
+        "30298": "Pick Up Pretty Derby Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5931,7 +5939,9 @@
         "650081": "Special Race: Medium",
         "650082": "Special Race: Mile",
         "650083": "Special Race: Dirt",
-        "650084": "Special Race: Long"
+        "650084": "Special Race: Long",
+        "600067": "Champions Meet: LONG",
+        "600068": "Champions Meet: LONG Final"
     },
     "29": {
         "100101": "February S",
@@ -8116,7 +8126,10 @@
         "650081": "Special Race: Medium",
         "650082": "Special Race: Mile",
         "650083": "Special Race: Dirt",
-        "650084": "Special Race: Long"
+        "650084": "Special Race: Long",
+        "580005": "Moonlight Sho",
+        "580035": "Jupiter Cup",
+        "600068": "Champions Meet: Final"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9730,7 +9743,11 @@
         "15081": "Special Race: Medium",
         "15082": "Special Race: Mile",
         "15083": "Special Race: Dirt",
-        "15084": "Special Race: Long"
+        "15084": "Special Race: Long",
+        "5805": "Moonlight Sho",
+        "5835": "Jupiter Cup",
+        "6067": "Champions Meet: LONG",
+        "6068": "Champions Meet: LONG Final"
     },
     "33": {
         "1001": "February Stakes",
@@ -10526,7 +10543,9 @@
         "15081": "Special Race",
         "15082": "Special Race",
         "15083": "Special Race",
-        "15084": "Special Race"
+        "15084": "Special Race",
+        "6067": "Champions Meeting",
+        "6068": "Champions Meeting"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -12642,7 +12661,16 @@
         "103302211": "Melting of the Icy Star",
         "103602121": "Noise Cancellation",
         "107702111": "Single-Minded Santa Claus",
-        "107702211": "Leave the Dark Nights to Me!"
+        "107702211": "Leave the Dark Nights to Me!",
+        "101171": "Allegro of Valor",
+        "202931": "Relentless Approach",
+        "203411": "Fruits of Labor",
+        "203412": "Steady Effort",
+        "203421": "Forthright",
+        "203422": "Believe in Yourself",
+        "901171": "Allegro of Valor",
+        "111701111": "Grand Jeté",
+        "111701211": "En l'Air"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -12692,7 +12720,7 @@
         "100251": "If you're in the middle of the pack in the second half of the race, your speed will increase while draining the speed of the girls ahead of you.",
         "100261": "If you didn't have a late start to the race, and you're in the front during the Final Straight, your speed will increase; bonus speed if you've been in the front for the entire race.",
         "100271": "Increase acceleration as you attempt to overtake on a corner in the Final Leg or beyond.",
-        "100281": "The description of this skill has recently changed; retranslation is pending.",
+        "100281": "Halfway through the race, if you're in a good position (but not leading) and about to overtake someone, your speed will slightly increase; in Short races, you will get a slight instant speed boost instead.",
         "100291": "If you're close to the first place with 300 m remaining in the race, your speed will increase.",
         "100301": "If you've overtaken another girl in the front during the Final Leg or beyond, then on the Final Straight, your speed will increase.",
         "100311": "If you're in the front with 300 m remaining in the race, your speed will increase; bonus speed if you have just finished climbing up a hill.",
@@ -12704,7 +12732,7 @@
         "100371": "If you haven't panicked (kakari) during the race and you're 3rd or worse during the Final Straight, your speed will increase; bonus speed if you've been in the middle of the pack for the entire race.",
         "100381": "Gain momentum while in a good position when overtaking someone in the middle leg.",
         "100391": "If you struggle for victory on the last straight, your speed will increase.",
-        "100401": "The description of this skill has recently changed; retranslation is pending.",
+        "100401": "In the second half of the race, if you're about to overtake someone from the middle of the pack, your speed will slightly increase.",
         "100411": "During the later half of the race, your speed increases when competing for the lead.",
         "100421": "With 200 meters remaining in the race, your speed will increase if you're within 10 meters from the first place; it will increase greatly if you're within 5 meters.",
         "100431": "When directly competing for position on the Final Straight in a Showdown (追い比べ), your speed will increase; on dirt tracks, your acceleration will increase too.",
@@ -12764,7 +12792,7 @@
         "101081": "If you're in the second half of the pack halfway through the race, your speed will increase; then, if you try to overtake someone during the Final Corner in the Final Leg, you will get a slight speed boost.",
         "101091": "If you're in the middle of the pack on any corner during the first half of the race, your speed will slightly increase; bonus duration in Short and Mile races.",
         "101191": "If you're in the back of the pack 2/3 through the race, your will get a speed boost; then, if it's a Medium or Long distance race in Nakayama or Hanshin and you're on any straight, you will get a great speed boost.",
-        "110011": "The description of this skill has recently changed; retranslation is pending.",
+        "110011": "During the Middle Leg, if you activate at least two skills and are in the middle of the pack, your speed will increase and your stamina will recover.",
         "110021": "If you're in the first place two-thirds through the race, you will get a speed boost; the effect will greatly increase if the two-thirds point is on the third corner and if you were leading by at least 3 lengths during the Middle Leg.",
         "110031": "If you're chasing after another girl in the front during the Final Corner or beyond, your speed on the Final Straight will increase.",
         "110041": "In the second half of the race, increase speed when you recover stamina with your skills while being in front.",
@@ -12802,7 +12830,7 @@
         "110381": "If you're in a good position with less than 350m remaining in the race and there's another girl right behind you, your speed and acceleration will increase.",
         "110391": "If you run uphill during the Middle Leg or later while being in the middle of the pack, then after the finishing the hill, your speed will increase.",
         "110401": "If you're blocked in the middle of the pack at the final corner, it will become easier to get out.",
-        "110411": "The description of this skill has recently changed; retranslation is pending.",
+        "110411": "If you're top 3 with 400 m remaining in the race, your acceleration will increase.",
         "110441": "If you're in the second half of the pack on any downhill during the Middle Leg or later, you will use a little extra stamina to get a speed boost; then, during the Last Straight, if your motivation is at least Good, your speed will increase.",
         "110451": "If you're in front after the final corner and about to overtake another girl, your speed and acceleration will increase.",
         "110461": "Halfway through the race, if you're near the front, your speed will increase; if this is a dirt race, you will also recover stamina.",
@@ -13281,8 +13309,8 @@
         "202362": "Dirt・If an enemy character uses a recovery skill in the second half of the race, she will slow down a little.",
         "202371": "Leader・At a random point in the Middle Leg, your speed will increase.",
         "202372": "Leader・At a random point in the Middle Leg, your speed will slightly increase.",
-        "202381": "The description of this skill has recently changed; retranslation is pending.",
-        "202382": "The description of this skill has recently changed; retranslation is pending.",
+        "202381": "Chaser・If you're in the second half of the pack at a random point during the Middle Leg, your speed and lane movement speed will increase.",
+        "202382": "Chaser・If you're in the second half of the pack at a random point during the Middle Leg, your speed and lane movement speed will slightly increase.",
         "202391": "Runner・During the first half of the Middle Leg, use some stamina to greatly increase your speed.",
         "202392": "Runner・During the first half of the Middle Leg, use some stamina to increase your speed.",
         "202401": "Short/Mile・If you're about to overtake someone in the second half of the pack during the Final Leg, your acceleration will increase.",
@@ -13589,7 +13617,7 @@
         "102101211": "If you've activated at least 3 skills during the Middle Leg, your speed will greatly increase.",
         "102102111": "Medium・If you're in the first half of the pack at a random point during the Middle Leg, your speed will greatly increase.",
         "102102211": "Greatly increases speed when overtaking during the Middle Leg.",
-        "102201111": "The description of this skill has recently changed; retranslation is pending.",
+        "102201111": "Leader・At a random point on the Final Corner, if you're in the first half of the pack, your speed will greatly increase.",
         "102201211": "Leader・At a random point on any downhill, your acceleration will increase.",
         "102202111": "Mile・At a random point during the Middle Leg, if you're in the first half of the pack, your speed will greatly increase.",
         "102202211": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration and FoV will increase.",
@@ -13615,7 +13643,7 @@
         "102702111": "Leader・At a random point on any downhill, your acceleration will increase.",
         "102702211": "Greatly increases speed on downhills.",
         "102801111": "Short・At a random point during the Middle Leg, your speed will slightly increase, and your acceleration and lane movement speed will increase.",
-        "102801211": "The description of this skill has recently changed; retranslation is pending.",
+        "102801211": "Leader・At a random point during the second half of the Middle Leg, your speed will increase and your stamina will recover.",
         "102801221": "Leader・Short・At a random point during the Middle Leg, use a little extra stamina to increase your speed tremendously.",
         "102901111": "If there's another girl right in front of you during the Last Spurt, your acceleration and lane movement speed will increase.",
         "102901211": "Leader・On downhills, your acceleration will slightly increase.",
@@ -13708,7 +13736,7 @@
         "104901211": "Your Speed, Power, and Guts stats have a chance of being increased by 100 each. The chance is 30% if you're one of the three most popular racers, and 60% otherwise.",
         "105001111": "Chaser・At a random point during the Middle Leg, if you're in the back of the pack, your speed will slightly increase and your stamina will recover.",
         "105001211": "Chaser・During a Last Spurt straight, your acceleration and FoV will increase.",
-        "105002111": "The description of this skill has recently changed; retranslation is pending.",
+        "105002111": "Chaser・If you're in the second half of the pack at a random point during the Middle Leg, your speed and lane movement speed will increase.",
         "105002211": "Medium・During the first half of the Final Leg, if you're not in the front, your acceleration will increase.",
         "105101111": "At a random point on a random straight, your speed will increase and your stamina slightly recover.",
         "105101211": "Leader・At a random point on any downhill, your acceleration will increase.",
@@ -14166,7 +14194,12 @@
         "203421": "Leader・At a random point during the first half of the Last Spurt, your speed will increase.",
         "203422": "Leader・At a random point during the first half of the Last Spurt, your speed will slightly increase.",
         "111701111": "Chaser・If you try to overtake someone during the second half of the race, your speed will greatly increase.",
-        "111701211": "During a random Middle Leg corner, you will get a small speed boost; then, on the Last Straight, your will get a small speed boost again."
+        "111701211": "During a random Middle Leg corner, you will get a small speed boost; then, on the Last Straight, your will get a small speed boost again.",
+        "120111": "If you were in the middle of the pack trying to overtake someone or someone tried to overtake you anywhere during the second half of the race, then with 400 m remaining in the race, your speed will increase; in non-core (not divisible by 400) races, it will increase greatly instead.",
+        "203371": "Medium/Long・When another girl activates a speed skill during the Final Corner or beyond, you will get a speed boost.",
+        "203372": "Medium/Long・When another girl activates a speed skill during the Final Corner or beyond, you will get a marginal speed boost.",
+        "101103111": "Betweener・At a random point during any Middle Leg straight, use a little extra stamina to increase your speed tremendously; in Long-distance Nakayama races, the effect is even stronger and doesn't use extra stamina.",
+        "101103211": "Medium/Long・When another girl activates a speed skill during the Final Corner or beyond, you will get a speed boost."
     },
     "49": {
         "1": "50 Jewels",
@@ -20689,7 +20722,7 @@
         "1001406": "Clear all event missions.",
         "1001411": "Finish a training run having completed all training objectives once.",
         "1001412": "Finish a training run having completed all training objectives 2 times.",
-        "1001413": "Participate in 10 G1 races during training.",
+        "1001413": "Win 10 G1 races during training.",
         "1001414": "Win the Zen-Nippon Junior Yushun once during training.",
         "1001415": "Clear all event missions.",
         "1001421": "Finish a training run having completed all training objectives once.",
@@ -20943,7 +20976,7 @@
         "1001856": "Clear all event missions.",
         "1001861": "Finish a training run having completed all training objectives once.",
         "1001862": "Finish a training run having completed all training objectives 2 times.",
-        "1001863": "Participate in 10 G1 races during training.",
+        "1001863": "Win 10 G1 races during training.",
         "1001864": "Win the Zen-Nippon Junior Yushun once during training.",
         "1001865": "Clear all event missions.",
         "1001871": "Finish a training run having completed all training objectives once.",
@@ -23529,7 +23562,7 @@
         "600637": "Watch 'U.M.A. NEW WORLD!!'.",
         "600638": "Watch 'Ready!! Steady!! Derby!!'.",
         "600639": "Watch 'Umasugi! Gourmet Parade'.",
-        "600640": "UMA Summerを見よう.",
+        "600640": "Watch 'UMA Summer'.",
         "601409": "Watch episode 13 of main story act 2, chapter 1.",
         "601457": "Win the episode 4R race of main story act 2, chapter 1.",
         "610401": "Watch episode 4 of Vivlos's story.",
@@ -23748,9 +23781,9 @@
         "341082": "Raise the affection rank of Sirius Symboli to rank 11.",
         "342076": "Raise the affection rank of Sakura Laurel to rank 12.",
         "342082": "Raise the affection rank of Sirius Symboli to rank 12.",
-        "601306": "全国興行を100回完了しよう.",
-        "601410": "メインストーリー第2部中編第13話を見よう.",
-        "601458": "メインストーリー第2部中編第4Rでレースに勝利しよう.",
+        "601306": "Complete the National Tour 100 times.",
+        "601410": "Watch episode 13 of main story act 2, chapter 2.",
+        "601458": "Win the episode 4R race of main story act 2, chapter 2.",
         "1002090": "Clear all event missions.",
         "1002097": "Finish a training run having completed all training objectives once.",
         "1002098": "Finish a training run having completed all training objectives 2 times.",
@@ -23937,11 +23970,11 @@
         "342072": "Raise the affection rank of Mr. C.B. to rank 12.",
         "342078": "Raise the affection rank of Hishi Miracle to rank 12.",
         "342083": "Raise the affection rank of Narita Top Road to rank 12.",
-        "600438": "すべてのUpgrade ExamをA評価以上で終了しよう.",
-        "600439": "研究Lvを累計50000Lv上昇させよう.",
-        "600440": "オーバードライブを累計400回発動しよう.",
-        "600441": "すべてのUpgrade ExamをS評価で終了しよう.",
-        "600641": "O - ロライズを見よう.",
+        "600438": "Complete all Upgrade Exams with a rating of at least A.",
+        "600439": "Raise your cumulative Research Level to at least 50000.",
+        "600440": "Trigger Overdrive at least 400 times cumulatively.",
+        "600441": "Complete all Upgrade Exams with an S rating.",
+        "600641": "Watch 'O - ロライズ'.",
         "1002108": "Finish a training run having completed all training objectives once.",
         "1002109": "Finish a training run having completed all training objectives 2 times.",
         "1002110": "Win the Sankei Sho All Comers once during training.",
@@ -24057,7 +24090,7 @@
         "1002150": "Clear all event missions.",
         "1002151": "Finish a training run having completed all training objectives once.",
         "1002152": "Finish a training run having completed all training objectives 2 times.",
-        "1002153": "Participate in 10 G1 races during training.",
+        "1002153": "Win 10 G1 races during training.",
         "1002154": "Win the Zen-Nippon Junior Yushun once during training.",
         "1002155": "Clear all event missions.",
         "1002156": "Finish a training run having completed all training objectives once.",
@@ -24171,7 +24204,8 @@
         "2407057": "[Limited] Enter Scout Race 60 times",
         "2407058": "[Limited] Win the Special Race 1 time",
         "2407059": "[Limited] Win the Special Race 2 times",
-        "2407060": "[Limited] Win the Special Race 3 times"
+        "2407060": "[Limited] Win the Special Race 3 times",
+        "340105": "Raise the affection rank of Win Variation to rank 1."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -28018,7 +28052,8 @@
         "111101": "Air Messiah Piece",
         "103302": "Admire Vega Piece",
         "107702": "Narita Top Road Piece",
-        "111701": "Win Variation Piece"
+        "111701": "Win Variation Piece",
+        "101103": "Grass Wonder Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -28212,7 +28247,8 @@
         "111101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "103302": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "107702": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "111701": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "111701": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "101103": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -31025,7 +31061,16 @@
         "2033503": "High Pitch",
         "2033601": "Forward Step by Step",
         "2033602": "Forward Step by Step",
-        "2033603": "Forward Step by Step"
+        "2033603": "Forward Step by Step",
+        "2034101": "Steady Effort",
+        "2034102": "Steady Effort",
+        "2034103": "Steady Effort",
+        "2034201": "Believe in Yourself",
+        "2034202": "Believe in Yourself",
+        "2034203": "Believe in Yourself",
+        "11170101": "Allegro of Valor",
+        "11170102": "Allegro of Valor",
+        "11170103": "Allegro of Valor"
     },
     "148": {
         "1": "Ace Bonus",
@@ -34622,15 +34667,21 @@
         "10770201": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
         "10770202": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
         "10770203": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
-        "2034101": "Obtain [地道に重ねて] skill hint.",
-        "2034102": "Obtain [地道に重ねて] skill hint.",
-        "2034103": "Obtain [地道に重ねて] skill hint.",
-        "2034201": "Obtain [己を信じて] skill hint.",
-        "2034202": "Obtain [己を信じて] skill hint.",
-        "2034203": "Obtain [己を信じて] skill hint.",
-        "11170101": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
-        "11170102": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
-        "11170103": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint."
+        "2034101": "Obtain [Steady Effort] skill hint.",
+        "2034102": "Obtain [Steady Effort] skill hint.",
+        "2034103": "Obtain [Steady Effort] skill hint.",
+        "2034201": "Obtain [Believe in Yourself] skill hint.",
+        "2034202": "Obtain [Believe in Yourself] skill hint.",
+        "2034203": "Obtain [Believe in Yourself] skill hint.",
+        "11170101": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
+        "11170102": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
+        "11170103": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
+        "2033701": "Obtain [切り返し] skill hint.",
+        "2033702": "Obtain [切り返し] skill hint.",
+        "2033703": "Obtain [切り返し] skill hint.",
+        "10110301": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint.",
+        "10110302": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint.",
+        "10110303": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -41032,7 +41083,14 @@
         "11170102": "Reach ≥800 Power",
         "11170103": "Reach ≥600 Guts",
         "11170105": "Gain 150000 fans",
-        "11170106": "Reach ≥800 Speed"
+        "11170106": "Reach ≥800 Speed",
+        "10110301": "Learn 2 Betweener skills",
+        "10110302": "Learn 3 Speed-increasing skills",
+        "10110303": "Reach ≥600 Guts",
+        "10110304": "Win Arima Kinen twice consecutively",
+        "10110305": "Win 2 Medium Distance GⅠ races",
+        "10110306": "Learn 2 Medium Distance skills",
+        "10110307": "Learn 2 Long Distance skills"
     },
     "293": {
         "1": "Training effect",
