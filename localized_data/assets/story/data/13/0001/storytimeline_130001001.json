@@ -1,84 +1,85 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Copano Rickey",
-            "text": "That's the \"Mega Tree\"! I wonder how it will be decorated? I'm looking forward to it☆ Talmae, Acute!"
+            "text": "That's the \"Mega Tree\"! I wonder how it\nwill be decorated? I'm looking forward\nto it☆ Talmae, Acute!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Ricky, you're already too excited! You're not here for fun today, you're here for the preview of the Christmas concert."
+            "text": "Ricky, you're already too excited!\nYou're not here for fun today, you're\nhere for the preview of the Christmas\nconcert."
         },
         {
             "name": "Copano Rickey",
-            "text": "I know! I'm working in collaboration with Oi Racecourse. I'll bring you good luck with my feng shui!"
+            "text": "I know! I'm working in collaboration\nwith Oi Racecourse. I'll bring you good\nluck with my feng shui!"
         },
         {
             "name": "Wonder Acute",
-            "text": "I'm sure it's a fun job… You know, that…… is there? It's going to be sparkling with that Irumineshon, isn't it?"
+            "text": "I'm sure it's a fun job… You know,\nthat…… is there? It's going to be\nsparkling with that Irumineshon, isn't\nit?"
         },
         {
             "name": "Copano Rickey",
-            "text": "Yes! It's called \"Tokyo Mega Illumi\"! It's a big event at the Oi racetrack!"
+            "text": "Yes! It's called \"Tokyo Mega Illumi\"! \nIt's a big event at the Oi racetrack!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Illumination throughout the racetrack is breathtaking! In front of Tomakomai Station It's a photogenic event that's getting a lot of attention right now."
+            "text": "Illumination throughout the racetrack\nis breathtaking! In front of Tomakomai\nStation It's a photogenic event that's\ngetting a lot of attention right now."
         },
         {
             "name": "Wonder Acute",
-            "text": "Well, well, it's a great honor for us to be able to collab with such a great event and have a Christmas party."
+            "text": "Well, well, it's a great honor for us\nto be able to collab with such a great\nevent and have a Christmas party."
         },
         {
             "name": "Wonder Acute",
-            "text": "…… but the scenery still looks rather dreary for an event that is about to start. ……?"
+            "text": "…… but the scenery still looks rather\ndreary for an event that is about to\nstart. ……?"
         },
         {
             "name": "Copano Rickey",
-            "text": "―!!! This Ki flow is…… maybe some trouble!"
+            "text": "―!!! This Ki flow is…… maybe some\ntrouble!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Eh, no way, that's not such a good omen. ……"
+            "text": "Eh, no way, that's not such a good omen.\n……"
         },
         {
             "name": "Inari One",
-            "text": "Of course! No way, no way, no way, it's a big deal!"
+            "text": "Of course! No way, no way, no way, it's\na big deal!"
         },
         {
             "name": "Smart Falcon",
-            "text": "I just happened to overhear some people at the racetrack talking about it earlier: ……"
+            "text": "I just happened to overhear some people\nat the racetrack talking about it\nearlier: ……"
         },
         {
             "name": "Smart Falcon",
-            "text": "There was some kind of mistake in bringing in the decorations and ornaments, so they're running behind schedule!"
+            "text": "There was some kind of mistake in\nbringing in the decorations and\nornaments, so they're running behind\nschedule!"
         },
         {
             "name": "Oguri Cap",
-            "text": "If we're not careful, we may not have the decorations up in time for the Christmas concert."
+            "text": "If we're not careful, we may not have\nthe decorations up in time for the\nChristmas concert."
         },
         {
             "name": "Copano Rickey",
-            "text": "That's when it happens! Ricky☆Lucky☆horsegirl Power!"
+            "text": "That's when it happens!\nRicky☆Lucky☆horsegirl Power!"
         },
         {
             "name": "Copano Rickey",
-            "text": "Let's help bring it in ourselves! If we combine the power of horsegirl and the luck of Feng Shui and the luck of Feng Shui, we'll have a million barikis!"
+            "text": "Let's help bring it in ourselves! If we\ncombine the power of horsegirl and the\nluck of Feng Shui and the luck of Feng\nShui, we'll have a million barikis!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Feng Shui…… aside, I agree with you about helping out! Damage from an event like this is so unfashionable!"
+            "text": "Feng Shui…… aside, I agree with you\nabout helping out! Damage from an event\nlike this is so unfashionable!"
         },
         {
             "name": "Wonder Acute",
-            "text": "I'm all for it. ♪ It's a chance to give back to the racetracks that have always taken care of us. It's a chance to return the favor to Ms. Racecourse, who has always been so kind to me."
+            "text": "I'm all for it. ♪ It's a chance to give\nback to the racetracks that have always\ntaken care of us. It's a chance to\nreturn the favor to Ms. Racecourse, who\nhas always been so kind to me."
         },
         {
             "name": "Smart Falcon",
-            "text": "'I want to help, and I need your help, Ricky and the others.' I thought I came to…… to ask for your help."
+            "text": "'I want to help, and I need your help,\nRicky and the others.' I thought I came\nto…… to ask for your help."
         },
         {
             "name": "Inari One",
-            "text": "Hehehe, you said everything we were going to say before we did!"
+            "text": "Hehehe, you said everything we were\ngoing to say before we did!"
         },
         {
             "name": "Oguri Cap",
@@ -86,7 +87,7 @@
         },
         {
             "name": "Copano Rickey",
-            "text": "Alright then, let's all work together to make the \"Mega Tree\" sparkle!"
+            "text": "Alright then, let's all work together \nto make the \"Mega Tree\" sparkle!"
         },
         {
             "name": "Everyone",

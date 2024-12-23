@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "<chrname> is at the sink, looking troubled…"
         },
         {
-            "text": "Apparently, her skin is not in good shape…"
+            "text": "Apparently, her skin is not in good\nshape…"
         }
     ]
 }

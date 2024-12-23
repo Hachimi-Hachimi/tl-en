@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Brilliant! Looks like you're training well!"
+            "text": "Brilliant! Looks like you're training\nwell!"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "I came to see how things were progressing… I'm impressed! You're doing a great job supporting your horsegirl!"
+            "text": "I came to see how things were\nprogressing… I'm impressed! You're doing\na great job supporting your horsegirl!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Yes ♪ Let's continue to steadily grow the horsegirl!"
+            "text": "Yes ♪ Let's continue to steadily \ngrow the horsegirl!"
         }
     ]
 }

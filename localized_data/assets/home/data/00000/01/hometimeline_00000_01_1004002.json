@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Maruzensky",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Maruzensky",
-            "text": "It's so easy to chill to the max when I'm alone～…"
+            "text": "It's so easy to chill to the max when\nI'm alone～…"
         },
         {
             "name": "Maruzensky",
-            "text": "Anyway, I have to do something before the cutie juniors come over tomorrow!"
+            "text": "Anyway, I have to do something before\nthe cutie juniors come over tomorrow!"
         },
         {
             "name": "Maruzensky",
-            "text": "Time to evacuate this mess on the floor into a closet! Yep!"
+            "text": "Time to evacuate this mess on the \nfloor into a closet! Yep!"
         }
     ]
 }
