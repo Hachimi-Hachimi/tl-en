@@ -8184,6 +8184,11 @@
       "size": 508147
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_100403.png",
+      "hash": "75390f75c5528ce91d6e5761c2122450e550f9ad37cd499a4d90b7ffc3484c53",
+      "size": 477101
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_100602.png",
       "hash": "4ee1fa96894c59a7191d09ba42bc71bc859b4275ef89d708cda9159ab21beda9",
       "size": 491209
@@ -9905,8 +9910,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "52363b602c263d7ef7cf629980fcb560a96c78a6898a4403a89cf810f42ee566",
-      "size": 2506128
+      "hash": "b70f40cb243edde310aa55eb4a3e2ea7adbbee60f49b72d3594a99ff88d23373",
+      "size": 2511422
     }
   ]
 }
