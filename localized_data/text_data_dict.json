@@ -661,8 +661,9 @@
         "107702": "[Celestial Road] Narita Top Road",
         "111701": "[Dramatic Tutu] Win Variation",
         "101103": "[Honor of the Blue Flame] Grass Wonder",
-        "105702": "[Brilliant Walkway Performance] Mr. C.B.",
-        "110402": "[Pen Name: Ink Dragon] Katsuragi Ace"
+        "105702": "[Dazzling Kabuki Flower] Mr. C.B.",
+        "110402": "[Pen Name: Ink Dragon] Katsuragi Ace",
+        "100403": "[Celestial Maiden of Godspeed] Maruzensky"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -859,8 +860,9 @@
         "107702": "[Celestial Road]",
         "111701": "[Dramatic Tutu]",
         "101103": "[Honor of the Blue Flame]",
-        "105702": "[Brilliant Walkway Performance]",
-        "110402": "[Pen Name: Ink Dragon]"
+        "105702": "[Dazzling Kabuki Flower]",
+        "110402": "[Pen Name: Ink Dragon]",
+        "100403": "[Celestial Maiden of Godspeed]"
     },
     "6": {
         "1001": "Special Week",
@@ -2190,7 +2192,9 @@
         "30300": "Get 90 extra pieces with the ★3 banner Umamusume!",
         "30301": "Rate up for select support cards!",
         "30302": "Guaranteed ★3 Umamusume from these 8!",
-        "50125": "One-time! Limited to SSR speed cards!"
+        "50125": "One-time! Limited to SSR speed cards!",
+        "30304": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30305": "Rate up for select support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2854,7 +2858,8 @@
         "3009": "League Tickets",
         "1007": "Scout Points",
         "2007": "Scout Race Tickets",
-        "229": "Entry Tickets"
+        "229": "Entry Tickets",
+        "263": "Factor Research Report"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3318,7 +3323,8 @@
         "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "1007": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
-        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
+        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "263": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3698,7 +3704,9 @@
         "30298": "Pick Up Pretty Derby Gacha",
         "30300": "Pick Up Pretty Derby Gacha",
         "30301": "Pick Up Support Card Gacha",
-        "30302": "Twinkle Collection Pretty Derby Gacha"
+        "30302": "Twinkle Collection Pretty Derby Gacha",
+        "30304": "Pick Up Pretty Derby Gacha",
+        "30305": "Pick Up Support Card Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -12692,7 +12700,24 @@
         "203372": "Striking Back",
         "920111": "Naginata Maiden's Dance",
         "101103111": "Piercing Azure",
-        "101103211": "Seizing Victory"
+        "101103211": "Seizing Victory",
+        "110571": "Radiant Stride",
+        "111041": "Determined Stroke",
+        "202971": "Golden Opportunity",
+        "203381": "The Fight's Not Over Yet!",
+        "203382": "Pulling Away",
+        "203391": "Gallant Figure",
+        "203392": "Unprecedented",
+        "203402": "Riding the Tailwind",
+        "203432": "Dynamic Motion",
+        "203442": "Surpassing Ambitions",
+        "910571": "Radiant Stride",
+        "911041": "Determined Stroke",
+        "102602121": "Slightly Sweet Escape",
+        "105702111": "Mesmerizing Somersault",
+        "105702211": "Step Up and Behold!",
+        "110402111": "Dormant Dragon's Rise",
+        "110402211": "Dawnborne"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -20762,7 +20787,7 @@
         "1001406": "Clear all event missions.",
         "1001411": "Finish a training run having completed all training objectives once.",
         "1001412": "Finish a training run having completed all training objectives 2 times.",
-        "1001413": "Win 10 G1 races during training.",
+        "1001413": "Participate in 10 G1 races during training.",
         "1001414": "Win the Zen-Nippon Junior Yushun once during training.",
         "1001415": "Clear all event missions.",
         "1001421": "Finish a training run having completed all training objectives once.",
@@ -21016,7 +21041,7 @@
         "1001856": "Clear all event missions.",
         "1001861": "Finish a training run having completed all training objectives once.",
         "1001862": "Finish a training run having completed all training objectives 2 times.",
-        "1001863": "Win 10 G1 races during training.",
+        "1001863": "Participate in 10 G1 races during training.",
         "1001864": "Win the Zen-Nippon Junior Yushun once during training.",
         "1001865": "Clear all event missions.",
         "1001871": "Finish a training run having completed all training objectives once.",
@@ -24130,7 +24155,7 @@
         "1002150": "Clear all event missions.",
         "1002151": "Finish a training run having completed all training objectives once.",
         "1002152": "Finish a training run having completed all training objectives 2 times.",
-        "1002153": "Win 10 G1 races during training.",
+        "1002153": "Participate in 10 G1 races during training.",
         "1002154": "Win the Zen-Nippon Junior Yushun once during training.",
         "1002155": "Clear all event missions.",
         "1002156": "Finish a training run having completed all training objectives once.",
@@ -24266,7 +24291,19 @@
         "2003618": "[Daily] Enter Legend Race 3 times",
         "2003619": "[Limited] Enter Legend Race 6 times",
         "2003620": "[Limited] Enter Legend Race 9 times",
-        "2003621": "[Limited] Enter Legend Race 12 times"
+        "2003621": "[Limited] Enter Legend Race 12 times",
+        "341080": "Raise the affection rank of Marvelous Sunday to rank 11.",
+        "341087": "Raise the affection rank of Satono Crown to rank 11.",
+        "342080": "Raise the affection rank of Marvelous Sunday to rank 12.",
+        "342087": "Raise the affection rank of Satono Crown to rank 12.",
+        "2600133": "Do 2 training runs ('Together with Everyone' story event).",
+        "2600134": "Do 4 training runs ('Together with Everyone' story event).",
+        "2600135": "Do 7 training runs ('Together with Everyone' story event).",
+        "2600136": "Do 10 training runs ('Together with Everyone' story event).",
+        "2600137": "Do 2 training runs ('Together with Everyone' story event).",
+        "2600138": "Do 4 training runs ('Together with Everyone' story event).",
+        "2600139": "Do 7 training runs ('Together with Everyone' story event).",
+        "2600140": "Do 10 training runs ('Together with Everyone' story event)."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -26555,7 +26592,9 @@
         "30232": "Blast Onepiece",
         "30233": "Symboli Rudolf",
         "30234": "Mejiro Ardan",
-        "30235": "Maruzensky"
+        "30235": "Maruzensky",
+        "20083": "Mejiro Ramonu",
+        "30236": "Seeking the Pearl"
     },
     "78": {
         "10001": "Special Week",
@@ -26986,7 +27025,9 @@
         "30232": "Blast Onepiece",
         "30233": "Symboli Rudolf",
         "30234": "Mejiro Ardan",
-        "30235": "Maruzensky"
+        "30235": "Maruzensky",
+        "20083": "Mejiro Ramonu",
+        "30236": "Seeking the Pearl"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
@@ -28134,7 +28175,8 @@
         "111701": "Win Variation Piece",
         "101103": "Grass Wonder Piece",
         "105702": "Mr. C.B. Piece",
-        "110402": "Katsuragi Ace Piece"
+        "110402": "Katsuragi Ace Piece",
+        "100403": "Maruzensky Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -28331,7 +28373,8 @@
         "111701": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "101103": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "105702": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "110402": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "110402": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "100403": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -31159,7 +31202,28 @@
         "2033703": "Striking Back",
         "10110301": "Naginata Maiden's Dance",
         "10110302": "Naginata Maiden's Dance",
-        "10110303": "Naginata Maiden's Dance"
+        "10110303": "Naginata Maiden's Dance",
+        "2033801": "Pulling Away",
+        "2033802": "Pulling Away",
+        "2033803": "Pulling Away",
+        "2033901": "Unprecedented",
+        "2033902": "Unprecedented",
+        "2033903": "Unprecedented",
+        "2034001": "Riding the Tailwind",
+        "2034002": "Riding the Tailwind",
+        "2034003": "Riding the Tailwind",
+        "2034301": "Dynamic Motion",
+        "2034302": "Dynamic Motion",
+        "2034303": "Dynamic Motion",
+        "2034401": "Surpassing Ambitions",
+        "2034402": "Surpassing Ambitions",
+        "2034403": "Surpassing Ambitions",
+        "10570201": "Radiant Stride",
+        "10570202": "Radiant Stride",
+        "10570203": "Radiant Stride",
+        "11040201": "Determined Stroke",
+        "11040202": "Determined Stroke",
+        "11040203": "Determined Stroke"
     },
     "148": {
         "1": "Ace Bonus",
@@ -34772,27 +34836,36 @@
         "10110301": "Increases Guts Cap and Wit Cap.\\nObtain [Naginata Maiden's Dance] skill hint.",
         "10110302": "Increases Guts Cap and Wit Cap.\\nObtain [Naginata Maiden's Dance] skill hint.",
         "10110303": "Increases Guts Cap and Wit Cap.\\nObtain [Naginata Maiden's Dance] skill hint.",
-        "2033801": "Obtain [逃げ切り体勢] skill hint.",
-        "2033802": "Obtain [逃げ切り体勢] skill hint.",
-        "2033803": "Obtain [逃げ切り体勢] skill hint.",
-        "2033901": "Obtain [破天荒] skill hint.",
-        "2033902": "Obtain [破天荒] skill hint.",
-        "2033903": "Obtain [破天荒] skill hint.",
-        "2034001": "Obtain [追い風に乗って] skill hint.",
-        "2034002": "Obtain [追い風に乗って] skill hint.",
-        "2034003": "Obtain [追い風に乗って] skill hint.",
-        "2034301": "Obtain [躍動] skill hint.",
-        "2034302": "Obtain [躍動] skill hint.",
-        "2034303": "Obtain [躍動] skill hint.",
-        "2034401": "Obtain [憧れを越えて] skill hint.",
-        "2034402": "Obtain [憧れを越えて] skill hint.",
-        "2034403": "Obtain [憧れを越えて] skill hint.",
-        "10570201": "Increases Speed Cap and Power Cap.\\nObtain [爛然闊歩] skill hint.",
-        "10570202": "Increases Speed Cap and Power Cap.\\nObtain [爛然闊歩] skill hint.",
-        "10570203": "Increases Speed Cap and Power Cap.\\nObtain [爛然闊歩] skill hint.",
-        "11040201": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [決意一筆] skill hint.",
-        "11040202": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [決意一筆] skill hint.",
-        "11040203": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [決意一筆] skill hint."
+        "2033801": "Obtain [Pulling Away] skill hint.",
+        "2033802": "Obtain [Pulling Away] skill hint.",
+        "2033803": "Obtain [Pulling Away] skill hint.",
+        "2033901": "Obtain [Unprecedented] skill hint.",
+        "2033902": "Obtain [Unprecedented] skill hint.",
+        "2033903": "Obtain [Unprecedented] skill hint.",
+        "2034001": "Obtain [Riding the Tailwind] skill hint.",
+        "2034002": "Obtain [Riding the Tailwind] skill hint.",
+        "2034003": "Obtain [Riding the Tailwind] skill hint.",
+        "2034301": "Obtain [Dynamic Motion] skill hint.",
+        "2034302": "Obtain [Dynamic Motion] skill hint.",
+        "2034303": "Obtain [Dynamic Motion] skill hint.",
+        "2034401": "Obtain [Surpassing Ambitions] skill hint.",
+        "2034402": "Obtain [Surpassing Ambitions] skill hint.",
+        "2034403": "Obtain [Surpassing Ambitions] skill hint.",
+        "10570201": "Increases Speed Cap and Power Cap.\\nObtain [Radiant Stride] skill hint.",
+        "10570202": "Increases Speed Cap and Power Cap.\\nObtain [Radiant Stride] skill hint.",
+        "10570203": "Increases Speed Cap and Power Cap.\\nObtain [Radiant Stride] skill hint.",
+        "11040201": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
+        "11040202": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
+        "11040203": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
+        "2034501": "Obtain [ターニングポイント] skill hint.",
+        "2034502": "Obtain [ターニングポイント] skill hint.",
+        "2034503": "Obtain [ターニングポイント] skill hint.",
+        "2034601": "Obtain [抜きん出る一歩] skill hint.",
+        "2034602": "Obtain [抜きん出る一歩] skill hint.",
+        "2034603": "Obtain [抜きん出る一歩] skill hint.",
+        "10040301": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
+        "10040302": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
+        "10040303": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -35513,7 +35586,16 @@
         "772": "Designated Race Piece Rewards",
         "773": "Designated Race Piece Rewards",
         "783": "Training rewards x3 campaign",
-        "784": "[New Years] Increased rewards"
+        "784": "[New Years] Increased rewards",
+        "774": "Designated Race Piece Rewards",
+        "775": "Designated Race Piece Rewards",
+        "776": "Designated Race Piece Rewards",
+        "777": "Designated Race Piece Rewards",
+        "778": "Affection gain up",
+        "779": "Affection gain up",
+        "780": "Affection gain up",
+        "781": "\"Guaranteed win rewards\" rate up",
+        "785": "Increased Attempts"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -35761,7 +35843,15 @@
         "772": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
         "773": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
         "783": "Gain triple rewards from training.",
-        "784": "Gain triple training rewards for \\n72 hours after pulling a fortune slip."
+        "784": "Gain triple training rewards for \\n72 hours after pulling a fortune slip.",
+        "774": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "775": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "776": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "777": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "778": "Increased friendship gained \\nfrom training.",
+        "779": "Increased friendship gained \\nfrom Stadium.",
+        "781": "Increased chance of guaranteed \\nrewards when winning a Stadium race.",
+        "785": "Get 3 extra tickets each day."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -41281,7 +41371,11 @@
         "10570206": "Reach ≥800 Power",
         "11040202": "Gain 150000 fans",
         "11040203": "Learn 2 Acceleration-increasing skills",
-        "11040206": "Reach ≥800 Speed"
+        "11040206": "Reach ≥800 Speed",
+        "10040302": "Reach ≥800 Speed",
+        "10040303": "Learn 2 Runner skills",
+        "10040304": "Learn 2 Mile skills",
+        "10040306": "Reach ≥800 Power"
     },
     "293": {
         "1": "Training effect",
