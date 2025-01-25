@@ -663,7 +663,8 @@
         "101103": "[Honor of the Blue Flame] Grass Wonder",
         "105702": "[Dazzling Kabuki Flower] Mr. C.B.",
         "110402": "[Pen Name: Ink Dragon] Katsuragi Ace",
-        "100403": "[Celestial Maiden of Godspeed] Maruzensky"
+        "100403": "[Auspicious Maiden of Divine Speed] Maruzensky",
+        "107901": "[Triumphant Return of the Auspicious Star] Furioso"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -862,7 +863,8 @@
         "101103": "[Honor of the Blue Flame]",
         "105702": "[Dazzling Kabuki Flower]",
         "110402": "[Pen Name: Ink Dragon]",
-        "100403": "[Celestial Maiden of Godspeed]"
+        "100403": "[Auspicious Maiden of Divine Speed]",
+        "107901": "[Triumphant Return of the Auspicious Star]"
     },
     "6": {
         "1001": "Special Week",
@@ -1270,7 +1272,8 @@
         "1124": "Miho Dorm",
         "1111": "Ritto Dorm",
         "1117": "Ritto Dorm",
-        "1128": "Miho Dorm"
+        "1128": "Miho Dorm",
+        "1079": "Lives alone"
     },
     "9": {
         "1001": "Slight decrease (Nervous before races)",
@@ -1378,7 +1381,8 @@
         "1121": "Achieved through devotion.",
         "1124": "Perfectly as declared",
         "1111": "Well-regulated",
-        "1117": "Slowly increasing"
+        "1117": "Slowly increasing",
+        "1079": "Perfect"
     },
     "10": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -1812,7 +1816,8 @@
         "3009": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
         "1007": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
-        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
+        "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "266": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -2194,7 +2199,9 @@
         "30302": "Guaranteed ★3 Umamusume from these 8!",
         "50125": "One-time! Limited to SSR speed cards!",
         "30304": "Get 90 extra pieces with the ★3 banner Umamusume!",
-        "30305": "Rate up for select support cards!"
+        "30305": "Rate up for select support cards!",
+        "30306": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30307": "Rate up on selected SSR support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2859,7 +2866,8 @@
         "1007": "Scout Points",
         "2007": "Scout Race Tickets",
         "229": "Entry Tickets",
-        "263": "Factor Research Report"
+        "263": "Factor Research Report",
+        "266": "Entry Tickets"
     },
     "24": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -3324,7 +3332,8 @@
         "1007": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "2007": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "229": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
-        "263": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>"
+        "263": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "266": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3706,7 +3715,9 @@
         "30301": "Pick Up Support Card Gacha",
         "30302": "Twinkle Collection Pretty Derby Gacha",
         "30304": "Pick Up Pretty Derby Gacha",
-        "30305": "Pick Up Support Card Gacha"
+        "30305": "Pick Up Support Card Gacha",
+        "30306": "Pick Up Pretty Derby Gacha",
+        "30307": "Secret Pickup Support Card Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5960,7 +5971,10 @@
         "650083": "Special Race: Dirt",
         "650084": "Special Race: Long",
         "600067": "Champions Meet: LONG",
-        "600068": "Champions Meet: LONG Final"
+        "600068": "Champions Meet: LONG Final",
+        "600069": "Champions Meeting CLASSIC",
+        "600070": "Champions Meeting CLASSIC Final",
+        "904205": "Junior Make Debut"
     },
     "29": {
         "100101": "February S",
@@ -8148,7 +8162,9 @@
         "650084": "Special Race: Long",
         "580005": "Moonlight Sho",
         "580035": "Jupiter Cup",
-        "600068": "Champions Meet: Final"
+        "600068": "Champions Meet: Final",
+        "600070": "Champions Meet: Final",
+        "904205": "Junior Make Debut"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9767,7 +9783,10 @@
         "5835": "Jupiter Cup",
         "6067": "Champions Meet: LONG",
         "6068": "Champions Meet: LONG Final",
-        "12025": "American JCC"
+        "12025": "American JCC",
+        "6069": "Champions Meeting CLASSIC",
+        "6070": "Champions Meeting CLASSIC Final",
+        "9411": "Junior Newbie"
     },
     "33": {
         "1001": "February Stakes",
@@ -10566,7 +10585,11 @@
         "15084": "Special Race",
         "6067": "Champions Meeting",
         "6068": "Champions Meeting",
-        "12025": "Legend Race"
+        "12025": "Legend Race",
+        "6069": "Champions Meeting",
+        "6070": "Champions Meeting",
+        "9410": "Make Debut",
+        "9411": "Make Debut"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -12717,7 +12740,21 @@
         "105702111": "Mesmerizing Somersault",
         "105702211": "Step Up and Behold!",
         "110402111": "Dormant Dragon's Rise",
-        "110402211": "Dawnborne"
+        "110402211": "Dawnborne",
+        "100791": "Funabashi Above All!",
+        "120041": "Miraculously Tubular Oracle",
+        "203332": "Preliminary Preparation",
+        "203452": "Turning Point",
+        "203461": "Preeminent",
+        "203462": "Outstanding Step",
+        "203471": "Furious Sprint",
+        "203472": "Overflowing Fighting Spirit",
+        "900791": "Funabashi Above All!",
+        "920041": "Miraculously Tubular Oracle",
+        "100403111": "Angelic Garment",
+        "100403211": "Shrine Maiden's Dance",
+        "107901111": "Guidance of the Sea Breeze",
+        "107901211": "Brave Advance"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -14261,7 +14298,18 @@
         "105702111": "Medium/Long・At a random point during the third corner, you will get a speed boost; bonus duration if you overtook someone during the second half of the race.",
         "105702211": "Chaser・Long・At a random point during the first quarter of the Final Leg, your acceleration will increase; it will increase greatly if you're not in the front of the pack.",
         "110402111": "Runner・Medium・If you're third or better during the Final Corner or beyond, your acceleration will increase and you will get a speed boost.",
-        "110402211": "Runner・Medium・If you're in the first half of the pack at a random point on the third corner, you will get a great speed boost."
+        "110402211": "Runner・Medium・If you're in the first half of the pack at a random point on the third corner, you will get a great speed boost.",
+        "100791": "If you were blocked from the side in the first half of the pack during the Middle Leg, then halfway through the race, your speed will increase; the effect lasts longer on Ooi, Kawasaki, and Funabashi racetracks.",
+        "120041": "During the first half of the Middle Leg, if you're in the front, and if you're trying to overtake someone or someone is trying to overtake you, you will get a speed boost; the effect is much stronger in Mile races.",
+        "203452": "Betweener・Short・If you're not in the front at a random point during the first half of the Final Leg, your acceleration will slightly increase.",
+        "203461": "Runner・If someone tries to overtake you during the second half of the race, your speed will increase.",
+        "203462": "Runner・If someone tries to overtake you during the second half of the race, your speed will slightly increase.",
+        "203471": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a speed boost.",
+        "203472": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a slight speed boost.",
+        "100403111": "Runner・Mile・If you're trying to overtake someone or someone is trying to overtake you, you will get a great speed boost.",
+        "100403211": "Runner・Mile・If someone tries to overtake you during the second half of the race, you will get a great speed boost.",
+        "107901111": "Mile/Medium・At a random point during a random Middle Leg straight, your speed will increase; the effect lasts longer on Dirt tracks.",
+        "107901211": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a great speed boost."
     },
     "49": {
         "1": "50 Jewels",
@@ -24303,7 +24351,13 @@
         "2600137": "Do 2 training runs ('Together with Everyone' story event).",
         "2600138": "Do 4 training runs ('Together with Everyone' story event).",
         "2600139": "Do 7 training runs ('Together with Everyone' story event).",
-        "2600140": "Do 10 training runs ('Together with Everyone' story event)."
+        "2600140": "Do 10 training runs ('Together with Everyone' story event).",
+        "340106": "Raise the affection rank of Furioso to rank 1.",
+        "612101": "Watch episode 4 of Furioso's story.",
+        "612102": "Reach 10 million total fans for Furioso.",
+        "612103": "Reach 50 million total fans for Furioso.",
+        "612104": "Reach 100 million total fans for Furioso.",
+        "612105": "Win all G1, G2, and G3 trophies with Furioso."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -25730,7 +25784,9 @@
         "30232": "[Blast Off!] Blast Onepiece",
         "30233": "[Calligraphy Expert] Symboli Rudolf",
         "30234": "[Dear Secluded Me...] Mejiro Ardan",
-        "30235": "[Blooming Flowers Smile in the Heavens] Maruzensky"
+        "30235": "[Blooming Flowers Smile in the Heavens] Maruzensky",
+        "20083": "[Beauty and the Moon] Mejiro Ramonu",
+        "30236": "[Venus Takeoff] Seeking the Pearl"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -26161,7 +26217,9 @@
         "30232": "[Blast Off!]",
         "30233": "[Calligraphy Expert]",
         "30234": "[Dear Secluded Me...]",
-        "30235": "[Blooming Flowers Smile in the Heavens]"
+        "30235": "[Blooming Flowers Smile in the Heavens]",
+        "20083": "[Beauty and the Moon]",
+        "30236": "[Venus Takeoff]"
     },
     "77": {
         "10001": "Special Week",
@@ -28176,7 +28234,8 @@
         "101103": "Grass Wonder Piece",
         "105702": "Mr. C.B. Piece",
         "110402": "Katsuragi Ace Piece",
-        "100403": "Maruzensky Piece"
+        "100403": "Maruzensky Piece",
+        "107901": "Furioso Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -28374,7 +28433,8 @@
         "101103": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "105702": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "110402": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "100403": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "100403": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "107901": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -29436,7 +29496,8 @@
         "1124": "A shock troop commander with a fighting spirit and an expanding dream!",
         "1111": "Steadfast in achieving her mother's wish that she carries with her.",
         "1117": "A strong willed Umamusume who never gives up, no matter how many times she loses!",
-        "1128": "A friendly Umamusume with a great fondness for humans."
+        "1128": "A friendly Umamusume with a great fondness for humans.",
+        "1079": "A calm transfer student from the countryside, with unwavering love of Funabashi."
     },
     "147": {
         "101": "Speed",
@@ -31223,7 +31284,25 @@
         "10570203": "Radiant Stride",
         "11040201": "Determined Stroke",
         "11040202": "Determined Stroke",
-        "11040203": "Determined Stroke"
+        "11040203": "Determined Stroke",
+        "2033301": "Preliminary Preparation",
+        "2033302": "Preliminary Preparation",
+        "2033303": "Preliminary Preparation",
+        "2034501": "Turning Point",
+        "2034502": "Turning Point",
+        "2034503": "Turning Point",
+        "2034601": "Outstanding Step",
+        "2034602": "Outstanding Step",
+        "2034603": "Outstanding Step",
+        "2034701": "Overflowing Fighting Spirit",
+        "2034702": "Overflowing Fighting Spirit",
+        "2034703": "Overflowing Fighting Spirit",
+        "10040301": "Miraculously Tubular Oracle",
+        "10040302": "Miraculously Tubular Oracle",
+        "10040303": "Miraculously Tubular Oracle",
+        "10790101": "Funabashi Above All!",
+        "10790102": "Funabashi Above All!",
+        "10790103": "Funabashi Above All!"
     },
     "148": {
         "1": "Ace Bonus",
@@ -31934,7 +32013,8 @@
         "1124": "April 11",
         "1111": "February 4",
         "1117": "April 10",
-        "1128": "April 2"
+        "1128": "April 2",
+        "1079": "May 1"
     },
     "159": {
         "1001": "Betweener",
@@ -32110,7 +32190,8 @@
         "1124": "High School",
         "1111": "Middle School",
         "1117": "High School",
-        "1128": "Middle School"
+        "1128": "Middle School",
+        "1079": "High School"
     },
     "163": {
         "1044": "Sweep Tosho is my pre-transformation name! I am Sweepy the Magical Girl! Now this is sorcery! Aaah!! (Bonk)",
@@ -32239,7 +32320,8 @@
         "1124": "I declare: \"As shock troop commander, I will conceive the cyclone of the Big Four!\" Let's expand our dream together!",
         "1111": "Air Messiah. I want to be strong and graceful, like my mother was. I will prove the greatness and value of the future.",
         "1117": "I'm Win Variation. My only goal is to become the leader... the Principal! No matter how tough my opponents may be, I refuse to give up!",
-        "1128": "It's me, Blast Onepiece! Humans are so friendly to me. I love them super duper much! I wanna get closer to them and get to know them even better!"
+        "1128": "It's me, Blast Onepiece! Humans are so friendly to me. I love them super duper much! I wanna get closer to them and get to know them even better!",
+        "1079": "I'm Furioso. No, I don't come from Chuo. I made a special transfer from Funabashi and I'm not afraid to show you what we're made of."
     },
     "164": {
         "1027": "Exercise",
@@ -32347,7 +32429,8 @@
         "1121": "Mowing grass, writing in-depth reviews of romance shows",
         "1124": "Balloon modelling, singing western music a capella",
         "1111": "Clearing every single line off the chalkboard",
-        "1117": "Splitting watermelons, calisthenics"
+        "1117": "Splitting watermelons, calisthenics",
+        "1079": "Giving tours of Funabashi (she made her own map)"
     },
     "165": {
         "1029": "Heat",
@@ -32455,7 +32538,8 @@
         "1121": "Staring contests, traveling alone, capitulation",
         "1124": "Hamsters",
         "1111": "Winking on command",
-        "1117": "Contemporary dance, walking the catwalk"
+        "1117": "Contemporary dance, walking the catwalk",
+        "1079": "Jellyfish"
     },
     "166": {
         "1029": "Owns many adorable earmuffs.",
@@ -32563,7 +32647,8 @@
         "1121": "They particularly pay attention to compliments.",
         "1124": "She has the sharpest ears of the Big Four.",
         "1111": "They flop down when she relaxes.",
-        "1117": "They respond to classical music."
+        "1117": "They respond to classical music.",
+        "1079": "They become active when she hears the sound of the waves or the salty sea breeze."
     },
     "167": {
         "1029": "Currently trying out low-price care products.",
@@ -32671,7 +32756,8 @@
         "1121": "She wonders if she couldn't use it as a weapon.",
         "1124": "She loves to decorate it with pastel colors.",
         "1111": "She's got her tail hair from her mother's side.",
-        "1117": "She doesn't hate having it be touched, but it makes her feel a little uneasy."
+        "1117": "She doesn't hate having it be touched, but it makes her feel a little uneasy.",
+        "1079": "When she finds herself moved by her feelings, she reprimands herself by slapping it against her legs."
     },
     "168": {
         "1001": "Left: 23.5cm \\nRight: 23.0cm",
@@ -32779,7 +32865,8 @@
         "1121": "Both: 23.5cm",
         "1124": "Left: 25.5cm\\nRight: 25.0cm",
         "1111": "Left: 24.0cm\\nRight: 24.5cm",
-        "1117": "Both: 23.5cm"
+        "1117": "Both: 23.5cm",
+        "1079": "Left: 24.5cm \\nRight: 24.0cm"
     },
     "169": {
         "1029": "Reliefed their daughter retains her dialect after going to the city",
@@ -32887,7 +32974,8 @@
         "1121": "Who gets to do house chores is decided through games of \"Acchi Muite Hoi\".",
         "1124": "They all have a refined sweet smell.",
         "1111": "They all write in their own diaries.",
-        "1117": "Her mother taught her nail care."
+        "1117": "Her mother taught her nail care.",
+        "1079": "Their staple on birthdays is a tart with Asian pears."
     },
     "170": {
         "1001": "Special Week",
@@ -34800,9 +34888,9 @@
         "2033201": "Obtain [Descent] skill hint.",
         "2033202": "Obtain [Descent] skill hint.",
         "2033203": "Obtain [Descent] skill hint.",
-        "2033301": "Obtain [下準備] skill hint.",
-        "2033302": "Obtain [下準備] skill hint.",
-        "2033303": "Obtain [下準備] skill hint.",
+        "2033301": "Obtain [Preliminary Preparation] skill hint.",
+        "2033302": "Obtain [Preliminary Preparation] skill hint.",
+        "2033303": "Obtain [Preliminary Preparation] skill hint.",
         "11110101": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "11110102": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "11110103": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
@@ -34857,15 +34945,21 @@
         "11040201": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
         "11040202": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
         "11040203": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Determined Stroke] skill hint.",
-        "2034501": "Obtain [ターニングポイント] skill hint.",
-        "2034502": "Obtain [ターニングポイント] skill hint.",
-        "2034503": "Obtain [ターニングポイント] skill hint.",
-        "2034601": "Obtain [抜きん出る一歩] skill hint.",
-        "2034602": "Obtain [抜きん出る一歩] skill hint.",
-        "2034603": "Obtain [抜きん出る一歩] skill hint.",
-        "10040301": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
-        "10040302": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
-        "10040303": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint."
+        "2034501": "Obtain [Turning Point] skill hint.",
+        "2034502": "Obtain [Turning Point] skill hint.",
+        "2034503": "Obtain [Turning Point] skill hint.",
+        "2034601": "Obtain [Outstanding Step] skill hint.",
+        "2034602": "Obtain [Outstanding Step] skill hint.",
+        "2034603": "Obtain [Outstanding Step] skill hint.",
+        "10040301": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
+        "10040302": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
+        "10040303": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
+        "2034701": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "2034702": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "2034703": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "10790101": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint.",
+        "10790102": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint.",
+        "10790103": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -35033,7 +35127,8 @@
         "501121900": "About",
         "501124900": "About",
         "501111900": "About",
-        "501117900": "About"
+        "501117900": "About",
+        "501079900": "About"
     },
     "182": {
         "1001": "Special Week",
@@ -41375,7 +41470,12 @@
         "10040302": "Reach ≥800 Speed",
         "10040303": "Learn 2 Runner skills",
         "10040304": "Learn 2 Mile skills",
-        "10040306": "Reach ≥800 Power"
+        "10040306": "Reach ≥800 Power",
+        "10790101": "Win 4 Dirt GⅠ races",
+        "10790103": "Learn 2 Runner skills",
+        "10790104": "Learn 2 Leader skills",
+        "10790105": "Reach ≥800 Speed",
+        "10790106": "Reach ≥600 Guts"
     },
     "293": {
         "1": "Training effect",
