@@ -666,7 +666,9 @@
         "100403": "[Auspicious Maiden of Divine Speed] Maruzensky",
         "107901": "[Triumphant Return of the Auspicious Star] Furioso",
         "107802": "[Sugary Wind] Yamanin Zephyr",
-        "108702": "[Everlasting Sweet Treat] Aston Machan"
+        "108702": "[Everlasting Sweet Treat] Aston Machan",
+        "107301": "[Dream Bold, Stand Tall, Tsuyoshi!] Tsurumaru Tsuyoshi",
+        "111501": "[Control] Orfevre"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -868,7 +870,9 @@
         "100403": "[Auspicious Maiden of Divine Speed]",
         "107901": "[Triumphant Return of the Auspicious Star]",
         "107802": "[Sugary Wind]",
-        "108702": "[Everlasting Sweet Treat]"
+        "108702": "[Everlasting Sweet Treat]",
+        "107301": "[Dream Bold, Stand Tall, Tsuyoshi!]",
+        "111501": "[Control]"
     },
     "6": {
         "1001": "Special Week",
@@ -1013,7 +1017,17 @@
         "1124": "Bubble Gum Fellow",
         "2008": "ST-2",
         "9045": "Sugar Lights",
-        "1128": "Blast Onepiece"
+        "1128": "Blast Onepiece",
+        "1127": "Fenomeno",
+        "1129": "Almond Eye",
+        "1130": "Lucky Lilac",
+        "1131": "Gran Alegria",
+        "1132": "Loves Only You",
+        "1133": "Chrono Genesis",
+        "1134": "Curren Bouquetd'or",
+        "9046": "Saint Lite",
+        "9047": "Speed Symboli",
+        "9048": "Haiseiko"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -1158,7 +1172,17 @@
         "1124": "Sayaka Kamitani",
         "2008": "Yui Ishikawa",
         "9045": "Yui Ishikawa",
-        "1128": "Azusa Shizuki"
+        "1128": "Azusa Shizuki",
+        "1127": "Yuriko Hibi",
+        "1129": "Kaori Ishihara",
+        "1130": "Yuki Nakashima",
+        "1131": "Hina Natsume",
+        "1132": "Miyu Kubota",
+        "1133": "Hiyori Manase",
+        "1134": "Anju Oda",
+        "9046": "Mamiko Noto",
+        "9047": "Miyuki Sawashiro",
+        "9048": "Sakura Tange"
     },
     "8": {
         "1001": "Ritto Dorm",
@@ -1277,7 +1301,10 @@
         "1111": "Ritto Dorm",
         "1117": "Ritto Dorm",
         "1128": "Miho Dorm",
-        "1079": "Lives alone"
+        "1079": "Lives alone",
+        "1129": "Miho Dorm",
+        "1130": "Ritto Dorm",
+        "1131": "Miho Dorm"
     },
     "9": {
         "1001": "Slight decrease (Nervous before races)",
@@ -1387,7 +1414,8 @@
         "1111": "Well-regulated",
         "1117": "Slowly increasing",
         "1079": "Perfect",
-        "1073": "Slowly increasing"
+        "1073": "Slowly increasing",
+        "1115": "Like shining gold"
     },
     "10": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -1863,7 +1891,10 @@
         "1007202": "<size=22>Specially made by Yaeno Muteki. \\nRestores 30TP upon use.\\n</size>",
         "1007802": "<size=22>Specially made by Yamanin Zephyr. \\nRestores 30TP upon use.\\n</size>",
         "1008702": "<size=22>Specially made by Aston Machan. \\nRestores 30TP upon use.\\n</size>",
-        "1009902": "<size=22>Specially made by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>"
+        "1009902": "<size=22>Specially made by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>",
+        "270": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "271": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "272": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>"
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -2252,7 +2283,23 @@
         "30309": "Rate up for select support cards!",
         "30310": "Guaranteed ★3 Umamusume from these 8!",
         "50131": "One-time! Limited to SSR power cards!",
-        "30313": "Rate up on selected SSR support cards!"
+        "30313": "Rate up on selected SSR support cards!",
+        "30315": "Rate up for select support cards!",
+        "30316": "Guaranteed ★3 Umamusume from these 8!",
+        "50132": "One-time! Limited to ★3 short Umamusume!",
+        "50133": "One-time! Limited to ★3 mile Umamusume!",
+        "50134": "One-time! Limited to ★3 medium Umamusume!",
+        "50135": "One-time! Limited to ★3 medium Umamusume!",
+        "50136": "One-time! Limited to ★3 medium Umamusume!",
+        "50137": "One-time! Limited to ★3 long Umamusume!",
+        "50138": "One-time! Limited to ★3 long Umamusume!",
+        "50139": "One-time! Limited to ★3 dirt Umamusume!",
+        "50140": "One-time! Limited to SSR speed cards!",
+        "50141": "One-time! Limited to SSR stamina cards!",
+        "50142": "One-time! Limited to SSR power cards!",
+        "50143": "One-time! Limited to SSR guts cards!",
+        "50144": "One-time! Limited to SSR wisdom cards!",
+        "50155": "One-time! Limited to SSR wisdom cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2450,7 +2497,9 @@
         "1085": "Dodotto Yuushou! Daikanshasai!!!",
         "1095": "Irodori Phantasia",
         "1152": "SHAKE ROCK",
-        "1094": "O - Rorize"
+        "1094": "O - Rorize",
+        "1150": "STARTING FORCE",
+        "1151": "Legend-Changer"
     },
     "17": {
         "1052": "None",
@@ -3466,7 +3515,10 @@
         "1007202": "<size=22>Specially made by Yaeno Muteki. \\nRestores 30TP upon use.\\n</size>",
         "1007802": "<size=22>Specially made by Yamanin Zephyr. \\nRestores 30TP upon use.\\n</size>",
         "1008702": "<size=22>Specially made by Aston Machan. \\nRestores 30TP upon use.\\n</size>",
-        "1009902": "<size=22>Specially made by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>"
+        "1009902": "<size=22>Specially made by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>",
+        "270": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "271": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "272": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>"
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -3854,7 +3906,8 @@
         "30308": "Pick Up Pretty Derby Gacha",
         "30309": "Pick Up Support Card Gacha",
         "30310": "Twinkle Collection Pretty Derby Gacha",
-        "30312": "Pick Up Pretty Derby Gacha"
+        "30312": "Pick Up Pretty Derby Gacha",
+        "30316": "Twinkle Collection Pretty Derby Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -9934,7 +9987,8 @@
         "9411": "Junior Newbie",
         "12026": "Osaka Hai",
         "13019": "League of Heroes Main Stage",
-        "13020": "League of Heroes Extra Stage"
+        "13020": "League of Heroes Extra Stage",
+        "12027": "Oka Sho"
     },
     "33": {
         "1001": "February Stakes",
@@ -10738,7 +10792,8 @@
         "6070": "Champions Meeting",
         "9410": "Make Debut",
         "9411": "Make Debut",
-        "12026": "Legend Race"
+        "12026": "Legend Race",
+        "12027": "Legend Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -11019,7 +11074,8 @@
         "1202301": "VS Symboli Rudolf",
         "1202402": "VS Daiwa Scarlet",
         "1202502": "VS Tosen Jordan",
-        "1202602": "VS Air Groove"
+        "1202602": "VS Air Groove",
+        "1202701": "VS Nishino Flower"
     },
     "38": {
         "1001": "February S",
@@ -11319,7 +11375,17 @@
         "120": "2500 Jewels",
         "121": "5000 Jewels",
         "122": "7500 Jewels (max 3x)",
-        "123": "1500 Jewels (max 2x)"
+        "123": "1500 Jewels (max 2x)",
+        "125": "5000 Jewels",
+        "126": "5000 Jewels",
+        "127": "1500 Jewels",
+        "128": "1500 Jewels",
+        "129": "7500 Jewels (max 3x)",
+        "131": "5000 Jewels",
+        "132": "5000 Jewels",
+        "133": "1500 Jewels",
+        "134": "1500 Jewels",
+        "135": "7500 Jewels (max 3x)"
     },
     "47": {
         "10071": "Warning Shot!",
@@ -12923,7 +12989,13 @@
         "107802111": "Dust Devil Manifest",
         "107802211": "Sylph Spirit",
         "108702111": "The Art of Photobombing",
-        "108702211": "Please Remember Me, Okay?"
+        "108702211": "Please Remember Me, Okay?",
+        "10731": "Steel Your Heart, Tsuyoshi!",
+        "100731": "Flames of Unyielding Resolve",
+        "201323": "Bravery Slash",
+        "900731": "Flames of Unyielding Resolve",
+        "107301111": "Slash of a Thousand Trials",
+        "107301211": "Surging Crescent Moon"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -13657,8 +13729,8 @@
         "202872": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg, your acceleration will slightly increase.",
         "202882": "Chaser・During the Final Straight, if you're not in the first place but also no more than 10 meters away from it, your speed will increase.",
         "202892": "Chaser・If you're in the second half of the pack during the second half of the Opening Leg, your stamina will slightly recover.",
-        "202901": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
-        "202902": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
+        "202901": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will increase.",
+        "202902": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will slightly increase.",
         "202912": "Chaser・If you're in the second half of the pack at a random point during the Final Corner, your speed will slightly increase, and the speed of the closest three girls in front and three girls behind you will slightly decrease.",
         "202921": "Chaser・At a random point during the Middle Leg, use a little extra stamina to greatly increase your speed.",
         "202922": "Chaser・At a random point during the Middle Leg, use a little extra stamina to increase your speed.",
@@ -14494,7 +14566,29 @@
         "100731": "If you've overtaken someone during the Final Leg, then on the Final Straight, your speed will increase.",
         "201323": "Leader・At a random point on a random corner, your speed will increase.",
         "107301111": "Leader・At a random point on a random corner, your speed will greatly increase.",
-        "107301211": "Medium・At a random point on a random corner, you will get a speed boost and your stamina will slightly recover."
+        "107301211": "Medium・At a random point on a random corner, you will get a speed boost and your stamina will slightly recover.",
+        "101151": "Chaser・1000 m before the end of the race, you will get a speed boost; the effect is stronger if all your base stats are at least 1000.",
+        "203101": "Dirt・At a random point on a random corner, your speed will increase.",
+        "203431": "Medium・At a random point during the first half of the Last Spurt, your speed will increase.",
+        "203501": "At a random point during the Middle Leg, you will get a speed boost.",
+        "203502": "At a random point during the Middle Leg, you will get a slight speed boost.",
+        "203511": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase and your stamina will slightly recover.",
+        "203512": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will slightly increase and your stamina will marginally recover.",
+        "203522": "Chaser・Medium・If you're not in the front at a random point during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "203532": "Chaser・At a random point on a random uphill, your speed will slightly increase.",
+        "210351": "At a random point during the first half of the Last Spurt, your speed will increase; the value scales with the number of your fans.",
+        "210352": "At a random point in the first half of Last Spurt, your speed will slightly increase.",
+        "410011": "At a random point during the Middle Leg, you will get a speed boost.",
+        "410021": "At a random point on a random straight, your speed will greatly increase.",
+        "410031": "At a random point in the Middle Leg, your speed will greatly increase.",
+        "410041": "Runner・At the start of the race, your acceleration will increase; then, at a random point during the first half of the Last Spurt, you will get a slight speed boost.",
+        "410051": "Leader/Betweener・If you're on the Final Corner in the Final Leg, you're not in the back of the pack, and there's at least 600 m remaining in the race, your acceleration will greatly increase; then, during the Final Straight, you will get a slight speed boost.",
+        "410061": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will increase; then, at a random point during the first half of the Last Spurt, you will get a slight speed boost.",
+        "102902221": "Mile・At a random point during the Final Corner, your acceleration will increase; the effect lasts longer in Turf races.",
+        "105102221": "Mile・At a random point on a random downhill, your own speed will increase greatly and the speed of all your teammates will increase slightly.",
+        "111501111": "Chaser・Turf・During the Last Spurt in races of 2000 m or more, your acceleration will increase.",
+        "111501211": "Medium・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, at a random point during the second half of the Middle Leg, you will get a speed boost.",
+        "111501221": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will greatly increase and your stamina will recover."
     },
     "49": {
         "1": "50 Jewels",
@@ -17610,7 +17704,8 @@
         "720012": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
         "720017": "マスターズチャレンジの有馬記念を制覇しよう.",
         "310141": "Clear all event limited missions.",
-        "310142": "Clear all event limited missions."
+        "310142": "Clear all event limited missions.",
+        "320009": "Receive Excellent grades in the Trainer's Proficiency Exam."
     },
     "67": {
         "100000": "Win any race once during training.",
@@ -24598,7 +24693,53 @@
         "1002205": "Reach a cumulative score of 3000000 during Team Stadium matches.",
         "1002206": "Reach a cumulative score of 5000000 during Team Stadium matches.",
         "1002207": "Reach a cumulative score of 7000000 during Team Stadium matches.",
-        "1002208": "Reach a cumulative score of 10000000 during Team Stadium matches."
+        "1002208": "Reach a cumulative score of 10000000 during Team Stadium matches.",
+        "612301": "Watch episode 4 of Orfevre's story.",
+        "612302": "Reach 10 million total fans for Orfevre.",
+        "612303": "Reach 50 million total fans for Orfevre.",
+        "612304": "Reach 100 million total fans for Orfevre.",
+        "612305": "Win all G1, G2, and G3 trophies with Orfevre.",
+        "1002209": "Clear all event missions.",
+        "2003801": "[Daily] Enter Legend Race 1 time",
+        "2003802": "[Daily] Enter Legend Race 2 times",
+        "2003803": "[Daily] Enter Legend Race 3 times",
+        "2003804": "[Daily] Enter Legend Race 1 time",
+        "2003805": "[Daily] Enter Legend Race 2 times",
+        "2003806": "[Daily] Enter Legend Race 3 times",
+        "2003807": "[Daily] Enter Legend Race 1 time",
+        "2003808": "[Daily] Enter Legend Race 2 times",
+        "2003809": "[Daily] Enter Legend Race 3 times",
+        "2003810": "[Daily] Enter Legend Race 1 time",
+        "2003811": "[Daily] Enter Legend Race 2 times",
+        "2003812": "[Daily] Enter Legend Race 3 times",
+        "2003813": "[Daily] Enter Legend Race 1 time",
+        "2003814": "[Daily] Enter Legend Race 2 times",
+        "2003815": "[Daily] Enter Legend Race 3 times",
+        "2003816": "[Daily] Enter Legend Race 1 time",
+        "2003817": "[Daily] Enter Legend Race 2 times",
+        "2003818": "[Daily] Enter Legend Race 3 times",
+        "2003819": "[Limited] Enter Legend Race 6 times",
+        "2003820": "[Limited] Enter Legend Race 9 times",
+        "2003821": "[Limited] Enter Legend Race 12 times",
+        "2200237": "Receive 5 Passing grades in the Trainer's Exam",
+        "2200238": "Receive 6 Passing grades in the Trainer's Exam",
+        "2200239": "Receive 7 Passing grades in the Trainer's Exam",
+        "2200240": "Receive 5 Good grades in the Trainer's Exam",
+        "2200241": "Receive 6 Good grades in the Trainer's Exam",
+        "2200242": "Receive 7 Good grades in the Trainer's Exam",
+        "2200243": "Receive 5 Excellent grades in the Trainer's Exam",
+        "2200244": "Receive 6 Excellent grades in the Trainer's Exam",
+        "2200245": "Receive 7 Excellent grades in the Trainer's Exam",
+        "2200246": "[Daily] Let's login",
+        "2200248": "[Daily] Let's login",
+        "2200250": "[Daily] Let's login",
+        "2200252": "[Daily] Let's login",
+        "2200254": "[Daily] Let's login",
+        "2200256": "[Daily] Let's login",
+        "2200258": "[Daily] Let's login",
+        "2200260": "[Daily] Let's login",
+        "2200262": "[Daily] Let's login",
+        "2200264": "[Daily] Let's login"
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -25097,7 +25238,47 @@
         "9238": "Buena Vista Secret #1",
         "9239": "Dream Journey Secret #1",
         "9240": "Calstone Light O Secret #1",
-        "9241": "Durandal Secret #1"
+        "9241": "Durandal Secret #1",
+        "168": "Daring Tact #1",
+        "169": "Fusaichi Pandora #1",
+        "170": "Bubble Gum Fellow #1",
+        "171": "Fenomeno #1",
+        "172": "Blast Onepiece #1",
+        "173": "Almond Eye #1",
+        "174": "Lucky Lilac #1",
+        "175": "Gran Alegria #1",
+        "176": "Loves Only You #1",
+        "177": "Chrono Genesis #1",
+        "178": "Curren Bouquetd'or #1",
+        "179": "Sonon Elfie #1",
+        "180": "Ryoka Tsurugi #1",
+        "181": "Sugar Lights #1",
+        "9242": "Furioso Secret #2",
+        "9243": "Transcend Secret #2",
+        "9244": "Espoir City Secret #2",
+        "9245": "Dantsu Flame Secret #2",
+        "9246": "Believe Secret #2",
+        "9247": "No Reason Secret #2",
+        "9248": "Still in Love Secret #2",
+        "9249": "Buena Vista Secret #2",
+        "9250": "Dream Journey Secret #2",
+        "9251": "Calstone Light O Secret #2",
+        "9252": "Durandal Secret #2",
+        "9253": "Fusaichi Pandora Secret #1",
+        "9254": "Bubble Gum Fellow Secret #1",
+        "9255": "Blast Onepiece Secret #1",
+        "9256": "Almond Eye Secret #1",
+        "9257": "Fenomeno Secret #1",
+        "9258": "Gran Alegria Secret #1",
+        "9259": "Loves Only You Secret #1",
+        "9260": "Chrono Genesis Secret #1",
+        "9261": "Curren Bouquetd'or Secret #1",
+        "9262": "Daring Tact Secret #1",
+        "9263": "Lucky Lilac Secret #1",
+        "9264": "Saint Lite Secret #1",
+        "9265": "Speed Symboli Secret #1",
+        "9266": "Haiseiko Secret #1",
+        "9267": "Sugar Lights Secret #1"
     },
     "69": {
         "1": "Big City Baptism?",
@@ -26031,7 +26212,15 @@
         "30237": "[Cutest in Ur ♡] Curren Chan",
         "30238": "[Even an Iron Maiden can Smile] Ikuno Dictus",
         "30239": "[This last one is special, okay?] Nice Nature",
-        "30240": "[I am the Strongest!!] Jungle Pocket"
+        "30240": "[I am the Strongest!!] Jungle Pocket",
+        "10122": "[Tracen Academy] Almond Eye",
+        "10123": "[Tracen Academy] Lucky Lilac",
+        "10124": "[Tracen Academy] Gran Alegria",
+        "20084": "[When Happiness Blooms] Lucky Lilac",
+        "20085": "[Whispers of Melon] Mejiro McQueen",
+        "30241": "[Guiding Light] Embodiment of Legends",
+        "30242": "[World-Changing Gaze] Almond Eye",
+        "30243": "[NEW TALES AWAIT] Gran Alegria"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -26468,7 +26657,15 @@
         "30237": "[Cutest in Ur ♡]",
         "30238": "[Even an Iron Maiden can Smile]",
         "30239": "[This last one is special, okay?]",
-        "30240": "[I am the Strongest!!]"
+        "30240": "[I am the Strongest!!]",
+        "10122": "[Tracen Academy]",
+        "10123": "[Tracen Academy]",
+        "10124": "[Tracen Academy]",
+        "20084": "[When Happiness Blooms]",
+        "20085": "[Whispers of Melon]",
+        "30241": "[Guiding Light]",
+        "30242": "[World-Changing Gaze]",
+        "30243": "[NEW TALES AWAIT]"
     },
     "77": {
         "10001": "Special Week",
@@ -26905,7 +27102,15 @@
         "30237": "Curren Chan",
         "30238": "Ikuno Dictus",
         "30239": "Nice Nature",
-        "30240": "Jungle Pocket"
+        "30240": "Jungle Pocket",
+        "10122": "Almond Eye",
+        "10123": "Lucky Lilac",
+        "10124": "Gran Alegria",
+        "20084": "Lucky Lilac",
+        "20085": "Mejiro McQueen",
+        "30241": "Embodiment of Legends",
+        "30242": "Almond Eye",
+        "30243": "Gran Alegria"
     },
     "78": {
         "10001": "Special Week",
@@ -27342,7 +27547,15 @@
         "30237": "Curren Chan",
         "30238": "Ikuno Dictus",
         "30239": "Nice Nature",
-        "30240": "Jungle Pocket"
+        "30240": "Jungle Pocket",
+        "10122": "Almond Eye",
+        "10123": "Lucky Lilac",
+        "10124": "Gran Alegria",
+        "20084": "Lucky Lilac",
+        "20085": "Mejiro McQueen",
+        "30241": "Embodiment of Legends",
+        "30242": "Almond Eye",
+        "30243": "Gran Alegria"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
@@ -28495,7 +28708,8 @@
         "107901": "Furioso Piece",
         "107802": "Yamanin Zephyr Piece",
         "108702": "Aston Machan Piece",
-        "107301": "Tsurumaru Tsuyoshi Piece"
+        "107301": "Tsurumaru Tsuyoshi Piece",
+        "111501": "Orfevre Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -28697,7 +28911,8 @@
         "107901": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "107802": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "108702": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "107301": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "107301": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "111501": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -28708,7 +28923,8 @@
         "6": "Reach for the stars\\nProject L'Arc",
         "7": "U.A.F. Ready GO!\\n-Sparkling Athletes-",
         "8": "Harvesting! Feasting!\\nGreat Food Festival",
-        "9": "Run! Mecha Umamusume\\n-Invention of Dreams-"
+        "9": "Run! Mecha Umamusume\\n-Invention of Dreams-",
+        "10": "The Twinkle Legends"
     },
     "120": {
         "1": "With an outrageous declaration, young academy chairwoman Akikawa establishes a new race named the <color=#FF6D26>URA Finals</color>! Trainers and Umamusume work hand in hand to become its maiden champion!",
@@ -29760,7 +29976,13 @@
         "1111": "Steadfast in achieving her mother's wish that she carries with her.",
         "1117": "A strong willed Umamusume who never gives up, no matter how many times she loses!",
         "1128": "A friendly Umamusume with a great fondness for humans.",
-        "1079": "A calm transfer student from the countryside, with unwavering love of Funabashi."
+        "1079": "A calm transfer student from the countryside, with unwavering love of Funabashi.",
+        "1129": "Hates losing with a passion! The ultimate challenger.",
+        "1130": "The flower that survives the long winter will surely bloom magnificently.",
+        "1131": "With a s-mile, anything is possible! The strongest Mile Umamusume.",
+        "9046": "Through perseverance she became the first Triple Crown Umamusume.",
+        "9047": "A legendary pioneer, laying the road to the rest of the world.",
+        "9048": "A national star☆ An idol gathering massive attention♪"
     },
     "147": {
         "101": "Speed",
@@ -31577,7 +31799,10 @@
         "10780203": "Breezy Treat",
         "10870201": "Fluffy Fuzzy Hour",
         "10870202": "Fluffy Fuzzy Hour",
-        "10870203": "Fluffy Fuzzy Hour"
+        "10870203": "Fluffy Fuzzy Hour",
+        "10730101": "Flames of Unyielding Resolve",
+        "10730102": "Flames of Unyielding Resolve",
+        "10730103": "Flames of Unyielding Resolve"
     },
     "148": {
         "1": "Ace Bonus",
@@ -32163,7 +32388,11 @@
         "30232": "Power bonus when Bond over 80",
         "30235": "Speed and Skill Pt bonus \\nwhen Bond over 80",
         "30238": "Speed bonus when Bond over 80",
-        "30239": "Training bonus when Bond over 80"
+        "30239": "Training bonus when Bond over 80",
+        "20084": "Training bonus and initial \\nWisdom increase",
+        "30241": "Bonus to all stats and Skill Pt \\nwhen Bond at 100",
+        "30242": "Power and Skill Pt bonus \\nwhen Bond over 80",
+        "30243": "Power bonus when Bond over 80"
     },
     "157": {
         "1001": "May 2",
@@ -32291,7 +32520,13 @@
         "1111": "February 4",
         "1117": "April 10",
         "1128": "April 2",
-        "1079": "May 1"
+        "1079": "May 1",
+        "1129": "March 10",
+        "1130": "April 3",
+        "1131": "January 24",
+        "9046": "April 2",
+        "9047": "May 3",
+        "9048": "March 6"
     },
     "159": {
         "1001": "Betweener",
@@ -32468,7 +32703,10 @@
         "1111": "Middle School",
         "1117": "High School",
         "1128": "Middle School",
-        "1079": "High School"
+        "1079": "High School",
+        "1129": "Middle School",
+        "1130": "Middle School",
+        "1131": "Middle School"
     },
     "163": {
         "1044": "Sweep Tosho is my pre-transformation name! I am Sweepy the Magical Girl! Now this is sorcery! Aaah!! (Bonk)",
@@ -32598,7 +32836,13 @@
         "1111": "Air Messiah. I want to be strong and graceful, like my mother was. I will prove the greatness and value of the future.",
         "1117": "I'm Win Variation. My only goal is to become the leader... the Principal! No matter how tough my opponents may be, I refuse to give up!",
         "1128": "It's me, Blast Onepiece! Humans are so friendly to me. I love them super duper much! I wanna get closer to them and get to know them even better!",
-        "1079": "I'm Furioso. No, I don't come from Chuo. I made a special transfer from Funabashi and I'm not afraid to show you what we're made of."
+        "1079": "I'm Furioso. No, I don't come from Chuo. I made a special transfer from Funabashi and I'm not afraid to show you what we're made of.",
+        "1129": "I'm Almond Eye. I will win, even if my opponent's a legend. That's what I believe in!",
+        "1130": "My name's Lucky Lilac, nice to meetcha. I'll overcome any and all trials to become the star of the turf.",
+        "1131": "Gran Alegria here! From 0.75 miles to 1.25 miles nothing can stop this here future Queen of Mile!",
+        "9046": "I am Saint Light. As the first Umamusume to receive the Three Garlands, I shall entrust you with my knowledge and blessing.",
+        "9047": "I'm Speed Symboli. I happen to know the endless possibilities that hide within you. Come, and we'll turn the world upside-down!",
+        "9048": "Hi there! I'm Haiseiko! Give this predecessor, this \"cutesy monster\" a little taste of your heart~! *Chomp♪*"
     },
     "164": {
         "1027": "Exercise",
@@ -32708,7 +32952,8 @@
         "1111": "Clearing every single line off the chalkboard",
         "1117": "Splitting watermelons, calisthenics",
         "1079": "Giving tours of Funabashi (she made her own map)",
-        "1073": "Inventing her own smoothies"
+        "1073": "Inventing her own smoothies",
+        "1115": "Everything the world has to offer, doing as she pleases"
     },
     "165": {
         "1029": "Heat",
@@ -32818,7 +33063,8 @@
         "1111": "Winking on command",
         "1117": "Contemporary dance, walking the catwalk",
         "1079": "Jellyfish",
-        "1073": "The smell of compresses, low air pressure, being sick in bed"
+        "1073": "The smell of compresses, low air pressure, being sick in bed",
+        "1115": "Humidity"
     },
     "166": {
         "1029": "Owns many adorable earmuffs.",
@@ -32928,7 +33174,8 @@
         "1111": "They flop down when she relaxes.",
         "1117": "They respond to classical music.",
         "1079": "They become active when she hears the sound of the waves or the salty sea breeze.",
-        "1073": "They twitch happily when others ask her for help."
+        "1073": "They twitch happily when others ask her for help.",
+        "1115": "Her ear accessory is made by her father."
     },
     "167": {
         "1029": "Currently trying out low-price care products.",
@@ -33038,7 +33285,8 @@
         "1111": "She's got her tail hair from her mother's side.",
         "1117": "She doesn't hate having it be touched, but it makes her feel a little uneasy.",
         "1079": "When she finds herself moved by her feelings, she reprimands herself by slapping it against her legs.",
-        "1073": "If she doesn't dry it quickly after washing, she'll catch a cold."
+        "1073": "If she doesn't dry it quickly after washing, she'll catch a cold.",
+        "1115": "Meticulously cared for by her older sister."
     },
     "168": {
         "1001": "Left: 23.5cm \\nRight: 23.0cm",
@@ -33148,7 +33396,8 @@
         "1111": "Left: 24.0cm\\nRight: 24.5cm",
         "1117": "Both: 23.5cm",
         "1079": "Left: 24.5cm \\nRight: 24.0cm",
-        "1073": "Both: 22.5cm"
+        "1073": "Both: 22.5cm",
+        "1115": "Both: 25.0cm"
     },
     "169": {
         "1029": "Reliefed their daughter retains her dialect after going to the city",
@@ -33258,7 +33507,8 @@
         "1111": "They all write in their own diaries.",
         "1117": "Her mother taught her nail care.",
         "1079": "Their staple on birthdays is a tart with Asian pears.",
-        "1073": "They often send her fruits."
+        "1073": "They often send her fruits.",
+        "1115": "She inherited her artistic sense from her parents."
     },
     "170": {
         "1001": "Special Week",
@@ -33403,7 +33653,17 @@
         "1124": "Bubble Gum Fellow",
         "2008": "ST-2",
         "9045": "Sugar Lights",
-        "1128": "Blast Onepiece"
+        "1128": "Blast Onepiece",
+        "1127": "Fenomeno",
+        "1129": "Almond Eye",
+        "1130": "Lucky Lilac",
+        "1131": "Gran Alegria",
+        "1132": "Loves Only You",
+        "1133": "Chrono Genesis",
+        "1134": "Curren Bouquetd'or",
+        "9046": "Saint Lite",
+        "9047": "Speed Symboli",
+        "9048": "Haiseiko"
     },
     "171": {
         "12": "Login Bonus",
@@ -35255,9 +35515,93 @@
         "10870201": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Fluffy Fuzzy Hour] skill hint.",
         "10870202": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Fluffy Fuzzy Hour] skill hint.",
         "10870203": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Fluffy Fuzzy Hour] skill hint.",
-        "10730101": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint.",
-        "10730102": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint.",
-        "10730103": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint."
+        "10730101": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
+        "10730102": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
+        "10730103": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
+        "2035001": "Obtain [比類なき] skill hint.",
+        "2035002": "Obtain [比類なき] skill hint.",
+        "2035003": "Obtain [比類なき] skill hint.",
+        "2035101": "Obtain [覇気十分] skill hint.",
+        "2035102": "Obtain [覇気十分] skill hint.",
+        "2035103": "Obtain [覇気十分] skill hint.",
+        "2035201": "Obtain [垣間見た光] skill hint.",
+        "2035202": "Obtain [垣間見た光] skill hint.",
+        "2035203": "Obtain [垣間見た光] skill hint.",
+        "2035301": "Obtain [登竜門] skill hint.",
+        "2035302": "Obtain [登竜門] skill hint.",
+        "2035303": "Obtain [登竜門] skill hint.",
+        "2103501": "Obtain [時代を変える者] skill hint.",
+        "2103502": "Obtain [時代を変える者] skill hint.",
+        "2103503": "Obtain [時代を変える者] skill hint.",
+        "3102601": "Increases Power and Guts.",
+        "3102602": "Increases Power and Guts.",
+        "3102603": "Increases Power and Guts.",
+        "5000101": "Increases Turf Aptitude.",
+        "5000102": "Increases Turf Aptitude.",
+        "5000103": "Increases Turf Aptitude.",
+        "5000201": "Increases Dirt Aptitude.",
+        "5000202": "Increases Dirt Aptitude.",
+        "5000203": "Increases Dirt Aptitude.",
+        "5000301": "Increases Short Aptitude.",
+        "5000302": "Increases Short Aptitude.",
+        "5000303": "Increases Short Aptitude.",
+        "5000401": "Increases Mile Aptitude.",
+        "5000402": "Increases Mile Aptitude.",
+        "5000403": "Increases Mile Aptitude.",
+        "5000501": "Increases Medium Aptitude.",
+        "5000502": "Increases Medium Aptitude.",
+        "5000503": "Increases Medium Aptitude.",
+        "5000601": "Increases Long Aptitude.",
+        "5000602": "Increases Long Aptitude.",
+        "5000603": "Increases Long Aptitude.",
+        "5000701": "Increases Runner Aptitude.",
+        "5000702": "Increases Runner Aptitude.",
+        "5000703": "Increases Runner Aptitude.",
+        "5000801": "Increases Leader Aptitude.",
+        "5000802": "Increases Leader Aptitude.",
+        "5000803": "Increases Leader Aptitude.",
+        "5000901": "Increases Betweener Aptitude.",
+        "5000902": "Increases Betweener Aptitude.",
+        "5000903": "Increases Betweener Aptitude.",
+        "5001001": "Increases Chaser Aptitude.",
+        "5001002": "Increases Chaser Aptitude.",
+        "5001003": "Increases Chaser Aptitude.",
+        "5001101": "Increases Speed.",
+        "5001102": "Increases Speed.",
+        "5001103": "Increases Speed.",
+        "5001201": "Increases Stamina.",
+        "5001202": "Increases Stamina.",
+        "5001203": "Increases Stamina.",
+        "5001301": "Increases Power.",
+        "5001302": "Increases Power.",
+        "5001303": "Increases Power.",
+        "5001401": "Increases Guts.",
+        "5001402": "Increases Guts.",
+        "5001403": "Increases Guts.",
+        "5001501": "Increases Wit.",
+        "5001502": "Increases Wit.",
+        "5001503": "Increases Wit.",
+        "5001601": "Obtain [Right Turns ○] skill hint.",
+        "5001602": "Obtain [Right Turns ○] skill hint.",
+        "5001603": "Obtain [Right Turns ○] skill hint.",
+        "5001701": "Obtain [Left Turns ○] skill hint.",
+        "5001702": "Obtain [Left Turns ○] skill hint.",
+        "5001703": "Obtain [Left Turns ○] skill hint.",
+        "5001801": "Obtain [Spring Girl ○] skill hint.",
+        "5001802": "Obtain [Spring Girl ○] skill hint.",
+        "5001803": "Obtain [Spring Girl ○] skill hint.",
+        "5001901": "Obtain [Summer Girl ○] skill hint.",
+        "5001902": "Obtain [Summer Girl ○] skill hint.",
+        "5001903": "Obtain [Summer Girl ○] skill hint.",
+        "5002001": "Obtain [Autumn Girl ○] skill hint.",
+        "5002002": "Obtain [Autumn Girl ○] skill hint.",
+        "5002003": "Obtain [Autumn Girl ○] skill hint.",
+        "5002101": "Obtain [Winter Girl ○] skill hint.",
+        "5002102": "Obtain [Winter Girl ○] skill hint.",
+        "5002103": "Obtain [Winter Girl ○] skill hint.",
+        "11150101": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint.",
+        "11150102": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint.",
+        "11150103": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -35427,7 +35771,8 @@
         "501111900": "About",
         "501117900": "About",
         "501079900": "About",
-        "501073900": "About"
+        "501073900": "About",
+        "501115900": "About"
     },
     "182": {
         "1001": "Special Week",
@@ -35572,7 +35917,17 @@
         "1124": "Bubble Gum Fellow",
         "2008": "ST-2",
         "9045": "Sugar Lights",
-        "1128": "Blast Onepiece"
+        "1128": "Blast Onepiece",
+        "1127": "Fenomeno",
+        "1129": "Almond Eye",
+        "1130": "Lucky Lilac",
+        "1131": "Gran Alegria",
+        "1132": "Loves Only You",
+        "1133": "Chrono Genesis",
+        "1134": "Curren Bouquetd'or",
+        "9046": "Saint Lite",
+        "9047": "Speed Symboli",
+        "9048": "Haiseiko"
     },
     "186": {
         "1": "Raise the lvl of your support cards \\nto get a support bonus!",
@@ -38308,7 +38663,8 @@
         "64": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
         "65": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
         "66": "Will help with training as the scenario progresses",
-        "45": "Some events in the main scenario change. \\nWill become a L'Arc member through special \\nevents even if not in your support cards."
+        "45": "Some events in the main scenario change. \\nWill become a L'Arc member through special \\nevents even if not in your support cards.",
+        "77": "Will help with training as the scenario progresses"
     },
     "199": {
         "21": "Will improve some events",
@@ -38335,7 +38691,13 @@
         "62": "Will improve some events",
         "63": "Will improve some events",
         "64": "Will improve some events",
-        "65": "Will improve some events"
+        "65": "Will improve some events",
+        "44": "Will improve some events",
+        "72": "Will improve some events",
+        "73": "Will improve some events",
+        "74": "Will improve some events",
+        "75": "Will improve some events",
+        "76": "Will improve some events"
     },
     "200": {
         "11": "Will improve some events",
@@ -38365,7 +38727,13 @@
         "64": "Will improve some events",
         "65": "Will improve some events",
         "66": "Will improve some events",
-        "45": "Will improve some events"
+        "45": "Will improve some events",
+        "72": "Will improve some events",
+        "73": "Will improve some events",
+        "74": "Will improve some events",
+        "75": "Will improve some events",
+        "76": "Will improve some events",
+        "77": "Will improve some events"
     },
     "206": {
         "1": "Taurus Cup",
@@ -41919,7 +42287,23 @@
         "10730102": "Learn 2 Leader skills",
         "10730103": "Reach ≥800 Power",
         "10730105": "Learn 2 Medium Distance skills",
-        "10730106": "Reach ≥600 Guts"
+        "10730106": "Reach ≥600 Guts",
+        "10290206": "Learn 2 Acceleration-increasing skills",
+        "10290207": "Learn 2 Mile skills",
+        "10290208": "Reach ≥800 Speed",
+        "10510209": "Go on an outing with your Umamusume",
+        "10510210": "Go on an outing with a friend or group card",
+        "10510211": "Gain 150000 fans",
+        "11150102": "Reach ≥800 Speed",
+        "11150103": "Learn 2 Chaser skills",
+        "11150104": "Learn 4 Medium Distance skills",
+        "11150105": "Learn 5 Speed-increasing skills",
+        "11150107": "Reach ≥600 Stamina",
+        "11150108": "Finish training with the Sharp condition",
+        "11150109": "Reach ≥800 Power",
+        "41001101": "Gain 150000 fans",
+        "41002101": "Gain 150000 fans",
+        "41003101": "Gain 150000 fans"
     },
     "293": {
         "1": "Training effect",
