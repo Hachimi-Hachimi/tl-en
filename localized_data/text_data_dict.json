@@ -43285,7 +43285,7 @@
         "37": "Receive {0}.",
         "38": "{0} <color=#2E85E6>-{1}</color>\\\\n{0} will not decrease due to {2}",
         "39": "{0} <color=#FF6D26>+{1}</color>\\\\n{0} will not increase due to {2}",
-        "40": "Receive {0}.\\\\nWill not receive {0} due to {1].",
+        "40": "Receive {0}.\\\\nWill not receive {0} due to {1}.",
         "44": "Bond gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\\\\nFriend and group types excluded."
     }
 }
